@@ -1,9 +1,5 @@
 @@,person,name,country,countrylabel,position
-->,Q55955802,Maria Ubach->Maria Ubach i Font,Q228,Andorra,Q4294893
-->,Q20172097,Paul Chet Greene->E.P. Chet Greene,Q781,Antigua and Barbuda,Q19901415
-->,Q26923392,Abul Kalam Abdul Momen->Abulkalam Abdul Momen,Q902,Bangladesh,Q1153140
 +++,,Eamon Courtenay,Q242,Belize,
-->,Q106271551,Carlos Alberto Franco França->Carlos Alberto França,Q155,Brazil,Q18176431
 +++,Q57327,Hassanal Bolkiah,Q921,Brunei,
 +++,Q734492,Pascal Smet,Q240,Brussels-Capital Region,
 ->,Q56122078,Nikolay Milkov->Teodora Genchovska,Q219,Bulgaria,Q15916856
@@ -14,10 +10,8 @@
 +++,Q6766871,Mark Brown,Q26988,Cook Islands,
 +++,Q102077694,Rodolfo Solano,Q800,Costa Rica,
 ->,Q5111780,Christophe Lutundula,Q974,"Democratic Republic of the Congo->Congo, Democratic Republic of the",Q6866142
-->,Q56651232,Nataliya Nikonorova->Natalya Nikonorova,Q16150196,Donetsk People's Republic,Q111597818
 ->,Q348268,Adaljíza Magno,Q574,East Timor->Timor-Leste,Q109733888
 ->,Q23001051,Guillaume Long->Juan Carlos Holguín,Q736,Ecuador,Q24293533
-->,Q645970->Q62975823,Urmas Reinsalu->Andres Sutt,Q191,Estonia,Q1760777
 +++,Q1865725,Jan Jambon,Q234,Flanders,
 +++,Q1106890,Édouard Fritch,Q30971,French Polynesia,
 +++,,Vitaliy Vlah,Q164819,Gagauzia,
@@ -28,7 +22,6 @@
 ->,Q4681978->Q43396447,Adelino Mano Quetá->Suzi Barbosa,Q1007,Guinea-Bissau,Q18204373
 +++,Q99522589,Hugh Todd,Q734,Guyana,
 ->,Q106496152,Claude Joseph->Jean Victor Généus,Q790,Haiti,Q3251913
-->,Q110786692->Q106453465,Carlos Eduardo Reina,Q783,Honduras,Q110786693
 ->,Q2838739->Q3192595,Ally Coulibaly->Kandia Camara,Q1008,Ivory Coast,Q16766111
 +++,Q23034482,Taneti Mamau,Q710,Kiribati,
 ->,Q16195708,Falah Mustafa Bakir->Safeen Muhsin Dizayee,Q205047,Kurdistan Region->Kurdistan,Q113470571
@@ -44,7 +37,6 @@
 +++,,Gustav Aitaro,Q695,Palau,
 ->,Q17318820->Q64747295,Rimbink Pato->Soroi Eoe,Q691,Papua New Guinea,Q24188607
 ->,Q701801,Wang Yi,Q148,People's Republic of China->China,Q2664362
-->,Q110659991,Omar J. Marrero->Omar Marrero Díaz,Q1183,Puerto Rico,Q6123144
 ->,Q18043980,Inal Ardzinba,Q31354462->Q23334,Republic of Abkhazia->Abkhazia,Q4294395
 ->,Q21531891,David Babayan,Q244165,Republic of Artsakh->Artsakh,Q19901421
 ->,Q1670096,Simon Coveney,Q27,Republic of Ireland->Ireland,Q6865853
@@ -52,7 +44,6 @@
 ->,Q58217,Sergey Lavrov,Q159,Russia->Russian Federation,Q1418873
 +++,Q57800,Ralph Gonsalves,Q757,Saint Vincent and the Grenadines,
 +++,Q5446290,Fiamē Naomi Mataʻafa,Q683,Samoa,
-->,Q15542603,Aissata Tall Sall->Aïssata Tall Sall,Q1041,Senegal,Q5468295
 ->,Q107722495,Mohamed Abdirizak Mohamud->Abshir Omar Huruuse,Q1045,Somalia,Q98685961
 ->,Q108477781,Essa Kayd,Q34754,Somaliland->Somaliland (Republic of Somaliland),Q104869321
 +++,Q2639773,Albrecht Freiherr von Boeselager,Q190353,Sovereign Military Order of Malta,
@@ -67,7 +58,6 @@
 ->,NULL->Q6081184,NULL->Hasan Taçoy,Q23681,Turkish Republic of Northern Cyprus->Northern Cyprus,Q108730544
 ->,Q7821917,Antony Blinken,Q30,United States of America->United States,Q14213
 ->,Q365665->Q317484,Vladimir Norov->Abdulaziz Kamilov,Q265,Uzbekistan,Q76419028
-->,Q109923917,Marc Ati->Mark Ati,Q686,Vanuatu,Q109923918
 ->,Q2059716,Archbishop Paul Gallagher,Q237->Q159583,Vatican City->Holy See,Q2608295
 ->,Q30505969,Samuel Moncada->Félix Plasencia,Q717,Venezuela,Q113470515
 +++,Q15048,Elio Di Rupo,Q231,Wallonia,
