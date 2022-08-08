@@ -1,8 +1,7 @@
-@@,person,personlabel,country,countrylabel,position
+@@,person,name,country,countrylabel,position
 ->,Q55955802,Maria Ubach->Maria Ubach i Font,Q228,Andorra,Q4294893
 ->,Q20172097,Paul Chet Greene->E.P. Chet Greene,Q781,Antigua and Barbuda,Q19901415
 ->,Q26923392,Abul Kalam Abdul Momen->Abulkalam Abdul Momen,Q902,Bangladesh,Q1153140
-->,Q107718239->Q55123980,Jerome X. Walcott->Jerome Walcott,Q244,Barbados,Q107718240
 +++,,Eamon Courtenay,Q242,Belize,
 ->,Q106271551,Carlos Alberto Franco França->Carlos Alberto França,Q155,Brazil,Q18176431
 +++,Q57327,Hassanal Bolkiah,Q921,Brunei,
@@ -11,16 +10,13 @@
 ->,Q21979800,Rosine Sori-Coulibaly->Olivia Rouamba,Q965,Burkina Faso,Q18204360
 +++,,Paula Fernández Viaña,Q3946,Cantabria,
 +++,Q7378692,Rui Alberto de Figueiredo Soares,Q1011,Cape Verde,
-->,Q63435726,Victòria Alsina i Burgués->Victòria Alsina,Q5705,Catalonia,Q107290054
 +++,,Dhoihir Dhoulkamal,Q970,Comoros,
 +++,Q6766871,Mark Brown,Q26988,Cook Islands,
 +++,Q102077694,Rodolfo Solano,Q800,Costa Rica,
 ->,Q5111780,Christophe Lutundula,Q974,"Democratic Republic of the Congo->Congo, Democratic Republic of the",Q6866142
-+++,,Kenneth Darroux,Q784,Dominica,
 ->,Q56651232,Nataliya Nikonorova->Natalya Nikonorova,Q16150196,Donetsk People's Republic,Q111597818
 ->,Q348268,Adaljíza Magno,Q574,East Timor->Timor-Leste,Q109733888
 ->,Q23001051,Guillaume Long->Juan Carlos Holguín,Q736,Ecuador,Q24293533
-->,Q55098190,Simeón Oyono Esono->Simeón Oyono Esono Angüe,Q983,Equatorial Guinea,Q111021196
 ->,Q645970->Q62975823,Urmas Reinsalu->Andres Sutt,Q191,Estonia,Q1760777
 +++,Q1865725,Jan Jambon,Q234,Flanders,
 +++,Q1106890,Édouard Fritch,Q30971,French Polynesia,
@@ -29,69 +25,49 @@
 +++,,Joseph Andall,Q769,Grenada,
 +++,Q110684398,Mario Búcaro,Q774,Guatemala,
 +++,Q923245,Jonathan Le Tocq,Q3311985,Guernsey,
-->,Q109252098,Mory Sandan Kouyaté->Morissanda Kouyaté,Q1006,Guinea,Q109255195
 ->,Q4681978->Q43396447,Adelino Mano Quetá->Suzi Barbosa,Q1007,Guinea-Bissau,Q18204373
 +++,Q99522589,Hugh Todd,Q734,Guyana,
 ->,Q106496152,Claude Joseph->Jean Victor Généus,Q790,Haiti,Q3251913
-->,Q110786692->Q106453465,Eduardo Enrique Reina->Carlos Eduardo Reina,Q783,Honduras,Q110786693
-->,Q16186720,Subrahmanyam Jaishankar->S. Jaishankar,Q668,India,Q313465
-->,Q17991320,Hossein Amirabdollahian->Hossein Amir-Abdollahian,Q794,Iran,Q127710
+->,Q110786692->Q106453465,Carlos Eduardo Reina,Q783,Honduras,Q110786693
 ->,Q2838739->Q3192595,Ally Coulibaly->Kandia Camara,Q1008,Ivory Coast,Q16766111
-->,Q3379061,Philip Ozouf Jr.->Philip Ozouf,Q785,Jersey,Q107614351
-->,Q28336737,Ayman al-Ṣafadī->Ayman Safadi,Q810,Jordan,Q20716373
 +++,Q23034482,Taneti Mamau,Q710,Kiribati,
 ->,Q16195708,Falah Mustafa Bakir->Safeen Muhsin Dizayee,Q205047,Kurdistan Region->Kurdistan,Q113470571
-->,Q12179124,Ahmad Nasser al-Mohammed al-Sabah->Ahmad Nasser Al Muhammad Al Sabah,Q817,Kuwait,Q110525652
 +++,Q25999464,Saleumxay Kommasith,Q819,Laos,
-->,Q95587340,’Matšepo Ramakoae->'Matšepo Ramakoae,Q1013,Lesotho,Q99518198
-->,Q110515353,"Dee-Maxwell Saah Kemaya Sr.->Dee-Maxwell Saah Kemayah, Sr.",Q1014,Liberia,Q6866161
 +++,,Hafez Kaddour,Q1016,Libya,
-->,Q28799078,Vladislav Daynego->Vladislav Deinevo,Q16746854,Luhansk People's Republic->Lugansk People's Republic,Q110994655
+->,Q28799078,Vladislav Deinevo,Q16746854,Luhansk People's Republic->Lugansk People's Republic,Q110994655
 +++,,Richard Randriamandrato,Q1019,Madagascar,
 ->,Q775684->Q2821367,Tiébilé Dramé->Abdoulaye Diop,Q912,Mali,Q2101065
 +++,Q66765492,Lionel Aingimea,Q697,Nauru,
-->,Q13181537,Narayan Khadka->Dr. Narayan Khadka,Q837,Nepal,Q109747497
 +++,Q78223158,Louis Mapou,Q33788,New Caledonia,
 ->,Q58262->Q28381212,Samuel Santos López->Denis Moncada,Q811,Nicaragua,Q18345278
 +++,Q19876617,Dalton Tagelagi,Q34020,Niue,
-->,Q98456849,Sayyid Badr bin Hamad bin Hamood AlBusaidi->Badr bin Hamad bin Hamood Al Busaidi,Q842,Oman,Q108730677
 +++,,Gustav Aitaro,Q695,Palau,
-->,Q105724712,Erika Mouynes->Érika Mouynes,Q804,Panama,Q64482042
 ->,Q17318820->Q64747295,Rimbink Pato->Soroi Eoe,Q691,Papua New Guinea,Q24188607
 ->,Q701801,Wang Yi,Q148,People's Republic of China->China,Q2664362
-->,Q113456053,Miguel Rodríguez Mackay->Miguel Ángel Rodríguez Mackay,Q419,Peru,Q2882089
 ->,Q110659991,Omar J. Marrero->Omar Marrero Díaz,Q1183,Puerto Rico,Q6123144
-->,Q23020336,Mohammed bin Abdulrahman Al Thani->Sheikh Mohammed bin Abdulrahman Al Thani,Q846,Qatar,Q108861056
 ->,Q18043980,Inal Ardzinba,Q31354462->Q23334,Republic of Abkhazia->Abkhazia,Q4294395
 ->,Q21531891,David Babayan,Q244165,Republic of Artsakh->Artsakh,Q19901421
 ->,Q1670096,Simon Coveney,Q27,Republic of Ireland->Ireland,Q6865853
 ->,Q15046890,Jean-Claude Gakosso,Q971,"Republic of the Congo->Congo, Republic of the",Q18204385
 ->,Q58217,Sergey Lavrov,Q159,Russia->Russian Federation,Q1418873
-->,Q26794363,Mohamed Ould Salek->Mohamed Salem Ould Salek,Q40362,Sahrawi Arab Democratic Republic,Q19901422
-->,Q110287768,"Vincent F. Byron, Jr->Vincent Byron",Q763,Saint Kitts and Nevis,Q108804837
 +++,Q57800,Ralph Gonsalves,Q757,Saint Vincent and the Grenadines,
 +++,Q5446290,Fiamē Naomi Mataʻafa,Q683,Samoa,
-->,Q72099398,Faisal bin Farhan Al Saud->Prince Faisal bin Farhan Al Saud,Q851,Saudi Arabia,Q22689140
 ->,Q15542603,Aissata Tall Sall->Aïssata Tall Sall,Q1041,Senegal,Q5468295
 ->,Q107722495,Mohamed Abdirizak Mohamud->Abshir Omar Huruuse,Q1045,Somalia,Q98685961
 ->,Q108477781,Essa Kayd,Q34754,Somaliland->Somaliland (Republic of Somaliland),Q104869321
 +++,Q2639773,Albrecht Freiherr von Boeselager,Q190353,Sovereign Military Order of Malta,
-->,Q64595113,José Manuel Albares Bueno->José Manuel Albares,Q29,Spain,Q54877757
 ->,Q2895694,Riyad al-Maliki,Q219060,State of Palestine->Palestine,Q113470524
 ->,Q92098489,Mariam Sadiq al-Mahdi->Ali Sadiq Ali,Q1049,Sudan,Q109984815
 +++,Q117254,Ignazio Cassis,Q39,Switzerland,
-->,Q99510744,Edite Ten Jua->Edite Ten Juá,Q1039,São Tomé and Príncipe,Q976210
 ->,Q6288088,Joseph Wu,Q865,Taiwan->Republic of China,Q2482650
 ->,Q3086904,Fred Mitchell,Q778,The Bahamas->Bahamas,Q6866141
 ->,Q1888110,Mamadou Tangara,Q1005,"The Gambia->Gambia, The",Q1407477
 +++,,Norzin Dolma,Q17252,Tibet,
 +++,Q6393930,Kelihiano Kalolo,Q36823,Tokelau,
-->,Q5441615,Fekitamoeloa 'Utoikamanu->Fekitamoeloa ʻUtoikamanu,Q678,Tonga,Q19901426
 ->,NULL->Q6081184,NULL->Hasan Taçoy,Q23681,Turkish Republic of Northern Cyprus->Northern Cyprus,Q108730544
-->,Q58301,Abdullah bin Zayed Al Nahyan->Sheikh Abdullah bin Zayed Al Nahyan,Q878,United Arab Emirates,Q110964346
 ->,Q7821917,Antony Blinken,Q30,United States of America->United States,Q14213
 ->,Q365665->Q317484,Vladimir Norov->Abdulaziz Kamilov,Q265,Uzbekistan,Q76419028
 ->,Q109923917,Marc Ati->Mark Ati,Q686,Vanuatu,Q109923918
-->,Q2059716,Paul Gallagher->Archbishop Paul Gallagher,Q237->Q159583,Vatican City->Holy See,Q2608295
+->,Q2059716,Archbishop Paul Gallagher,Q237->Q159583,Vatican City->Holy See,Q2608295
 ->,Q30505969,Samuel Moncada->Félix Plasencia,Q717,Venezuela,Q113470515
 +++,Q15048,Elio Di Rupo,Q231,Wallonia,
