@@ -2,7 +2,7 @@
 
 WIKIDATA_ITEM=person
 WIKIDATA_PSID=psid
-SCRAPED_NAME=personLabel
+SCRAPED_NAME=name
 
 wcheck=$1
 
