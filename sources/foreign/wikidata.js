@@ -12,6 +12,7 @@ module.exports = function () {
         ?person wdt:P31 wd:Q5 ; p:P39 ?ps .
         ?ps ps:P39 ?position ; pq:P580 ?start .
         MINUS { ?ps pq:P582 [] }
+        FILTER NOT EXISTS { ?ps wikibase:rank wikibase:DeprecatedRank }
       }
 
       SERVICE wikibase:label { bd:serviceParam wikibase:language "en" }
