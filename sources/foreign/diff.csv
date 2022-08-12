@@ -6,6 +6,7 @@
 ->,Q21979800,Rosine Sori-Coulibaly->Olivia Rouamba,Q965,Burkina Faso,Q18204360
 +++,,Paula Fernández Viaña,Q3946,Cantabria,
 +++,Q7378692,Rui Alberto de Figueiredo Soares,Q1011,Cape Verde,
+->,Q10395812->Q6774142,Álvaro Leyva->Marta Lucía Ramírez,Q739,Colombia,Q23653023
 +++,,Dhoihir Dhoulkamal,Q970,Comoros,
 +++,Q6766871,Mark Brown,Q26988,Cook Islands,
 +++,Q102077694,Rodolfo Solano,Q800,Costa Rica,
@@ -54,7 +55,6 @@
 +++,Q6393930,Kelihiano Kalolo,Q36823,Tokelau,
 ->,NULL->Q6081184,NULL->Hasan Taçoy,Q23681,Turkish Republic of Northern Cyprus->Northern Cyprus,Q108730544
 ->,Q7821917,Antony Blinken,Q30,United States of America->United States,Q14213
-->,Q365665->Q317484,Vladimir Norov->Abdulaziz Kamilov,Q265,Uzbekistan,Q76419028
 ->,Q2059716,Archbishop Paul Gallagher,Q237->Q159583,Vatican City->Holy See,Q2608295
 ->,Q30505969,Samuel Moncada->Félix Plasencia,Q717,Venezuela,Q113470515
 +++,Q15048,Elio Di Rupo,Q231,Wallonia,
