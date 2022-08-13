@@ -101,7 +101,6 @@ Q2821367,Abdoulaye Diop,Q912,Mali,Q2101065,Minister of Foreign Affairs,2021-06-1
 Q28225536,Kamina Johnson-Smith,Q766,Jamaica,Q24296480,Minister of Foreign Affairs and Foreign Trade,2016-03-07,Q28225536-13C2EA56-04B5-4775-96A1-819AC2F021BC
 Q28336737,Ayman Safadi,Q810,Jordan,Q20716373,Minister of Foreign Affairs (Jordan),2017-01-15,Q28336737-095852f2-338c-4fb2-831f-f63b589f524e
 Q28381212,Denis Moncada,Q811,Nicaragua,Q18345278,Minister of Foreign Affairs,2017-01-17,Q28381212-E727D3BD-5B8B-453D-A25C-0EBA51E99DC7
-Q2838739,Ally Coulibaly,Q1008,Ivory Coast,Q16766111,Ministry of Foreign Affairs of the Republic of Côte d'Ivoire,2020-03-19,Q2838739-bae71133-4788-d91c-5c7f-9d4cb449b2ca
 Q28734624,Þórdís Kolbrún R. Gylfadóttir,Q189,Iceland,Q55374777,Minister for Foreign Affairs and International Development Cooperation,2021-11-28,Q28734624-EC55A6EE-576D-421A-8081-D7127B4211BE
 Q28799078,Vladislav Deinevo,Q16746854,Luhansk People's Republic,Q110994655,Minister of Foreign Affairs of the Luhansk People's Republic,2018-12-29,Q28799078-F002F1A5-DE9D-41DC-8AA6-BB05E4A31C00
 Q28925129,Enrique Manalo,Q928,Philippines,Q17088037,Secretary of Foreign Affairs,2022-07-01,Q28925129-D36A4F4F-49B9-4B93-B02F-11B946EA1D4D
@@ -117,6 +116,7 @@ Q3125551,Hadja Lahbib,Q31,Belgium,Q1670832,Minister of Foreign Affairs in Belgiu
 Q312901,Josep Borrell,Q458,European Union,Q634291,High Representative of the Union for Foreign Affairs and Security Policy,2019-12-01,Q312901-b9a01f4a-4bef-06ff-2f50-87f6b0a63d9a
 Q3156132,Ivan Korčok,Q214,Slovakia,Q62999858,Minister of Foreign and European Affairs of the Slovak Republic,2021-04-01,Q3156132-58CA4B73-6E9A-427A-8431-A70C79B0CBC9
 Q317485,Pekka Haavisto,Q33,Finland,Q2386529,Minister for Foreign Affairs of Finland,2019-12-10,Q317485-7182eba9-4a85-3f97-d49f-74a707972cc1
+Q3192595,Kandia Camara,Q1008,Ivory Coast,Q113504776,Minister of Foreign Affairs of the Republic of Côte d'Ivoire,2021-04-06,Q3192595-66EEC9A8-6862-4291-8057-D6D852E27EF4
 Q3379061,Philip Ozouf,Q785,Jersey,Q107614351,Minister for External Relations,2022-07-12,Q3379061-A1023DEB-413A-4489-834D-1830C2A8B1B8
 Q339081,Wunna Maung Lwin,Q836,Myanmar,Q23683221,Minister of Foreign Affairs (Myanmar),2021-02-01,Q339081-566100D9-F0A2-48AD-B1BA-46CC4407A5CA
 Q348268,Adaljíza Magno,Q574,East Timor,Q109733888,Minister of Foreign Affairs and Cooperation,2020-06-24,Q348268-7B35C270-C1B5-47BC-9370-99CC0698F007
@@ -126,13 +126,13 @@ Q38220741,Ian Borg,Q233,Malta,Q25713883,Minister for Foreign Affairs,2022-03-30,
 Q40155410,Vincent Biruta,Q1037,Rwanda,Q18204390,Minister of Foreign Affairs,2019-11-04,Q40155410-b58d5638-4659-0c05-e9a6-73b444a4b957
 Q42402111,Jan Lipavský,Q213,Czech Republic,Q2501396,Minister of Foreign Affairs,2021-12-17,Q42402111-db41d362-434b-a1af-f026-b9d7c893d473
 Q4287911,Dmitry Medoyev,Q23427,South Ossetia,Q19901425,Minister of Foreign Affairs,2017-01-01,Q4287911-7fa4c2c2-4c31-89c4-2ef5-deee8782dcd8
+Q43396447,Suzi Barbosa,Q1007,Guinea-Bissau,Q18204373,Minister of Foreign Affairs,2019-07-03,Q43396447-af5b1d15-4a99-b6e7-374f-5f2761405fee
 Q45385044,Stanley Kakubo,Q953,Zambia,Q18204398,Minister of Foreign Affairs,2021-08-27,Q45385044-6B09C467-11D7-4B84-9D58-0C7491B989C5
 Q456759,Penny Wong,Q408,Australia,Q2660943,Minister for Foreign Affairs,2022-05-23,Q456759-C19FCCCF-751B-47F9-BB82-F975D9216313
 Q462744,Tanja Fajon,Q215,Slovenia,Q4294924,Minister of Foreign Affairs of Slovenia,2022-06-01,Q462744-87546145-2572-4A19-A51E-17B03AE77226
 Q46511044,Gordan Grlić-Radman,Q224,Croatia,Q22979107,Minister of Foreign and European Affairs,2019-07-22,Q46511044-1DBAD56C-07DF-458D-BCF0-2A802D05947E
 Q4665893,Abdulla Shahid,Q826,Maldives,Q19901419,Minister of Foreign Affairs,2018-11-17,Q4665893-1E6E65CD-C8E5-45A4-83DF-D08F7FE74B6D
 Q4666152,Abdullatif bin Rashid Al Zayani,Q398,Bahrain,Q108884490,Minister of Foreign Affairs of Bahrain,2020-02-11,Q4666152-4ECFBFA6-EE4C-4C5A-806A-B14C64947954
-Q4681978,Adelino Mano Quetá,Q1007,Guinea-Bissau,Q18204373,Minister of Foreign Affairs,2009-01-01,Q4681978-1B6D1F4E-D339-4BB2-87B1-6EB73694319B
 Q4737616,Alva Baptiste,Q760,Saint Lucia,Q15916815,Foreign Minister of Saint Lucia,2021-08-05,Q4737616-A28EDEE1-9367-491D-A7B4-B0B1642081D4
 Q480184,Angus Robertson,Q22,Scotland,Q107694326,"Cabinet Secretary for the Constitution, External Affairs and Culture",2021-05-18,Q480184-133A4985-9C90-4A5D-B620-1CE6DF57AE85
 Q48975135,Mayiik Ayii Deng,Q958,South Sudan,Q112686406,Minister of Foreign Affairs and International Cooperation,2021-09-09,Q48975135-D16FDAA5-20F1-4E9F-ADEA-297A58A42DAA
