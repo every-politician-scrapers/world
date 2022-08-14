@@ -18,12 +18,10 @@
 +++,,Vitaliy Vlah,Q164819,Gagauzia,
 +++,Q51846080,Múte Bourup Egede,Q223,Greenland,
 +++,,Joseph Andall,Q769,Grenada,
-+++,Q110684398,Mario Búcaro,Q774,Guatemala,
 +++,Q923245,Jonathan Le Tocq,Q3311985,Guernsey,
-+++,Q99522589,Hugh Todd,Q734,Guyana,
 ->,Q106496152,Claude Joseph->Jean Victor Généus,Q790,Haiti,Q3251913
 +++,Q23034482,Taneti Mamau,Q710,Kiribati,
-->,Q16195708,Falah Mustafa Bakir->Safeen Muhsin Dizayee,Q205047,Kurdistan Region->Kurdistan,Q113470571
+->,Q66400641,Safeen Muhsin Deza'i->Safeen Muhsin Dizayee,Q205047,Kurdistan Region->Kurdistan,Q113470571
 +++,Q25999464,Saleumxay Kommasith,Q819,Laos,
 +++,,Hafez Kaddour,Q1016,Libya,
 ->,Q28799078,Vladislav Deinevo,Q16746854,Luhansk People's Republic->Lugansk People's Republic,Q110994655
@@ -38,6 +36,7 @@
 ->,Q1670096,Simon Coveney,Q27,Republic of Ireland->Ireland,Q6865853
 ->,Q15046890,Jean-Claude Gakosso,Q971,"Republic of the Congo->Congo, Republic of the",Q18204385
 ->,Q58217,Sergey Lavrov,Q159,Russia->Russian Federation,Q1418873
+->,Q110287768->Q57738,Vincent Byron->Denzil Douglas,Q763,Saint Kitts and Nevis,Q108804837
 +++,Q57800,Ralph Gonsalves,Q757,Saint Vincent and the Grenadines,
 +++,Q5446290,Fiamē Naomi Mataʻafa,Q683,Samoa,
 ->,Q107722495,Mohamed Abdirizak Mohamud->Abshir Omar Huruuse,Q1045,Somalia,Q98685961
@@ -56,3 +55,4 @@
 ->,Q2059716,Archbishop Paul Gallagher,Q237->Q159583,Vatican City->Holy See,Q2608295
 ->,Q30505969,Samuel Moncada->Félix Plasencia,Q717,Venezuela,Q113470515
 +++,Q15048,Elio Di Rupo,Q231,Wallonia,
+->,Q110684398,Mario Búcaro,Q7330070->Q774,foreign minister->Guatemala,Q25241973
