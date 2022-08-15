@@ -10,6 +10,10 @@ class MemberList
     decorator UnspanAllTables
     decorator WikidataIdsDecorator::Links
 
+    def member_items
+      super.reject(&:skip?)
+    end
+
     def member_container
       noko.xpath("//table[.//th[contains(.,'Current')]]//tr[td]")
     end
@@ -44,6 +48,11 @@ class MemberList
     end
 
     field :endDate do
+    end
+
+    # holds it as HoG, rather than directly
+    def skip?
+      name_node.text.split('(').last =~ /prime|president/
     end
 
     private
