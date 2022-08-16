@@ -2,6 +2,7 @@ person,name,country,countryLabel,position,positionLabel,start,psid
 ,,Q23681,Turkish Republic of Northern Cyprus,Q108730544,Minister of Foreign Affairs of Northern Cyprus,,
 Q100575931,Tete António,Q916,Angola,Q205384,Minister of External Relations,2020-10-01,Q100575931-0D5A4B55-A849-4F17-AB77-325CC4FA9F59
 Q101110528,Sylvestre Radegonde,Q1042,Seychelles,Q6865848,Minister for Foreign Affairs,2020-11-03,Q101110528-1A293311-25E4-4C11-B292-DD63BDC6CE08
+Q102077694,Rodolfo Solano Quirós,Q800,Costa Rica,Q6402752,Minister of Foreign Affairs,2020-01-01,Q102077694-E5E59BF2-7B43-4FB1-BFA4-9704BE0B4487
 Q102116482,Rogelio Mayta,Q750,Bolivia,Q5070783,Foreign Minister of Bolivia,2020-11-09,Q102116482-D0D5EF4C-779C-4E8E-B345-9A6A496EB997
 Q10395812,Álvaro Leyva,Q739,Colombia,Q23653023,Minister of Foreign Affairs of Colombia,2022-08-07,Q10395812-4A988210-B97C-405E-921D-9330DB24DF2C
 Q105637570,Frederick Shava,Q954,Zimbabwe,Q99228278,Foreign minister of Zimbabwe,2021-02-08,Q105637570-56E5E36F-6B63-4C74-AC1B-CAF7FC83A09B
@@ -10,7 +11,6 @@ Q105977287,Najla Mangoush,Q1016,Libya,Q53862230,Foreign Ministers of Libya,2021-
 Q106119866,Donika Gërvalla-Schwarz,Q1246,Kosovo,Q107601071,Second Deputy Prime Minister and Minister of Foreign Affairs and Diaspora,2021-03-22,Q106119866-133A24DE-1B7D-424B-9B97-315BD295F87D
 Q106271551,Carlos Alberto França,Q155,Brazil,Q18176431,Minister of External Relations,2021-03-29,Q106271551-A498BDC4-570F-4D44-8D75-1F04A386DCDC
 Q106453465,Carlos Eduardo Reina,Q783,Honduras,Q110786693,Secretary of Foreign Affairs,2022-01-27,Q106453465-9D28FDB1-1A6E-414A-9BD5-1E5730818694
-Q106496152,Claude Joseph,Q790,Haiti,Q3251913,Foreign Minister of Haiti,2020-03-04,Q106496152-f7a39685-43c8-a0e7-248a-694e986b3daa
 Q107361984,Albert Shingiro,Q967,Burundi,Q98795771,Foreign Minister of Burundi,2020-06-30,Q107361984-b32d9018-4b5d-c59a-d386-c717e6ab229e
 Q107670236,Batmunkh Battsetseg,Q711,Mongolia,Q23217246,Minister of Foreign Affairs,2021-01-29,Q107670236-FD5A07D3-E776-4FC4-89AF-21B1D79664FA
 Q107722495,Mohamed Abdirizak Mohamud,Q1045,Somalia,Q98685961,Foreign Minister of Somalia,2020-10-24,Q107722495-06D4E109-D8FC-495B-9A42-778989CE34CD
@@ -30,6 +30,7 @@ Q111487495,Ilia Darchiashvili,Q230,Georgia,Q108368702,Minister of Foreign Affair
 Q111718059,Michael Moussa Adamo,Q1000,Gabon,Q1829498,Minister for Foreign Affairs,2022-03-08,Q111718059-FCE7AEC5-5A16-4A40-B7A6-D890395EE537
 Q111744930,Jeenbek Kulubaev,Q813,Kyrgyzstan,Q109445425,Minister for Foreign Affairs of Kyrgyzstan,2022-04-22,Q111744930-5CE23529-EC1F-4619-82D4-7BB578F14A19
 Q113456053,Miguel Ángel Rodríguez Mackay,Q419,Peru,Q2882089,Minister of Foreign Affairs of Peru,2022-08-05,Q113456053-387884ed-4475-9c8f-9d29-040a55d13fea
+Q113531338,Jean Victor Généus,Q790,Haiti,Q3251913,Foreign Minister of Haiti,2021-11-24,Q113531338-3d44b000-45e8-adf3-a23c-cb6da320867b
 Q1141271,Yoshimasa Hayashi,Q17,Japan,Q1355043,Minister for Foreign Affairs,2021-11-10,Q1141271-92DD23C0-C89D-4006-8B28-0924D416C519
 Q12170059,Raychelle Omamo,Q114,Kenya,Q3251813,Minister for Foreign Affairs,2020-01-14,Q12170059-27331900-090B-43EC-BFA8-6077C7F543AF
 Q12179124,Ahmad Nasser Al Muhammad Al Sabah,Q817,Kuwait,Q110525652,Minister of Foreign Affairs,2019-12-17,Q12179124-C88A38A9-7D5D-47A0-89E7-2A62A2E5443C
