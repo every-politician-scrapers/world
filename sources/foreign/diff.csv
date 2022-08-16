@@ -1,4 +1,5 @@
 @@,person,name,country,countrylabel,position
+->,Q26923392,Abulkalam Abdul Momen->AK Abdul Momen,Q902,Bangladesh,Q1153140
 +++,,Eamon Courtenay,Q242,Belize,
 +++,Q57327,Hassanal Bolkiah,Q921,Brunei,
 +++,Q734492,Pascal Smet,Q240,Brussels-Capital Region,
@@ -7,7 +8,7 @@
 +++,,Paula Fernández Viaña,Q3946,Cantabria,
 +++,Q7378692,Rui Alberto de Figueiredo Soares,Q1011,Cape Verde,
 +++,,Dhoihir Dhoulkamal,Q970,Comoros,
-+++,Q102077694,Rodolfo Solano,Q800,Costa Rica,
+->,Q102077694,Rodolfo Solano Quirós->Rodolfo Solano,Q800,Costa Rica,Q6402752
 ->,Q5111780,Christophe Lutundula,Q974,"Democratic Republic of the Congo->Congo, Democratic Republic of the",Q6866142
 ->,Q348268,Adaljíza Magno,Q574,East Timor->Timor-Leste,Q109733888
 ->,Q23001051,Guillaume Long->Juan Carlos Holguín,Q736,Ecuador,Q24293533
@@ -16,7 +17,6 @@
 +++,,Vitaliy Vlah,Q164819,Gagauzia,
 +++,,Joseph Andall,Q769,Grenada,
 +++,Q923245,Jonathan Le Tocq,Q3311985,Guernsey,
-->,Q106496152,Claude Joseph->Jean Victor Généus,Q790,Haiti,Q3251913
 ->,Q66400641,Safeen Muhsin Deza'i->Safeen Muhsin Dizayee,Q205047,Kurdistan Region->Kurdistan,Q113470571
 +++,,Hafez Kaddour,Q1016,Libya,
 ->,Q28799078,Vladislav Deinevo,Q16746854,Luhansk People's Republic->Lugansk People's Republic,Q110994655
