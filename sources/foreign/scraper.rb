@@ -52,7 +52,7 @@ class MemberList
 
     # holds it as HoG, rather than directly
     def skip?
-      name_node.text.split('(').last =~ /prime|president/
+      name_node.text.split('(').last =~ /prime|president/i
     end
 
     private
