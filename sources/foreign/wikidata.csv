@@ -7,7 +7,7 @@ Q102116482,Rogelio Mayta,Q750,Bolivia,Q5070783,Foreign Minister of Bolivia,2020-
 Q10395812,Álvaro Leyva,Q739,Colombia,Q23653023,Minister of Foreign Affairs of Colombia,2022-08-07,Q10395812-4A988210-B97C-405E-921D-9330DB24DF2C
 Q105637570,Frederick Shava,Q954,Zimbabwe,Q99228278,Foreign minister of Zimbabwe,2021-02-08,Q105637570-56E5E36F-6B63-4C74-AC1B-CAF7FC83A09B
 Q105724712,Érika Mouynes,Q804,Panama,Q64482042,Foreign Minister,2020-12-02,Q105724712-9975AD0D-33F0-48BC-9727-7FFDA8791E30
-Q105977287,Najla Mangoush,Q1016,Libya,Q53862230,Foreign Ministers of Libya,2021-03-15,Q105977287-f1e20fbd-49df-531a-f396-9749889f32be
+Q105977287,Najla Mangoush,Q1016,Libya,Q53862230,Foreign Minister of Libya,2021-03-15,Q105977287-f1e20fbd-49df-531a-f396-9749889f32be
 Q106119866,Donika Gërvalla-Schwarz,Q1246,Kosovo,Q107601071,Second Deputy Prime Minister and Minister of Foreign Affairs and Diaspora,2021-03-22,Q106119866-133A24DE-1B7D-424B-9B97-315BD295F87D
 Q106271551,Carlos Alberto França,Q155,Brazil,Q18176431,Minister of External Relations,2021-03-29,Q106271551-A498BDC4-570F-4D44-8D75-1F04A386DCDC
 Q106453465,Carlos Eduardo Reina,Q783,Honduras,Q110786693,Secretary of Foreign Affairs,2022-01-27,Q106453465-9D28FDB1-1A6E-414A-9BD5-1E5730818694
@@ -18,9 +18,9 @@ Q107861200,Amery Browne,Q754,Trinidad and Tobago,Q19901428,Minister of Foreign A
 Q108477781,Essa Kayd,Q34754,Somaliland,Q104869321,Minister of Foreign Affairs,2020-03-03,Q108477781-D2FA851B-307F-4C87-970E-4D74674826FF
 Q108504531,Abdallah Bou Habib,Q822,Lebanon,Q53260076,foreign minister of Lebanon,2021-09-10,Q108504531-6AEC5DCB-602B-4883-BA90-89E230B6F89E
 Q109252098,Morissanda Kouyaté,Q1006,Guinea,Q109255195,Minister of International Affairs,2021-10-25,Q109252098-aaa280b5-4117-f439-40b9-016d94caa72f
+Q109637823,Norzin Dolma,Q17269,Tibet,Q113548707,Foreign Minister of the Central Tibetan Administration,2021-11-10,Q109637823-120dd37c-43c8-0660-0f50-08c2079c5269
 Q109923917,Mark Ati,Q686,Vanuatu,Q109923918,Minister of Foreign Affairs and External Trade,2020-04-20,Q109923917-DAE9C232-FA08-4FE0-A42D-8AD08459B200
 Q110210167,Lemogang Kwape,Q963,Botswana,Q59138717,Foreign Minister of Botswana,2020-08-26,Q110210167-7313861f-448a-8728-6abf-6c7ec638ddf2
-Q110287768,Vincent Byron,Q763,Saint Kitts and Nevis,Q108804837,Minister of Foreign Affairs of St Kitts and Nevis,2022-05-10,Q110287768-3507CCCB-210A-4930-B2FF-43F551A25A0B
 Q110390709,Juan Carlos Holguín,Q736,Ecuador,Q24293533,Minister of Foreign Affairs of Ecuador,2022-01-03,Q110390709-01EC898B-C198-4A1A-B51E-BCDD0FAC076C
 Q11043304,Naledi Pandor,Q258,South Africa,Q4294929,Minister of International Relations and Cooperation,2019-05-30,Q11043304-C8C12AA4-FB49-4E58-B4B3-2F0DF0CA899F
 Q110515353,"Dee-Maxwell Saah Kemayah, Sr.",Q1014,Liberia,Q6866161,Minister of Foreign Affairs,2020-10-12,Q110515353-15D9E4BD-A70D-4009-9522-4CA8B22C6BD2
@@ -32,6 +32,8 @@ Q111718059,Michael Moussa Adamo,Q1000,Gabon,Q1829498,Minister for Foreign Affair
 Q111744930,Jeenbek Kulubaev,Q813,Kyrgyzstan,Q109445425,Minister for Foreign Affairs of Kyrgyzstan,2022-04-22,Q111744930-5CE23529-EC1F-4619-82D4-7BB578F14A19
 Q113456053,Miguel Ángel Rodríguez Mackay,Q419,Peru,Q2882089,Minister of Foreign Affairs of Peru,2022-08-05,Q113456053-387884ed-4475-9c8f-9d29-040a55d13fea
 Q113531338,Jean Victor Généus,Q790,Haiti,Q3251913,Foreign Minister of Haiti,2021-11-24,Q113531338-3d44b000-45e8-adf3-a23c-cb6da320867b
+Q113548777,Carlos Faria,Q717,Venezuela,Q113470515,Minister of Foreign Affairs of the Bolivarian Republic of Venezuela,2022-05-17,Q113548777-dc1741f4-4e53-2368-3628-75caedf5a594
+Q113555132,Joseph Andall,Q769,Grenada,Q113555116,Foreign Minister of Grenada,2022-07-01,Q113555132-8fbe4f71-4555-05a4-a167-4acf3499c001
 Q1141271,Yoshimasa Hayashi,Q17,Japan,Q1355043,Minister for Foreign Affairs,2021-11-10,Q1141271-92DD23C0-C89D-4006-8B28-0924D416C519
 Q12170059,Raychelle Omamo,Q114,Kenya,Q3251813,Minister for Foreign Affairs,2020-01-14,Q12170059-27331900-090B-43EC-BFA8-6077C7F543AF
 Q12179124,Ahmad Nasser Al Muhammad Al Sabah,Q817,Kuwait,Q110525652,Minister of Foreign Affairs,2019-12-17,Q12179124-C88A38A9-7D5D-47A0-89E7-2A62A2E5443C
@@ -109,7 +111,6 @@ Q28925129,Enrique Manalo,Q928,Philippines,Q17088037,Secretary of Foreign Affairs
 Q2895694,Riyad al-Maliki,Q219060,State of Palestine,Q113470524,Foreign Minister of State of Palestine,2019-04-13,Q2895694-bb61938d-4b68-24b5-c6d8-e255ee0a2492
 Q30436217,Choe Son-hui,Q423,North Korea,Q113470538,Minister of Foreign Affairs of the Democratic People's Republic of Korea,2022-06-11,Q30436217-c277791f-4148-48de-0364-9dace1cecb32
 Q3047551,Edgars Rinkēvičs,Q211,Latvia,Q57125919,Minister of Foreign Affairs,2011-10-25,Q3047551-A934D6EB-A747-4A91-8617-192120C66785
-Q30505969,Samuel Moncada,Q717,Venezuela,Q113470515,Minister of Foreign Affairs of the Bolivarian Republic of Venezuela,2017-06-21,Q30505969-93f09d2f-4e58-94d8-f18b-2e45e7fccb48
 Q3086904,Fred Mitchell,Q778,The Bahamas,Q6866141,Minister of Foreign Affairs,2021-09-20,Q3086904-1DD3428C-76BA-49D6-B342-BE6491883A56
 Q30883975,Dominique Hasler,Q347,Liechtenstein,Q108215715,"Minister of Foreign Affairs, Education and Sport",2017-03-30,Q30883975-705C797C-844C-40C5-BD8E-DE1115446B7F
 Q30921853,Bùi Thanh Sơn,Q881,Vietnam,Q19892487,Minister of Foreign Affairs,2021-04-08,Q30921853-2648BCDB-7910-4A03-B3B7-BA6FC2BE2AFA
@@ -154,6 +155,7 @@ Q56704276,Fuad Hussein,Q796,Iraq,Q6895071,Minister of Foreign Affairs,2020-06-06
 Q5680106,Hassoumi Massoudou,Q1032,Niger,Q63332164,Foreign minister of Niger,2021-04-07,Q5680106-305fc5eb-4adb-3926-572d-c06d5363cbdc
 Q56867945,Nadine Girault,Q176,Quebec,Q21191096,Minister of International Relations and la Francophonie,2018-10-18,Q56867945-1938e17d-4e12-a948-2012-88f412357beb
 Q57343622,João Gomes Cravinho,Q45,Portugal,Q4294919,Minister of Foreign Affairs,2022-03-30,Q57343622-FC0BDEA2-6B42-4757-A64A-EB803C1D42A7
+Q57738,Denzil Douglas,Q763,Saint Kitts and Nevis,Q108804837,Minister of Foreign Affairs of St Kitts and Nevis,2022-08-13,Q57738-8fd68931-4317-89c4-d980-92a537cf8b7e
 Q57830,Frank Bainimarama,Q712,Fiji,Q6865844,Minister for Foreign Affairs,2016-09-09,Q57830-d537eb2b-4325-a31a-713c-5b64ebadb6b1
 Q58141,Raşit Meredow,Q874,Turkmenistan,Q108837408,Minister of Foreign Affairs of Turkmenistan,2001-07-07,Q58141-FBEE4046-EEB3-4417-BFA5-856EAB908828
 Q58163,Osman Saleh Mohammed,Q986,Eritrea,Q54889314,Minister of Foreign Affairs of Eritrea,2007-04-18,Q58163-F581C1EC-BA7E-43B2-9856-7FBBB8EF6634
