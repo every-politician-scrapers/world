@@ -12,7 +12,11 @@ module.exports = function () {
       OPTIONAL { ?item wdt:P1001 ?jurisdiction }
       OPTIONAL { ?item wdt:P571|wdt:P580 ?began }
       OPTIONAL { ?item wdt:P576|wdt:P582 ?ended }
-      BIND(IF(EXISTS { ?item wdt:P31/wdt:P279* wd:Q640506 }, "cabinet", "") AS ?type)
+      BIND(
+        IF(EXISTS { ?item wdt:P31/wdt:P279* wd:Q640506 }, "cabinet",
+        IF(EXISTS { ?item wdt:P31/wdt:P279* wd:Q7188 }, "government",
+        "")
+      ) AS ?type)
 
       SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }
     }
