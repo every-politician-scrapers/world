@@ -1,7 +1,4 @@
 item,itemLabel,itemDescription,jurisdiction,jurisdictionLabel,began,ended,type
-Q110275928,Shafie cabinet,,,,,,cabinet
-Q89269309,Ntsay Cabinet,,,,2018-06-04,,
-Q56179236,Imran Khan ministry,"government of Pakistan, 2018–2022",,,2018-08-20,2022-04-09,cabinet
 Q53646050,Second Sezh Sargsyan government,government of Armenia,Q399,Armenia,2018-04-17,2018-04-23,cabinet
 Q53579021,1st Pashinyan government,first Pashinyan government prime minister,Q399,Armenia,2018-05-12,2019-01-14,cabinet
 Q56254898,First Morrison Ministry,First Australian government ministry led by Scott Morrison,Q408,Australia,2018-08-24,2019-05-29,cabinet
@@ -26,13 +23,14 @@ Q95736906,Kielsen VI Cabinet,Government of Greenland,Q223,Greenland,2018-10-05,2
 Q60747425,Kielsen V Cabinet,Government of Greenland,Q223,Greenland,2019-04-09,2020-05-29,cabinet
 Q96385892,Kielsen VII Cabinet,Government of Greenland (2020–2021),Q223,Greenland,2020-05-29,2021-02-08,cabinet
 Q105834380,Kielsen VIII Cabinet,Government of Greenland (2021),Q223,Greenland,2021-02-08,2021-04-23,cabinet
-Q51077569,Senate Tschentscher,"cabinet of the government of the free city and state of Hamburg, Germany",Q1055,Hamburg,,,cabinet
+Q51077569,Senate Tschentscher,"cabinet of the government of the free city and state of Hamburg, Germany",Q1055,Hamburg,2018-03-28,2020-06-10,cabinet
 Q52225870,Fourth cabinet of Viktor Orbán,Government of Hungary (2018-2022),Q28,Hungary,2018-05-18,2022-05-23,cabinet
 Q57899413,Abdul Mahdi Government,former government of Iraq (2018–2020),Q796,Iraq,2018-10-24,2020-05-07,cabinet
 Q54557459,Conte I Cabinet,65th Government of the Italian Republic,Q38,Italy,2018-06-01,2019-09-05,cabinet
 Q54869475,Omar Razzaz's Cabinet,,Q810,Jordan,2018-06-14,2020-10-12,cabinet
 Q55074997,H. D. Kumaraswamy second ministry,Ministers in Government of Karnataka headed by Chief Minister H. D. Kumaraswamy (2018 - 2019),Q1185,Karnataka,2018-05-23,2019-07-23,cabinet
 Q59461371,Bettel–Schneider Government II,Government of Luxembourg since 2018,Q32,Luxembourg,2018-12-05,,cabinet
+Q89269309,Ntsay Cabinet,,Q1019,Madagascar,2018-06-04,,cabinet
 Q60762949,Kamal Nath ministry,Minister in Government of Madhya Pradesh headed by Chief Minister Kamal Nath (2018-2020),Q1188,Madhya Pradesh,2018-12-17,2020-03-20,cabinet
 Q53168330,Seventh Mahathir cabinet,20th and former Cabinet of Malaysia under former Prime Minister Mahathir Mohamad,Q833,Malaysia,2018-05-21,2020-02-24,cabinet
 Q55389343,Conrad Sangma ministry,Ministers in Government of Meghalaya headed by Chief Minister Conrad Kongkal Sangma,Q1195,Meghalaya,2018-03-01,,cabinet
@@ -41,11 +39,13 @@ Q53843838,Win Myint's Cabinet,,Q836,Myanmar,2018-03-30,2021-02-01,cabinet
 Q55389416,Neiphiu Rio Fourth ministry,Ministers in Government of Nagaland headed by Chief Minister Neiphiu Rio,Q1599,Nagaland,2018-03-01,,cabinet
 Q109968139,Ford Ministry,current Government of Ontario,Q1904,Ontario,2018-06-29,,cabinet
 Q55075001,Mulk caretaker ministry,caretaker cabinet of Pakistan in 2018,Q843,Pakistan,2018-06-05,2018-08-18,cabinet
+Q56179236,Imran Khan ministry,"government of Pakistan, 2018–2022",Q843,Pakistan,2018-08-20,2022-04-09,cabinet
 Q60762939,Third Ashok Gehlot ministry,Ministers in Government of Rajasthan headed by Chief Minister Ashok Gehlot,Q1437,Rajasthan,2018-01-01,,cabinet
 Q47516794,Dăncilă Cabinet,128th Government of Romania,Q218,Romania,2018-01-29,2019-11-04,cabinet
 Q52788508,Dmitry Medvedev's Second Cabinet,,Q159,Russia,2018-05-08,2020-01-15,cabinet
 Q52788508,Dmitry Medvedev's Second Cabinet,,Q159,Russia,2018-05-18,2020-01-15,cabinet
 Q50201464,Hans Cabinet,state government of Saarland,Q1201,Saarland,2018-03-01,,cabinet
+Q110275928,Shafie cabinet,,Q179029,Sabah,2018-05-16,,cabinet
 Q47456393,Marlin-Romeo cabinet,"cabinet of Sint Maarten under Prime Minister Leona Marlin-Romeo, 2018",Q26273,Sint Maarten,2018-01-15,2018-06-25,cabinet
 Q56194756,Second Marlin-Romeo cabinet,,Q26273,Sint Maarten,2018-06-25,2019-11-19,cabinet
 Q50823679,Pellegrini's Cabinet,,Q214,Slovakia,2018-03-22,2020-03-21,cabinet
@@ -59,5 +59,4 @@ Q55389418,Biplab Kumar Deb ministry,Ministers in Government of Tripura headed by
 Q55435983,Cabinet Erdoğan IV,Current cabinet of Turkey,Q43,Turkey,2018-07-10,,cabinet
 Q60761597,Second Andrews Ministry,,Q36687,Victoria,2018-11-29,,cabinet
 Q96405422,Shadow Cabinet of Paul Davies,,Q25,Wales,2018-06-27,2021-01-23,
-Q96405422,Shadow Cabinet of Paul Davies,,Q25,Wales,2018-09-18,2021-01-23,
 Q60368325,First Drakeford minstry,First Welsh Cabinet by Mark Drakeford,Q25,Wales,2018-12-13,2021-05-13,cabinet
