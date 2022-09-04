@@ -1,13 +1,4 @@
 item,itemLabel,itemDescription,jurisdiction,jurisdictionLabel,began,ended,type
-Q65038221,Q65038221,state government of Bremen,,,,,cabinet
-Q73664333,Q73664333,state government of Brandenburg,,,,,cabinet
-Q77002599,Second Kretschmer cabinet,state government of Saxony,,,,,cabinet
-Q111940344,Second Shadow Cabinet of Alexis Tsipras,,,,,,
-Q60852905,Ngute Cabinet,,,,2019-01-04,,government
-Q59917948,Cabinet Bouffier III,"state government of Hesse, Germany since 2019",,,2019-01-18,,cabinet
-Q86666693,Ilunga government,Democratic Republic of the Congo government led by Sylvestre Ilunga,,,2019-09-06,2021-04-26,cabinet
-Q107618999,First Gakharia government,,,,2019-09-08,2020-12-11,cabinet
-Q85787810,Natano Ministry,,,,2019-09-20,,cabinet
 Q104868621,Kenney cabinet,"cabinet of Alberta, 2019–present",Q1951,Alberta,2019-04-30,,cabinet
 Q60853935,First Moreno Government,,Q5783,Andalusia,2019-01-18,2022-07-26,cabinet
 Q65042261,Y. S. Jaganmohan Reddy Ministry,,Q1159,Andhra Pradesh,2019-05-30,,cabinet
@@ -22,20 +13,27 @@ Q97190793,Murad Ebrahim Cabinet,,Q806550,Bangsamoro,2019-02-26,,cabinet
 Q72586989,Wilmès I Government,Belgian government (2019-2020),Q31,Belgium,2019-10-27,2020-03-17,cabinet
 Q107394944,Cabinet of Jeanine Áñez,Bolivian presidential administration and ministerial cabinet from 2019 to 2020,Q750,Bolivia,2019-11-13,2020-11-06,cabinet
 Q97256455,Cabinet of Zoran Tegeltija,,Q225,Bosnia and Herzegovina,2019-12-23,,cabinet
+Q73664333,3rd Woidke Cabinet,state government of Brandenburg,Q1208,Brandenburg,2019-11-20,,cabinet
+Q60852905,Ngute Cabinet,,Q1009,Cameroon,2019-01-04,,government
 Q65965447,Torres Government,incumbent regional government of the Canary Islands,Q5813,Canary Islands,2019-07-18,,cabinet
 Q65187989,Fourth Revilla Government,,Q3946,Cantabria,2019-06-29,,cabinet
 Q65748686,Alfonso Fernández Government,,Q5739,Castile and León,2019-07-01,,cabinet
 Q65273220,Second García-Page Government,,Q5748,Castile-La Mancha,2019-07-08,,cabinet
 Q66616003,Díaz Ayuso Government,,Q5756,Community of Madrid,2019-08-20,2021-06-21,cabinet
+Q86666693,Ilunga government,Democratic Republic of the Congo government led by Sylvestre Ilunga,Q974,Democratic Republic of the Congo,2019-09-06,2021-04-26,cabinet
 Q64831553,Frederiksen Cabinet,Incumbent Government of Denmark,Q35,Denmark,2019-06-27,,cabinet
-Q104855056,Cabinet of Nayib Bukele,current presidential cabinet of El Salvador,Q792,El Salvador,2019-06-01,,
+Q104855056,Cabinet of Nayib Bukele,current presidential cabinet of El Salvador,Q792,El Salvador,2019-06-01,,cabinet
 Q63343147,Jüri Ratas' second cabinet,government of Estonia from 2019 to 2021,Q191,Estonia,2019-04-29,2021-01-14,cabinet
 Q64995866,Third Guillermo Fernández Government,,Q5777,Extremadura,2019-06-27,,cabinet
 Q64340086,Antti Rinne's cabinet,75th cabinet of Finland,Q33,Finland,2019-06-06,2019-12-10,cabinet
 Q77972346,Sanna Marin's cabinet,76th cabinet of Finland,Q33,Finland,2019-12-10,,cabinet
+Q65038221,Bovenschulte Senate,state government of Bremen,Q1209,Free Hanseatic City of Bremen,2019-08-15,,cabinet
+Q107618999,First Gakharia government,,Q230,Georgia,2019-09-08,2020-12-11,cabinet
 Q65085362,Pramod Sawant cabinet,,Q1171,Goa,2019-03-19,,cabinet
 Q65184515,Cabinet of Kyriakos Mitsotakis,Greek government of 2019,Q41,Greece,2019-07-09,,cabinet
+Q111940344,Second Shadow Cabinet of Alexis Tsipras,,Q41,Greece,2019-07-18,,
 Q85800177,Second Manohar Lal Khattar ministry,Ministers in Government of Haryana headed by Chief Minister Manohar Lal Khattar,Q1174,Haryana,2019-10-27,,cabinet
+Q59917948,Cabinet Bouffier III,"state government of Hesse, Germany since 2019",Q1199,Hesse,2019-01-18,,cabinet
 Q64210877,Second Modi ministry,Union Council of Ministers headed by Narendra Modi,Q668,India,2019-05-30,,cabinet
 Q71682639,Onward Indonesia Cabinet,Current government of Indonesia,Q252,Indonesia,2019-10-23,,cabinet
 Q67123745,Conte II Cabinet,66th Government of the Italian Republic,Q38,Italy,2019-09-05,2021-02-13,cabinet
@@ -57,6 +55,7 @@ Q75110838,Second Cabinet of Mateusz Morawiecki,Polish government,Q36,Poland,2019
 Q71014092,XXII Constitutional Government of Portugal,cabinet of the Portuguese government,Q45,Portugal,2019-10-26,2022-03-30,cabinet
 Q66124336,Second López government,,Q5772,Region of Murcia,2019-08-01,,cabinet
 Q73529134,First Orban Cabinet,,Q218,Romania,2019-11-04,2020-03-14,cabinet
+Q77002599,Second Kretschmer cabinet,state government of Saxony,Q1202,Saxony,2019-12-20,,cabinet
 Q65041806,Prem Singh Tamang ministry,Ministers in Government of Sikkim headed by Chief Minister Prem Singh Tamang,Q1505,Sikkim,2019-05-27,,cabinet
 Q75763977,Jacobs cabinet,,Q26273,Sint Maarten,2019-11-19,2020-03-28,cabinet
 Q64167569,Second Cabinet of Cyril Ramaphosa,Second cabinet of Cyril Ramaphosa,Q258,South Africa,2019-05-29,,cabinet
@@ -64,6 +63,7 @@ Q79927671,Gotabaya Rajapaksa cabinet,,Q854,Sri Lanka,2019-11-21,2020-08-12,cabin
 Q87367437,Palestinian government of 2019,cabinet,Q219060,State of Palestine,2019-04-13,,cabinet
 Q60736270,Cabinet Löfven II,,Q34,Sweden,2019-01-21,2021-07-09,cabinet
 Q97230427,Second Prayut cabinet,,Q869,Thailand,2019-07-10,,cabinet
+Q85787810,Natano Ministry,,Q672,Tuvalu,2019-09-20,,cabinet
 Q66819440,Honcharuk government,20th Cabinet of Ministers of Ukraine,Q212,Ukraine,2019-08-29,2020-03-04,cabinet
 Q78356885,First Johnson ministry,Government of the United Kingdom,Q145,United Kingdom,2019-07-24,2019-12-16,cabinet
 Q78347457,Second Johnson ministry,Current Government of the United Kingdom,Q145,United Kingdom,2019-12-16,,cabinet

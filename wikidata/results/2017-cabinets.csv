@@ -1,25 +1,19 @@
 item,itemLabel,itemDescription,jurisdiction,jurisdictionLabel,began,ended,type
-Q39057859,Second Wike Executive Council,,,,,,
-Q42529758,N. Biren Singh ministry,Ministers in Government of Manipur headed by Chief Minister N. Biren Singh,,,,,cabinet
-Q44584399,Cabinet Wever-Croes I,10th cabinet of Aruba,,,,,cabinet
-Q46602928,VII Constitutional Government of East Timor,East Timorese cabinet led by Mari Alkatiri,,,,,government
-Q55099192,Amarinder Singh second ministry,This is a list of minister from Captain Amarinder Singh second cabinet starting from March 2017,,,,,
-Q56063337,Second Vijay Rupani ministry,,,,,,
-Q96373429,Berisha II Cabinet,,,,,,cabinet
-Q29949210,Philippe Government,40th Government of the French Fifth Republic,,,2017-05-15,2017-06-19,government
-Q29949210,Philippe Government,40th Government of the French Fifth Republic,,,2017-05-16,2017-06-19,government
-Q30339129,Second Philippe Government,41st Government of the French Fifth Republic,,,2017-06-19,2020-07-03,government
-Q113115761,Horgan ministry,"cabinet of British Columbia, 2017–present",,,2017-07-18,,
-Q39057308,Shahid Khaqan Abbasi ministry,Cabinet of Pakistan (2017–2018),,,2017-08-04,2018-05-31,cabinet
-Q55632334,Sahakyan government,,,,2017-09-25,2020-05-21,
+Q96373429,Berisha II Cabinet,,Q222,Albania,2009-09-17,2013-09-15,cabinet
 Q38433634,Rama II Cabinet,"government of Albania, 2017–2021",Q222,Albania,2017-09-13,2021-09-17,cabinet
+Q44584399,Cabinet Wever-Croes I,10th cabinet of Aruba,Q21203,Aruba,2017-11-17,2021-09-20,cabinet
 Q45820208,First Kurz government,Government of Austria from 2017 to 2019,Q40,Austria,2017-12-18,2019-05-28,cabinet
 Q42529658,Nitish Kumar sixth ministry,Ministers in Government of Bihar headed by Chief Minister Nitish Kumar,Q1165,Bihar,2017-07-27,2020-11-13,cabinet
+Q113115761,Horgan ministry,"cabinet of British Columbia, 2017–present",Q1973,British Columbia,2017-07-18,,
 Q29640995,Third Borisov Government,current government of the Bulgarian Republic,Q219,Bulgaria,2017-05-04,2021-05-12,cabinet
 Q44523250,Andrej Babiš' First Cabinet,governing body of the Czech Republic,Q213,Czech Republic,2017-12-13,2018-06-27,cabinet
 Q25460068,VI Constitutional Government of East Timor,East Timorese cabinet led by Rui Maria de Araújo,Q574,East Timor,2015-02-16,2017-09-15,cabinet
+Q46602928,VII Constitutional Government of East Timor,East Timorese cabinet led by Mari Alkatiri,Q574,East Timor,2017-09-15,2018-06-22,cabinet
+Q29949210,Philippe Government,40th Government of the French Fifth Republic,Q142,France,2017-05-15,2017-06-19,government
+Q30339129,Second Philippe Government,41st Government of the French Fifth Republic,Q142,France,2017-06-19,2020-07-03,government
 Q39058893,Third Parrikar cabinet,,Q1171,Goa,2017-03-14,2019-03-17,cabinet
-Q48732683,Jai Ram Thakur ministry,Ministers in Government of Himachal Pradesh headed by Chief Minister Jai Ram Thakur,Q1177,Himachal Pradesh,2017-12-27,,
+Q56063337,Second Vijay Rupani ministry,,Q1061,Gujarat,2017-12-26,,cabinet
+Q48732683,Jai Ram Thakur ministry,Ministers in Government of Himachal Pradesh headed by Chief Minister Jai Ram Thakur,Q1177,Himachal Pradesh,2017-12-27,,cabinet
 Q28198151,"Cabinet of Bjarni Benediktsson, Jr",,Q189,Iceland,2017-01-11,2017-09-15,cabinet
 Q44223982,Cabinet of Katrín Jakobsdóttir,government of Iceland from 2017 to 2021,Q189,Iceland,2017-11-30,2021-11-28,cabinet
 Q31069976,Government of Hassan Rouhani (2017-2021),Wikimedia list article,Q794,Iran,2017-08-03,2021-08-03,cabinet
@@ -27,20 +21,25 @@ Q42479041,Fourth S. Abe Cabinet,Wikimedia list article,Q17,Japan,2017-11-01,2018
 Q60755044,Haradinaj Cabinet,,Q1246,Kosovo,2017-09-09,2020-02-03,cabinet
 Q43231513,Cabinet Weil II,state government of Lower Saxony,Q1197,Lower Saxony,2017-11-22,,cabinet
 Q42954533,Maltese Government 2017–2022,2017-2020 elected Malta government,Q233,Malta,2017-06-09,,government
+Q42529758,N. Biren Singh ministry,Ministers in Government of Manipur headed by Chief Minister N. Biren Singh,Q1193,Manipur,2017-03-15,,cabinet
 Q104845985,First Cabinet of Ukhnaagiin Khürelsükh,,Q711,Mongolia,2020-07-08,2021-01-21,cabinet
 Q85801033,Shurhozelie Liezietsu ministry,,Q1599,Nagaland,2017-02-22,2017-07-19,cabinet
 Q42293409,Third Rutte cabinet,"Coalition in Dutch government, 2017",Q55,Netherlands,2017-10-26,2022-01-10,cabinet
 Q42314738,Sixth Labour Government of New Zealand,Government of New Zealand since 26 October 2017,Q664,New Zealand,2017-10-26,,
 Q47508401,Second Shadow Cabinet of Bill English,,Q664,New Zealand,2017-11-02,2018-03-11,
 Q30330413,Cabinet Laschet,state government in Germany,Q1198,North Rhine-Westphalia,2017-06-30,2021-10-27,cabinet
+Q39057308,Shahid Khaqan Abbasi ministry,Cabinet of Pakistan (2017–2018),Q843,Pakistan,2017-08-04,2018-05-31,cabinet
 Q45292474,First Cabinet of Mateusz Morawiecki,Polish government,Q36,Poland,2017-12-11,2019-11-15,cabinet
+Q55099192,Amarinder Singh second ministry,This is a list of minister from Captain Amarinder Singh second cabinet starting from March 2017,Q22424,Punjab,2017-03-16,,cabinet
 Q56191966,López Government,,Q5772,Region of Murcia,2017-05-05,2019-08-01,cabinet
-Q96405231,Second Harutyunyan government,,Q244165,Republic of Artsakh,2020-05-21,,
+Q55632334,Sahakyan government,,Q244165,Republic of Artsakh,2017-09-25,2020-05-21,cabinet
+Q96405231,Second Harutyunyan government,,Q244165,Republic of Artsakh,2020-05-21,,cabinet
+Q39057859,Second Wike Executive Council,,Q503923,Rivers State,2017-06-24,,cabinet
 Q28123264,Grindeanu Cabinet,Romanian government cabinet,Q218,Romania,2017-01-04,2017-06-29,cabinet
 Q31173799,Tudose Cabinet,,Q218,Romania,2017-06-29,2018-01-29,cabinet
 Q29043559,Third Kramp-Karrenbauer cabinet,,Q1201,Saarland,2017-05-17,2018-03-01,cabinet
 Q107538640,Johari cabinet,,Q170462,Sarawak,2017-01-13,,cabinet
-Q30279918,Cabinet Günther,state government of Schleswig-Holstein,Q1194,Schleswig-Holstein,2017-06-28,2022-06-29,
+Q30279918,Cabinet Günther,state government of Schleswig-Holstein,Q1194,Schleswig-Holstein,2017-06-28,2022-06-29,cabinet
 Q31202093,First cabinet of Ana Brnabić,period in Serbian politics,Q403,Serbia,2017-06-29,2020-10-28,cabinet
 Q31176412,Cabinet of Moon Jae-in,South Korean government cabinet (2017–2020),Q884,South Korea,2017-05-10,2022-05-10,cabinet
 Q30599488,Edappadi K. Palaniswami ministry,Ministers in Government of Tamil Nadu headed by Chief Minister Edappadi K. Palaniswami,Q1445,Tamil Nadu,2017-02-17,2021-05-02,cabinet
