@@ -1,9 +1,8 @@
 item,itemLabel,itemDescription,jurisdiction,jurisdictionLabel,began,ended,type
-Q20669250,Sieling senate,,,,,2019-01-01,cabinet
-Q109116598,Second government of Javier Fernández,,,,,,cabinet
-Q113450557,Notley Ministry,,,,,,cabinet
+Q113450557,Notley Ministry,,Q1951,Alberta,2015-05-24,2019-04-30,cabinet
 Q51137415,Second Díaz Government,,Q5783,Andalusia,2015-06-18,2019-01-21,cabinet
 Q56183393,Lambán Government,,Q4040,Aragon,2015-07-06,2019-08-06,cabinet
+Q109116598,Second government of Javier Fernández,,Q3934,Asturias,2015-07-29,2019-07-22,cabinet
 Q20986965,First Turnbull Ministry,69th ministry of government of Australia,Q408,Australia,2015-09-15,2016-07-19,cabinet
 Q48761117,Armengol Government,,Q107356467,Balearic Islands,2015-07-02,2019-07-03,government
 Q48725322,Nitish Kumar fifth ministry,Ministers in Government of Bihar headed by Chief Minister Nitish Kumar (2015-2017),Q1165,Bihar,2015-11-01,2017-07-01,cabinet
@@ -23,13 +22,11 @@ Q20984764,Sherif Ismail Ministry,,Q79,Egypt,2015-09-19,2018-06-07,cabinet
 Q19776482,Taavi Rõivas' second cabinet,government of Estonia from 2015 to 2016,Q191,Estonia,2015-04-09,2016-11-23,cabinet
 Q56191948,Second Guillermo Fernández Government,Government of Extremadura,Q5777,Extremadura,2015-07-02,2019-07-01,cabinet
 Q19876592,Juha Sipilä's cabinet,74th cabinet of Finland,Q33,Finland,2015-05-29,2019-06-06,cabinet
-Q19876592,Juha Sipilä's cabinet,74th cabinet of Finland,Q33,Finland,2015-05-29,2019-06-05,cabinet
+Q20669250,Sieling senate,,Q1209,Free Hanseatic City of Bremen,,2019-01-01,cabinet
 Q22079664,Cabinet of Giorgi Kvirikashvili,,Q230,Georgia,2015-12-30,2016-11-05,cabinet
 Q18912888,First Cabinet of Alexis Tsipras,Greek coalition in 2015 government,Q41,Greece,2015-01-26,2015-08-27,cabinet
 Q18912888,First Cabinet of Alexis Tsipras,Greek coalition in 2015 government,Q41,Greece,2015-01-27,2015-08-27,cabinet
-Q20882467,Caretaker cabinet of Vassiliki Thanou 2015,caretaker cabinet of Greece in 2015,Q41,Greece,2015-08-27,2015-09-21,cabinet
 Q20882467,Caretaker cabinet of Vassiliki Thanou 2015,caretaker cabinet of Greece in 2015,Q41,Greece,2015-08-27,2015-09-23,cabinet
-Q21002078,Second Cabinet of Alexis Tsipras,,Q41,Greece,2015-09-21,2019-07-08,cabinet
 Q21002078,Second Cabinet of Alexis Tsipras,,Q41,Greece,2015-09-23,2019-07-08,cabinet
 Q19802169,Senate Scholz II,"cabinet of the government of the free city and state of Hamburg, Germany",Q1055,Hamburg,2015-04-15,2018-03-28,cabinet
 Q19887488,thirty-fourth government of Israel,Israeli coalition government from 2015 to 2020,Q801,Israel,2015-05-14,2020-05-17,cabinet
