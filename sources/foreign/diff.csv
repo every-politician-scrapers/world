@@ -1,7 +1,6 @@
 @@,person,name,country,countrylabel,position
 ->,Q2130427,Ramtane Lamamra->Ramtan Lamamra,Q262,Algeria,Q26932328
 ->,Q26923392,Abulkalam Abdul Momen->AK Abdul Momen,Q902,Bangladesh,Q1153140
-+++,Q3046363,Eamon Courtenay,Q242,Belize,
 +++,Q57327,Hassanal Bolkiah,Q921,Brunei,
 +++,Q734492,Pascal Smet,Q240,Brussels-Capital Region,
 ->,Q111184239,Olivia Ragnaghnewendé Rouamba->Olivia Rouamba,Q965,Burkina Faso,Q18204360
@@ -17,6 +16,7 @@
 +++,,Hafez Kaddour,Q1016,Libya,
 ->,Q28799078,Vladislav Deinevo,Q16746854,Luhansk People's Republic->Lugansk People's Republic,Q110994655
 +++,,Richard Randriamandrato,Q1019,Madagascar,
+->,Q101054208->Q21968142,Kitlang Kabua->Casten Nemra,Q709,Marshall Islands,Q110030167
 ->,Q85991458,Justin Tkachenko->Justin Tkatchenko,Q691,Papua New Guinea,Q20716378
 ->,Q701801,Wang Yi,Q148,People's Republic of China->China,Q2664362
 ->,Q18043980,Inal Ardzinba,Q31354462->Q23334,Republic of Abkhazia->Abkhazia,Q4294395
@@ -24,6 +24,7 @@
 ->,Q1670096,Simon Coveney,Q27,Republic of Ireland->Ireland,Q6865853
 ->,Q15046890,Jean-Claude Gakosso,Q971,"Republic of the Congo->Congo, Republic of the",Q18204385
 ->,Q58217,Sergey Lavrov,Q159,Russia->Russian Federation,Q1418873
+->,Q113956708->Q3156132,Rastislav Káčer->Ivan Korčok,Q214,Slovakia,Q62999858
 ->,Q107722495,Mohamed Abdirizak Mohamud->Abshir Omar Huruuse,Q1045,Somalia,Q98685961
 ->,Q108477781,Essa Kayd,Q34754,Somaliland->Somaliland (Republic of Somaliland),Q104869321
 +++,Q2639773,Albrecht Freiherr von Boeselager,Q190353,Sovereign Military Order of Malta,
