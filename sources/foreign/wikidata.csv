@@ -31,13 +31,13 @@ Q111184239,Olivia Ragnaghnewendé Rouamba,Q965,Burkina Faso,Q18204360,Minister o
 Q111487495,Ilia Darchiashvili,Q230,Georgia,Q108368702,Minister of Foreign Affairs of Georgia,2022-04-04,Q111487495-2f8601c5-4dc6-b01d-628d-835efacbc6bb
 Q111718059,Michael Moussa Adamo,Q1000,Gabon,Q1829498,Minister for Foreign Affairs,2022-03-08,Q111718059-FCE7AEC5-5A16-4A40-B7A6-D890395EE537
 Q111744930,Jeenbek Kulubaev,Q813,Kyrgyzstan,Q109445425,Minister for Foreign Affairs of Kyrgyzstan,2022-04-22,Q111744930-5CE23529-EC1F-4619-82D4-7BB578F14A19
-Q113456053,Miguel Ángel Rodríguez Mackay,Q419,Peru,Q2882089,Minister of Foreign Affairs of Peru,2022-08-05,Q113456053-387884ed-4475-9c8f-9d29-040a55d13fea
 Q113531338,Jean Victor Généus,Q790,Haiti,Q3251913,Foreign Minister of Haiti,2021-11-24,Q113531338-3d44b000-45e8-adf3-a23c-cb6da320867b
 Q113548777,Carlos Faria,Q717,Venezuela,Q113470515,Minister of Foreign Affairs of the Bolivarian Republic of Venezuela,2022-05-17,Q113548777-dc1741f4-4e53-2368-3628-75caedf5a594
 Q113555132,Joseph Andall,Q769,Grenada,Q113555116,Foreign Minister of Grenada,2022-07-01,Q113555132-8fbe4f71-4555-05a4-a167-4acf3499c001
 Q113555299,Dhoihir Dhoulkamal,Q970,Comoros,Q19901416,Minister of Foreign Affairs,2020-01-01,Q113555299-10d1b235-496f-a9b3-3e8a-dc56593173f5
 Q113581829,Gustav Aitaro,Q695,Palau,Q113581812,Minister of Foreign Affairs of Palau,2021-01-01,Q113581829-2468e7ea-4d0d-d039-c278-f0a2afdac9b5
 Q113956708,Rastislav Káčer,Q214,Slovakia,Q62999858,Minister of Foreign and European Affairs of the Slovak Republic,2022-09-13,Q113956708-2a818b7a-407c-0461-fe50-31ec8a90d177
+Q113987015,Ali Al-Sadiq Ali,Q1049,Sudan,Q109984815,Minister of Foreign Affairs,2022-01-20,Q113987015-51444076-693A-46BB-B7A0-6595C4F22FFA
 Q1141271,Yoshimasa Hayashi,Q17,Japan,Q1355043,Minister for Foreign Affairs,2021-11-10,Q1141271-92DD23C0-C89D-4006-8B28-0924D416C519
 Q12170059,Raychelle Omamo,Q114,Kenya,Q3251813,Minister for Foreign Affairs,2020-01-14,Q12170059-27331900-090B-43EC-BFA8-6077C7F543AF
 Q12179124,Ahmad Nasser Al Muhammad Al Sabah,Q817,Kuwait,Q110525652,Minister of Foreign Affairs,2019-12-17,Q12179124-C88A38A9-7D5D-47A0-89E7-2A62A2E5443C
@@ -132,6 +132,7 @@ Q40155410,Vincent Biruta,Q1037,Rwanda,Q18204390,Minister of Foreign Affairs,2019
 Q42402111,Jan Lipavský,Q213,Czech Republic,Q2501396,Minister of Foreign Affairs,2021-12-17,Q42402111-db41d362-434b-a1af-f026-b9d7c893d473
 Q4287911,Dmitry Medoyev,Q23427,South Ossetia,Q19901425,Minister of Foreign Affairs,2017-01-01,Q4287911-7fa4c2c2-4c31-89c4-2ef5-deee8782dcd8
 Q43396447,Suzi Barbosa,Q1007,Guinea-Bissau,Q18204373,Minister of Foreign Affairs,2019-07-03,Q43396447-af5b1d15-4a99-b6e7-374f-5f2761405fee
+Q43955694,César Landa Arroyo,Q419,Peru,Q2882089,Minister of Foreign Affairs of Peru,2022-09-09,Q43955694-1A1BA6ED-20CA-4E0C-BA47-1999E2243071
 Q45385044,Stanley Kakubo,Q953,Zambia,Q18204398,Minister of Foreign Affairs,2021-08-27,Q45385044-6B09C467-11D7-4B84-9D58-0C7491B989C5
 Q456759,Penny Wong,Q408,Australia,Q2660943,Minister for Foreign Affairs,2022-05-23,Q456759-C19FCCCF-751B-47F9-BB82-F975D9216313
 Q462744,Tanja Fajon,Q215,Slovenia,Q4294924,Minister of Foreign Affairs of Slovenia,2022-06-01,Q462744-87546145-2572-4A19-A51E-17B03AE77226
@@ -199,7 +200,6 @@ Q75836988,Antonia Urrejola,Q298,Chile,Q24262884,minister of Foreign Affairs of C
 Q7821917,Antony Blinken,Q30,United States of America,Q14213,United States Secretary of State,2021-01-26,Q7821917-cc066559-44c8-d8fe-95ec-f5fcdcf6d89f
 Q7937671,Vivian Balakrishnan,Q334,Singapore,Q256213,Minister for Foreign Affairs,2015-10-01,Q7937671-3447513E-6FE6-410F-8080-65D1925217C2
 Q85991458,Justin Tkachenko,Q691,Papua New Guinea,Q20716378,Minister of Foreign Affairs,2022-08-24,Q85991458-4CF6F56B-7A6A-451E-808D-A8FDD3D3B039
-Q92098489,Mariam Sadiq al-Mahdi,Q1049,Sudan,Q109984815,Minister of Foreign Affairs,2021-02-09,Q92098489-B8049A7E-FC84-4F48-853C-F7468526880C
 Q9388252,Zbigniew Rau,Q36,Poland,Q25598671,Minister of Foreign Affairs,2020-08-26,Q9388252-8bd0a97a-44f3-ae44-90ac-b92e59a556e9
 Q94334903,Euclides Acevedo,Q733,Paraguay,Q18204383,Minister of Foreign Affairs,2021-01-22,Q94334903-5002A1D9-A21F-4CD6-87A6-388ED9176BE0
 Q95587340,'Matšepo Ramakoae,Q1013,Lesotho,Q99518198,Foreign Minister of Lesotho,2020-05-21,Q95587340-99A13903-E068-4FDD-B306-9FC418A6422D
