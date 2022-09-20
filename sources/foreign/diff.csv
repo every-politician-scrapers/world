@@ -30,10 +30,11 @@
 ->,Q113987015,Ali Al-Sadiq Ali->Ali Sadiq Ali,Q1049,Sudan,Q109984815
 +++,Q117254,Ignazio Cassis,Q39,Switzerland,
 ->,Q6288088,Joseph Wu,Q865,Taiwan->Republic of China,Q2482650
+---,,,Q778,The Bahamas,Q108030477
 ->,Q3086904,Fred Mitchell,Q778,The Bahamas->Bahamas,Q6866141
 ->,Q1888110,Mamadou Tangara,Q1005,"The Gambia->Gambia, The",Q1407477
 ->,Q109637823,Norzin Dolma,Q17269->Q17252,Tibet,Q113548707
-->,NULL->Q6081184,NULL->Hasan Taçoy,Q23681,Turkish Republic of Northern Cyprus->Northern Cyprus,Q108730544
+->,Q2388336,Tahsin Ertuğruloğlu,Q23681,Turkish Republic of Northern Cyprus->Northern Cyprus,Q108730544
 ->,Q7821917,Antony Blinken,Q30,United States of America->United States,Q14213
 ->,Q2059716,Archbishop Paul Gallagher,Q237->Q159583,Vatican City->Holy See,Q2608295
 ->,Q110684398,Mario Búcaro,Q7330070->Q774,foreign minister->Guatemala,Q25241973
