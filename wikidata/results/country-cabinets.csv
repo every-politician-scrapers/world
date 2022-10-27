@@ -1,0 +1,199 @@
+state,stateLabel,cabinet,cabinetLabel
+Q889,Afghanistan,Q603838,Cabinet of Afghanistan
+Q222,Albania,Q3302931,Cabinet of Albania
+Q262,Algeria,Q5015487,Cabinet of Algeria
+Q228,Andorra,Q5419813,Executive Council of Andorra
+Q916,Angola,Q5015488,Cabinet of Angola
+Q781,Antigua and Barbuda,Q5015491,Cabinet of Antigua and Barbuda
+Q414,Argentina,Q30344748,Cabinet of Ministers
+Q399,Armenia,Q30588103,Cabinet of Armenia
+Q408,Australia,Q2028178,Cabinet of Australia
+Q40,Austria,Q695599,Austrian Federal Government
+Q227,Azerbaijan,Q13410372,Cabinet of Azerbaijan
+Q398,Bahrain,Q5015494,Cabinet of Bahrain
+Q902,Bangladesh,Q6866546,Cabinet of Bangladesh
+Q244,Barbados,Q5015493,Cabinet of Barbados
+Q184,Belarus,Q997640,Council of Ministers of the Republic of Belarus
+Q31,Belgium,Q19601543,Council of Ministers
+Q242,Belize,Q5015496,Cabinet of Belize
+Q962,Benin,Q114289618,Council of Ministers of Benin
+Q917,Bhutan,Q2081864,Lhengye Zhungtshog
+Q750,Bolivia,Q5015499,Cabinet of Bolivia
+Q225,Bosnia and Herzegovina,Q5176455,Council of Ministers of Bosnia and Herzegovina
+Q963,Botswana,Q25048312,Cabinet of Botswana
+Q155,Brazil,Q5015503,cabinet of Brazil
+Q921,Brunei,Q5015501,Cabinet of Brunei
+Q219,Bulgaria,Q2396053,Council of Ministers
+Q965,Burkina Faso,Q113648559,Cabinet of Burkina Faso
+Q967,Burundi,Q16952177,Council of Ministers
+Q424,Cambodia,Q18210582,Cabinet of Cambodia
+Q1009,Cameroon,Q5026456,Government of Cameroon
+Q16,Canada,Q2458227,Cabinet of Canada
+Q1011,Cape Verde,Q28454131,Cabinet of Cape Verde
+Q929,Central African Republic,Q5060273,Central African Republic Council of Ministers
+Q657,Chad,Q5589195,Government of Chad
+Q298,Chile,Q29077203,Cabinet of Chile
+Q739,Colombia,Q3315497,Council of Ministers of Colombia
+Q970,Comoros,Q113953747,Council of Ministers of the Comoros
+Q800,Costa Rica,Q52898821,Government Council of Costa Rica
+Q224,Croatia,Q1278383,Government of Croatia
+Q241,Cuba,Q834304,Cabinet of Cuba
+Q229,Cyprus,Q16146568,Council of Ministers of Cyprus
+Q213,Czech Republic,Q5015587,Government of the Czech Republic
+Q974,Democratic Republic of the Congo,Q3112604,Government of the Democratic Republic of the Congo
+Q35,Denmark,,
+Q977,Djibouti,Q110572587,Cabinet of Djibouti
+Q784,Dominica,Q5015504,Cabinet of Dominica
+Q786,Dominican Republic,Q3112605,Cabinet of the Dominican Republic
+Q574,East Timor,Q2137629,Cabinet of East Timor
+Q736,Ecuador,Q17005906,Cabinet of Ecuador
+Q79,Egypt,Q4206677,Cabinet of Egypt
+Q792,El Salvador,Q5589203,Government of El Salvador
+Q983,Equatorial Guinea,Q5384256,Equatorial Guinea Council of Ministers
+Q986,Eritrea,Q331979,Cabinet of Ministers of Eritrea
+Q191,Estonia,Q2421589,Government of Estonia
+Q1050,Eswatini,Q97473385,Cabinet of Eswatini
+Q115,Ethiopia,Q1716757,Council of Ministers
+Q702,Federated States of Micronesia,Q109778935,Cabinet of Micronesia
+Q712,Fiji,Q5015511,Cabinet of Fiji
+Q33,Finland,Q2366737,Finnish Government
+Q142,France,Q2993836,Council of Ministers
+Q1000,Gabon,Q110653707,Council of Ministers of Gabon
+Q230,Georgia,Q2613132,Government of Georgia
+Q183,Germany,Q313827,Cabinet of the Federal Republic of Germany
+Q117,Ghana,Q47092681,Cabinet of Ghana
+Q41,Greece,Q16331915,Ministerial Council of Greece
+Q769,Grenada,Q113555095,Cabinet of Grenada
+Q774,Guatemala,Q2879802,Council of Ministers
+Q1006,Guinea,Q52898208,Government of Guinea
+Q1007,Guinea-Bissau,Q52898227,Cabinet of Guinea-Bissau
+Q734,Guyana,Q104850590,Cabinet of Guyana
+Q790,Haiti,Q18379707,Cabinet of Haiti
+Q783,Honduras,Q110721680,Council of Ministers of Honduras
+Q28,Hungary,Q1162751,Government of Hungary
+Q189,Iceland,Q3354110,Cabinet of Iceland
+Q668,India,Q960484,Union Council of Ministers of India
+Q252,Indonesia,Q23929770,Cabinet of Indonesia
+Q794,Iran,Q17175093,Cabinet of Iran
+Q796,Iraq,Q4118391,Iraqi Council of Ministers
+Q801,Israel,Q2578249,cabinet of Israel
+Q38,Italy,Q3687318,Council of Ministers of Italy
+Q1008,Ivory Coast,Q3138408,Cabinet of Ivory Coast
+Q1008,Ivory Coast,Q2932388,Presidential Cabinet of the Ivory Coast
+Q766,Jamaica,Q5015520,Cabinet of Jamaica
+Q17,Japan,Q529012,Cabinet of Japan
+Q810,Jordan,Q5015522,Cabinet of Jordan
+Q232,Kazakhstan,Q21686038,Cabinet of Kazakhstan
+Q114,Kenya,Q5015528,Cabinet of Kenya
+Q756617,Kingdom of Denmark,Q1503072,Cabinet of Denmark
+Q29999,Kingdom of the Netherlands,Q245709,Council of Ministers of the Kingdom of the Netherlands
+Q710,Kiribati,Q5015529,Cabinet of Kiribati
+Q817,Kuwait,Q5015525,Cabinet of Kuwait
+Q813,Kyrgyzstan,Q24031608,Cabinet of Ministers of Kyrgyzstan
+Q819,Laos,Q113947504,Cabinet of Laos
+Q211,Latvia,Q2502537,Government of Latvia
+Q822,Lebanon,Q5015526,Cabinet of Lebanon
+Q1013,Lesotho,Q96374239,Cabinet of Lesotho
+Q1014,Liberia,Q1719584,Cabinet of Liberia
+Q1016,Libya,Q3111812,Cabinet of Libya
+Q347,Liechtenstein,Q2137649,Cabinet of Liechtenstein
+Q37,Lithuania,Q29078891,Cabinet of Lithuania
+Q32,Luxembourg,Q25056658,Government Council of Luxembourg
+Q1019,Madagascar,Q113560825,Cabinet of Madagascar
+Q1020,Malawi,Q5015531,Cabinet of Malawi
+Q833,Malaysia,Q846488,Cabinet of Malaysia
+Q826,Maldives,Q5015583,Cabinet of the Maldives
+Q912,Mali,Q5176452,Council of Ministers of Mali
+Q233,Malta,Q3112083,Cabinet of Malta
+Q709,Marshall Islands,Q110029771,Cabinet of the Marshall Islands
+Q1025,Mauritania,Q3112595,Government of Mauritania
+Q1027,Mauritius,Q7720898,The Cabinet of Ministers of the Republic of Mauritius
+Q96,Mexico,Q2182191,cabinet of Mexico
+Q217,Moldova,Q110300851,Cabinet of Moldova
+Q235,Monaco,Q593887,Council of Government
+Q711,Mongolia,Q16639003,Government of Mongolia
+Q236,Montenegro,Q107736267,Cabinet of Montenegro
+Q1028,Morocco,Q12208534,Cabinet of Morocco
+Q1029,Mozambique,Q25051502,Cabinet of Mozambique
+Q836,Myanmar,Q5015506,Cabinet of Myanmar
+Q836,Myanmar,Q114847879,State Administration Council Cabinet
+Q1030,Namibia,Q1646602,Cabinet of Namibia
+Q697,Nauru,Q1637805,Cabinet of Nauru
+Q837,Nepal,Q6567964,Council of Ministers of Nepal
+Q664,New Zealand,Q2932373,Cabinet of New Zealand
+Q811,Nicaragua,Q113577074,Cabinet of Nicaragua
+Q1032,Niger,Q5015537,Cabinet of Niger
+Q1033,Nigeria,Q5015542,Cabinet of Nigeria
+Q423,North Korea,Q1937145,Cabinet of North Korea
+Q221,North Macedonia,Q1343342,Government of North Macedonia
+Q20,Norway,Q1770849,Government of Norway
+Q842,Oman,Q5015541,Cabinet of Oman
+Q843,Pakistan,Q2607174,Federal Cabinet of Pakistan
+Q695,Palau,Q52898982,Government of Palau
+Q804,Panama,Q61522314,Council of Ministers of Panama
+Q691,Papua New Guinea,Q5015543,Cabinet of Papua New Guinea
+Q733,Paraguay,Q16850116,Cabinet of Paraguay
+Q148,People's Republic of China,Q59261,State Council of the People's Republic of China
+Q419,Peru,Q2993851,Cabinet of Peru
+Q928,Philippines,Q3409762,Cabinet of the Philippines
+Q36,Poland,Q1338983,Council of Ministers
+Q45,Portugal,Q16850120,Council of Ministers
+Q846,Qatar,Q5015550,Cabinet of Qatar
+Q27,Republic of Ireland,Q1672817,Government of Ireland
+Q971,Republic of the Congo,Q3112600,Government of the Republic of the Congo
+Q218,Romania,Q30301632,Cabinet of Romania
+Q159,Russia,Q60645,Council of Ministers of Russia
+Q1037,Rwanda,Q5176454,Cabinet of Rwanda
+Q763,Saint Kitts and Nevis,Q107986344,Cabinet of Saint Kitts and Nevis
+Q760,Saint Lucia,Q107675621,Cabinet of Saint Lucia
+Q757,Saint Vincent and the Grenadines,Q113758147,Cabinet of Saint Vincent and the Grenadines
+Q683,Samoa,Q5015552,Cabinet of Samoa
+Q238,San Marino,Q3686960,Congress of State
+Q851,Saudi Arabia,Q14654732,Council of Ministers of Saudi Arabia
+Q851,Saudi Arabia,Q19601544,Council of Political and Security Affairs
+Q1041,Senegal,Q109927108,Cabinet of Senegal
+Q403,Serbia,Q30301644,Cabinet of Serbia
+Q1042,Seychelles,Q28454162,Cabinet of Seychelles
+Q1044,Sierra Leone,Q5015554,Cabinet of Sierra Leone
+Q334,Singapore,Q5015558,Cabinet of Singapore
+Q214,Slovakia,Q3495267,Government of Slovakia
+Q215,Slovenia,Q19901640,Cabinet of Slovenia
+Q685,Solomon Islands,Q5015584,Cabinet of the Solomon Islands
+Q1045,Somalia,Q7559139,Cabinet of Somalia
+Q258,South Africa,Q634678,Cabinet of South Africa
+Q884,South Korea,Q12585780,State Council of South Korea
+Q958,South Sudan,Q4376010,Cabinet of South Sudan
+Q29,Spain,Q3058576,Council of Ministers of Spain
+Q854,Sri Lanka,Q3783006,Cabinet of Sri Lanka
+Q1049,Sudan,Q5015559,Cabinet of Sudan
+Q730,Suriname,Q105688805,Cabinet of Suriname
+Q34,Sweden,Q930729,Government of Sweden
+Q39,Switzerland,Q30917,Swiss Federal Council
+Q858,Syria,Q267276,Council of Ministers of Syria
+Q1039,São Tomé and Príncipe,Q18125240,government of São Tomé and Príncipe
+Q865,Taiwan,Q715055,Executive Yuan
+Q863,Tajikistan,Q85750014,Cabinet of Tajikistan
+Q924,Tanzania,Q5015563,Cabinet of Tanzania
+Q869,Thailand,Q873368,Cabinet of Thailand
+Q778,The Bahamas,Q5015577,Cabinet of the Bahamas
+Q1005,The Gambia,Q2137664,Cabinet of the Gambia
+Q945,Togo,Q5176457,Council of Ministers of Togo
+Q678,Tonga,Q1567190,Cabinet of Tonga
+Q754,Trinidad and Tobago,Q107861112,cabinet of Trinidad and Tobago
+Q948,Tunisia,Q526548,Government of Tunisia
+Q43,Turkey,Q12812333,Cabinet of Turkey
+Q874,Turkmenistan,Q4206687,Cabinet of Ministers
+Q672,Tuvalu,Q2932382,Cabinet of Tuvalu
+Q1036,Uganda,Q16148206,Cabinet of Uganda
+Q212,Ukraine,Q613729,Cabinet of Ministers of Ukraine
+Q878,United Arab Emirates,Q5015588,Cabinet of the United Arab Emirates
+Q145,United Kingdom,Q112014,Cabinet of the United Kingdom
+Q30,United States of America,Q639738,United States Cabinet
+Q77,Uruguay,Q5015570,Cabinet of Uruguay
+Q265,Uzbekistan,Q16656759,Cabinet of Ministers of Uzbekistan
+Q686,Vanuatu,Q1565931,Cabinet of Vanuatu
+Q717,Venezuela,Q14252930,Cabinet of Venezuela
+Q881,Vietnam,Q29076424,Cabinet of Vietnam
+Q805,Yemen,Q5015574,Cabinet of Yemen
+Q953,Zambia,Q5015573,Cabinet of Zambia
+Q954,Zimbabwe,Q5015575,Cabinet of Zimbabwe
