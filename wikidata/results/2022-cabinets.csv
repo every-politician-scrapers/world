@@ -1,7 +1,6 @@
 item,itemLabel,itemDescription,jurisdiction,jurisdictionLabel,began,ended,type
 Q113731018,Truss ministry,government of the United Kingdom,,,2022-09-06,2022-10-25,cabinet
-Q114821172,Smith Ministry,"Cabinet of Alberta, 2022–",,,2022-10-11,,cabinet
-Q114838778,Sunak ministry,government of the United Kingdom,,,2022-10-25,,cabinet
+Q114821172,Smith Ministry,"Cabinet of Alberta, 2022–",Q1951,Alberta,2022-10-11,,cabinet
 Q113192473,Second government of Juan Manuel Moreno,,Q5783,Andalusia,2022-07-26,,cabinet
 Q112114760,Albanese ministry,Australian government ministry led by Anthony Albanese,Q408,Australia,2022-05-23,,cabinet
 Q113577785,Eighth Nitish Kumar ministry,,Q1165,Bihar,2022-08-09,,cabinet
@@ -42,6 +41,7 @@ Q111992836,Fourth Gotabaya Rajapaksa cabinet,,Q854,Sri Lanka,2022-05-12,2022-07-
 Q113236919,Wickremesinghe cabinet,government of Sri Lanka,Q854,Sri Lanka,2022-07-22,,cabinet
 Q114671310,Kristersson Cabinet,cabinet of Sweden,Q34,Sweden,2022-10-18,,cabinet
 Q112169101,Manik Saha ministry,,Q1363,Tripura,2022-05-14,,cabinet
+Q114838778,Sunak ministry,government of the United Kingdom,Q145,United Kingdom,2022-10-25,,cabinet
 Q111387767,Second Yogi Adityanath ministry,Ministers in the Government of Uttar Pradesh headed by Chief Minister Yogi Adityanath,Q1498,Uttar Pradesh,2022-03-25,,cabinet
 Q111944177,Second Dhami ministry,,Q1499,Uttarakhand,2022-03-23,,cabinet
 Q111519815,Presidential Leadership Council,yemen's executive body,Q805,Yemen,2022-04-07,,government
