@@ -1,10 +1,14 @@
 id,position,country,jurisdiction,deputy,list,start,end,before,after,enwiki
 Q3099742,Deputy Secretary-General of the United Nations,,,,,1997,,,,Deputy Secretary-General of the United Nations
 Q30771010,Judge of the International Court of Justice,,,,Q728656,,,,,
+Q30277603,Member of the Pan-African Parliament,,Q7159,,,,,,,
+Q104523987,President of the Pan African Paliament,,Q7159,,,,,,,
 Q65077634,President of the United Nations Economic and Social Council,,,,,1946,,,,President of the United Nations Economic and Social Council
 Q1161813,President of the United Nations General Assembly,,,,,1946-03-31,,,,President of the United Nations General Assembly
 Q65494714,Representative of the Parliamentary Assembly of the Council of Europe,,,,,,,,,
+Q78476622,Speaker of the Arab Parliament,,,,,,,,,
 Q65494735,Special Guest of the Parliamentary Assembly of the Council of Europe,,,,,,,,,
 Q65494724,Substitute member of the Parliamentary Assembly of the Council of Europe,,,,,,,,,
 Q2932400,Under-Secretary-General of the United Nations,,,,,,,,,Under-Secretary-General of the United Nations
 Q81066,United Nations Secretary-General,,,Q3099742,Q3254299,1945-06-26,,,,Secretary-General of the United Nations
+Q109321442,member of the Andean Parliament,,,,,,,,,
