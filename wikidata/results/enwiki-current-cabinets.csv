@@ -1,6 +1,5 @@
 page,item,itemLabel,country,countryLabel,jurisdiction,jurisdictionLabel,inception,abolished
 List of current governments,Q111973484,List of current governments,,,,,,
-Rockliff ministry,Q112030368,Rockliff ministry,,,,,,
 Von der Leyen Commission,Q65590503,Von der Leyen Commission,,,Q458,European Union,2019-12-01,
 Hamas government of October 2016,Q28419419,Hamas government of 2016,,,Q39760,Gaza Strip,2016-10-17,2016-11-30
 Second Egede cabinet,Q111486937,Second Egede cabinet,,,Q223,Greenland,2022-04-05,
@@ -14,9 +13,10 @@ Benabderrahmane government,Q107447224,Benabderrahmane Cabinet,Q262,Algeria,Q262,
 Presidency of Alberto Fernández,Q78155250,presidency of Alberto Fernández,Q414,Argentina,Q414,Argentina,,
 Third Pashinyan government,Q108128269,Third Pashinyan government,Q399,Armenia,Q399,Armenia,2021-08-02,
 Albanese ministry,Q112114760,Albanese ministry,Q408,Australia,Q408,Australia,2022-05-23,
+Rockliff ministry,Q111585827,Rockliff ministry,Q408,Australia,Q34366,Tasmania,2022-04-08,
 Nehammer government,Q109907459,Nehammer government,Q40,Austria,Q40,Austria,2021-12-06,
 Cabinet of Azerbaijan,Q13410372,Cabinet of Azerbaijan,Q227,Azerbaijan,Q227,Azerbaijan,1991-01-01,
-8th Government of Azerbaijan,Q65279005,Asadov Cabinet,Q227,Azerbaijan,Q227,Azerbaijan,2018-04-01,
+8th Government of Azerbaijan,Q65279005,Cabinet of Azerbaijan (2018–),Q227,Azerbaijan,Q227,Azerbaijan,2018-04-21,
 Government of Belarus,Q997640,Council of Ministers of the Republic of Belarus,Q184,Belarus,Q184,Belarus,,
 De Croo Government,Q99749625,De Croo government,Q31,Belgium,Q31,Belgium,2020-10-01,
 Cabinet of Luis Arce,Q101230919,Arce Cabinet,Q750,Bolivia,Q750,Bolivia,2020-11-09,
@@ -28,7 +28,6 @@ Ndayishimiye cabinet,Q97516131,Ndayishimiye cabinet,Q967,Burundi,Q967,Burundi,20
 Cabinet of Hun Sen,Q15579106,Cabinet of Hun Sen,Q424,Cambodia,Q424,Cambodia,2013-09-24,
 Joseph Ngute's government,Q60852905,Ngute Cabinet,Q1009,Cameroon,Q1009,Cameroon,2019-01-04,
 Smith Ministry,Q114821172,Smith Ministry,Q16,Canada,Q1951,Alberta,2022-10-11,
-Horgan ministry,Q113115761,Horgan ministry,Q16,Canada,Q1973,British Columbia,2017-07-18,
 29th Canadian Ministry,Q21188948,29th Canadian Ministry,Q16,Canada,Q16,Canada,2015-11-04,
 Presidency of Gustavo Petro,Q112643269,Government of Gustavo Petro,Q739,Colombia,Q739,Colombia,,
 Presidency of Iván Duque,Q106730519,government of Iván Duque,Q739,Colombia,Q739,Colombia,2018-08-07,2022-08-07
