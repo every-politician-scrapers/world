@@ -5,7 +5,7 @@ TMPFILE=$(mktemp)
 cd $(dirname $0)
 
 bundle exec ruby scraper.rb |
-  sed -e 's/Q17252/Q17269/g' |
+  sed -e 's/Q17252/Q17269/g' | sed -e 's/Q23334/Q31354462/g' | sed -e 's/,Vacant,/,,/g' |
   qsv select country,countryLabel,id,name,positionID,position,startDate |
   qsv rename country,countryLabel,person,name,position,positionLabel,start > scraped.csv
 
@@ -24,6 +24,6 @@ sqlite3 :memory: -cmd '.mode csv' -cmd ".import $TMPFILE comparison" -cmd '.mode
 
 sqlite3 :memory: -cmd '.mode csv' -cmd ".import comparison.csv comparison" -cmd '.mode csv' -header '
   SELECT * FROM comparison WHERE (wpperson!="" AND wpperson != wdperson) OR (wpperson = "" AND wppersonlabel != wdpersonlabel)
-  ' | qsv fmt > diff.csv
+  ' | qsv search -s countrylabel -v "(Yemen|Myanmar)" | qsv fmt | tee diff.csv
 
 cd ~-
