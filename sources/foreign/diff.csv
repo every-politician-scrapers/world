@@ -1,43 +1,28 @@
-@@,person,name,country,countrylabel,position
-->,Q26923392,Abulkalam Abdul Momen->AK Abdul Momen,Q902,Bangladesh,Q1153140
-+++,Q57327,Hassanal Bolkiah,Q921,Brunei,
-+++,Q734492,Pascal Smet,Q240,Brussels-Capital Region,
-->,Q111184239,Olivia Ragnaghnewendé Rouamba->Olivia Rouamba,Q965,Burkina Faso,Q18204360
-+++,,Paula Fernández Viaña,Q3946,Cantabria,
-+++,Q7378692,Rui Alberto de Figueiredo Soares,Q1011,Cape Verde,
-+++,Q19662475,Mahamat Zene Cherif,Q657,Chad,
-->,Q102077694,Rodolfo Solano Quirós->Rodolfo Solano,Q800,Costa Rica,Q6402752
-->,Q5111780,Christophe Lutundula,Q974,"Democratic Republic of the Congo->Congo, Democratic Republic of the",Q6866142
-+++,Q56651232,Natalya Nikonorova,Q16150196,Donetsk People's Republic,
-->,Q348268,Adaljíza Magno,Q574,East Timor->Timor-Leste,Q109733888
----,Q57830,Frank Bainimarama,Q712,Fiji,Q6865844
-+++,,Vitaliy Vlah,Q164819,Gagauzia,
-+++,Q923245,Jonathan Le Tocq,Q3311985,Guernsey,
-->,Q66400641,Safeen Muhsin Deza'i->Safeen Muhsin Dizayee,Q205047,Kurdistan Region->Kurdistan,Q113470571
-+++,,Hafez Kaddour,Q1016,Libya,
-+++,,Vladislav Deinevo,Q16746854,Lugansk People's Republic,
-+++,,Richard Randriamandrato,Q1019,Madagascar,
-->,Q114107123->Q16733931,Mohamed Salem Ould Merzoug->Ismail Ould Cheikh Ahmed,Q1025,Mauritania,Q56062123
-->,Q85991458,Justin Tkachenko->Justin Tkatchenko,Q691,Papua New Guinea,Q20716378
-->,Q701801,Wang Yi,Q148,People's Republic of China->China,Q2664362
-->,Q43955694->Q113456053,César Landa Arroyo->Miguel Rodríguez MacKay,Q419,Peru,Q2882089
-->,Q18043980,Inal Ardzinba,Q31354462->Q23334,Republic of Abkhazia->Abkhazia,Q4294395
-->,Q21531891,David Babayan,Q244165,Republic of Artsakh->Artsakh,Q19901421
-->,Q1670096,Simon Coveney,Q27,Republic of Ireland->Ireland,Q6865853
-->,Q15046890,Jean-Claude Gakosso,Q971,"Republic of the Congo->Congo, Republic of the",Q18204385
-->,Q58217,Sergey Lavrov,Q159,Russia->Russian Federation,Q1418873
-->,Q107722495,Mohamed Abdirizak Mohamud->Abshir Omar Huruuse,Q1045,Somalia,Q98685961
-->,Q108477781,Essa Kayd,Q34754,Somaliland->Somaliland (Republic of Somaliland),Q104869321
-+++,Q2639773,Albrecht Freiherr von Boeselager,Q190353,Sovereign Military Order of Malta,
-->,Q2895694,Riyad al-Maliki,Q219060,State of Palestine->Palestine,Q113470524
-->,Q113987015,Ali Al-Sadiq Ali->Ali Sadiq Ali,Q1049,Sudan,Q109984815
-+++,Q117254,Ignazio Cassis,Q39,Switzerland,
-->,Q6288088,Joseph Wu,Q865,Taiwan->Republic of China,Q2482650
----,,,Q778,The Bahamas,Q108030477
-->,Q3086904,Fred Mitchell,Q778,The Bahamas->Bahamas,Q6866141
-->,Q1888110,Mamadou Tangara,Q1005,"The Gambia->Gambia, The",Q1407477
-->,Q109637823,Norzin Dolma,Q17269->Q17252,Tibet,Q113548707
-->,Q2388336,Tahsin Ertuğruloğlu,Q23681,Turkish Republic of Northern Cyprus->Northern Cyprus,Q108730544
-->,Q7821917,Antony Blinken,Q30,United States of America->United States,Q14213
-->,Q2059716,Archbishop Paul Gallagher,Q237->Q159583,Vatican City->Holy See,Q2608295
-->,Q110684398,Mario Búcaro,Q7330070->Q774,foreign minister->Guatemala,Q25241973
+country,countrylabel,wpperson,wppersonlabel,wdperson,wdpersonlabel
+Q23334,Abkhazia,Q18043980,Inal Ardzinba,,
+Q778,Bahamas,Q3086904,Fred Mitchell,,
+Q921,Brunei,Q57327,Hassanal Bolkiah,Q64605915,Erywan Yusof
+Q240,Brussels-Capital Region,Q734492,Pascal Smet,,
+Q3946,Cantabria,,Paula Fernández Viaña,,
+Q1011,Cape Verde,Q7378692,Rui Alberto de Figueiredo Soares,,
+Q657,Chad,Q19662475,Mahamat Zene Cherif,,
+Q16150196,Donetsk People's Republic,Q56651232,Natalya Nikonorova,,
+Q164819,Gagauzia,,Vitaliy Vlah,,
+Q774,Guatemala,Q110684398,Mario Búcaro,,
+Q3311985,Guernsey,Q923245,Jonathan Le Tocq,,
+Q159583,Holy See,Q2059716,Archbishop Paul Gallagher,,
+Q205047,Kurdistan,,Safeen Muhsin Dizayee,Q66400641,Safeen Muhsin Deza'i
+Q1016,Libya,,Hafez Kaddour,Q105977287,Najla Mangoush
+Q16746854,Lugansk People's Republic,,Vladislav Deinevo,,
+Q1019,Madagascar,,Richard Randriamandrato,,
+Q1025,Mauritania,Q16733931,Ismail Ould Cheikh Ahmed,Q114107123,Mohamed Salem Ould Merzoug
+Q836,Myanmar,Q339081,Wunna Maung Lwin,Q17985658,Zin Mar Aung
+Q836,Myanmar,Q17985658,Zin Mar Aung,Q339081,Wunna Maung Lwin
+Q691,Papua New Guinea,,Justin Tkatchenko,Q85991458,Justin Tkachenko
+Q419,Peru,Q113456053,Miguel Rodríguez MacKay,Q43955694,César Landa Arroyo
+Q1045,Somalia,,Abshir Omar Huruuse,Q107722495,Mohamed Abdirizak Mohamud
+Q190353,Sovereign Military Order of Malta,Q2639773,Albrecht Freiherr von Boeselager,,
+Q1049,Sudan,,Ali Sadiq Ali,Q113987015,Ali Al-Sadiq Ali
+Q39,Switzerland,Q117254,Ignazio Cassis,,
+Q805,Yemen,Q16119688,Ahmad Awad Bin Mubarak,Q16187308,Hisham Sharaf
+Q805,Yemen,Q16187308,Hisham Sharaf,Q16119688,Ahmad Awad Bin Mubarak
