@@ -1,5 +1,5 @@
 position,positionLabel,ofLabel,jurisdictionLabel,people,example
-Q27169,member of the European Parliament,,European Union,247,Q47506840
+Q27169,member of the European Parliament,,European Union,249,Q47506840
 Q1939555,member of the German Bundestag,,Germany,163,Q65497730
 Q18558478,member of the Chamber of Deputies of the Italian Republic,,Italy,129,Q65499832
 Q3044918,member of the French National Assembly,,France,117,Q30527240
@@ -15,7 +15,7 @@ Q18171345,Member of the Congress of Deputies,,Spain,71,Q44629038
 Q17590876,member of the National Assembly of Hungary,,Hungary,70,Q55753801
 Q10655178,member of the Swedish Riksdag,,Sweden,68,Q65499866
 Q17276321,member of the State Duma,,Russia,67,Q55103256
-Q18887908,member of the House of Representatives of the Netherlands,,Kingdom of the Netherlands,64,Q28861054
+Q18887908,member of the House of Representatives of the Netherlands,,Kingdom of the Netherlands,65,Q28861054
 Q35494253,Member of the 55th Parliament of the United Kingdom,,United Kingdom,63,Q750381
 Q30524718,Member of the 56th Parliament of the United Kingdom,,United Kingdom,62,Q20648564
 Q30524710,Member of the 57th Parliament of the United Kingdom,,United Kingdom,62,Q30174601
@@ -26,48 +26,47 @@ Q9045502,member of the Parliament of Norway,,Norway,56,Q39513794
 Q19803234,Member of the Chamber of Deputies of the Parliament of the Czech Republic,,Czech Republic,55,Q44849760
 Q12132454,People's Deputy of Ukraine,,Ukraine,53,Q23058138
 Q15705021,member of the Chamber of Representatives of Belgium,,Belgium,52,Q17428788
-Q15964890,member of the House of Commons of Canada,,Canada,48,Q22704263
+Q15964890,member of the House of Commons of Canada,,Canada,52,Q22704263
+Q17592486,member of the Parliament of Finland,,Finland,49,Q20257511
 Q17535155,member of the National Council of Austria,,Austria,48,Q42310694
-Q17592486,member of the Parliament of Finland,,Finland,48,Q20257511
+Q19971999,member of the Senate of Mexico,,Mexico,47,Q65499874
 Q41582624,Member of the 50th Parliament of the United Kingdom,,United Kingdom,46,Q15525123
+Q18534310,Member of the Chamber of Deputies of Mexico,,Mexico,45,Q65499632
 Q18952564,Member of the House of Lords,,United Kingdom,45,Q18746979
 Q17619252,Senator of Belgium,,Belgium,45,Q17428788
 Q14828018,Senator of the French Fifth Republic,,France,45,Q18215030
 Q77685926,Member of the 58th Parliament of the United Kingdom,,United Kingdom,44,Q20648564
 Q18390049,member of the Parliament of Moldova,,Moldova,42,Q21746924
 Q18643511,representative in the Croatian Parliament,,Croatia,42,Q61944350
+Q4047513,Knesset member,,Israel,41,Q20898016
 Q654291,Teachta Dála,,Republic of Ireland,40,Q23006310
-Q18534310,Member of the Chamber of Deputies of Mexico,,Mexico,38,Q65499632
-Q19971999,member of the Senate of Mexico,,Mexico,38,Q65499874
 Q4516946,member of the Federation Council of Russia,,Russia,37,Q65499051
 Q21100241,member of the Riigikogu,,Estonia,35,Q65498004
 Q19323171,member of the Senate of Spain,,Spain,35,Q65497794
 Q18507240,Member of the Seimas,,Lithuania,34,Q27849997
 Q18510612,Member of the Swiss National Council,,Switzerland,34,Q23008621
-Q19305384,member of the Senate of the Netherlands,,Kingdom of the Netherlands,32,Q29001708
-Q4047513,Knesset member,,Israel,31,Q20898016
+Q19305384,member of the Senate of the Netherlands,,Kingdom of the Netherlands,33,Q29001708
 Q16159375,deputy member of the Parliament of Norway,,Norway,31,Q39513794
 Q41582621,Member of the 49th Parliament of the United Kingdom,,United Kingdom,30,Q12899736
 Q18043391,senator of Ireland,,Republic of Ireland,30,Q24266621
 Q15105064,member of the Flemish Parliament,,Flemish Community,28,Q17428788
 Q20177772,Member of the Parliament of Albania,,Albania,27,Q32028208
 Q21295999,member of the National Assembly of Serbia,,Serbia,27,Q56065120
-Q65494729,Observer of the Parliamentary Assembly of the Council of Europe,,,26,Q14916052
+Q18524027,member of the Senate of Canada,,Canada,27,Q54861079
+Q18694248,municipality councillor in Finland,,municipality of Finland,26,Q20257511
 Q28841847,Member of the Privy Council of the United Kingdom,,United Kingdom,25,Q19957769
 Q19360771,member of the Austrian federal council,,Austria,25,Q20752406
 Q17277248,member of the National Assembly of Armenia,,Armenia,25,Q59103045
-Q18694248,municipality councillor in Finland,,municipality of Finland,25,Q20257511
 Q19938957,member of the Senate of Romania,,Romania,24,Q30349022
 Q18941264,Member of the Senate of the Parliament of the Czech Republic,,Czech Republic,23,Q18006203
 Q21328592,Deputy of the Chamber of Deputies of Luxembourg,,Luxembourg,22,Q16440329
 Q21290878,Member of the Parliament of Georgia,,Georgia,22,Q65284961
 Q21191589,deputy of Saeima,,Latvia,21,Q58371504
-Q18524027,member of the Senate of Canada,,Canada,21,Q54861079
 Q16886136,regional council member,,,21,Q3385262
 Q19967563,Member of the National Council of the Slovak Republic,,Slovakia,20,Q17330556
+Q121998,ambassador,,,20,Q18507860
 Q41582619,Member of the 48th Parliament of the United Kingdom,,United Kingdom,19,Q15525123
 Q20968670,member of the Grand and General Council of San Marino,,San Marino,19,Q28968160
-Q121998,ambassador,,,17,Q18507860
 Q258045,Captain Regent of San Marino,,San Marino,16,Q65499704
 Q21328583,Member of the House of Representatives of Morocco,,Morocco,16,Q65499871
 Q21328626,Member of the National Council of Monaco,,Monaco,16,Q41480094
@@ -84,14 +83,11 @@ Q3780304,member of the general council,,department of France,13,Q3035273
 Q33083755,Member of the 2007-2009 Parliament of Iceland,,Iceland,12,Q16422960
 Q41582617,Member of the 47th Parliament of the United Kingdom,,United Kingdom,12,Q15525123
 Q97670388,Member of the Committee on European Union Affairs,,Sweden,12,Q5972016
-Q43083583,president of the Parliamentary Assembly of the Council of Europe,,,12,Q47545922
-Q94450525,Vice President of the International Court of Justice,,,11,Q4134668
 Q18924508,member of the Bulgarian National Assembly,,Bulgaria,11,Q20500637
 Q41582612,Member of the 45th Parliament of the United Kingdom,,United Kingdom,10,Q12899736
 Q21272959,Member of the Althing,,Iceland,10,Q15622449
 Q20177831,Member of the General Council of Andorra,,Andorra,10,Q65499144
 Q19731005,Parliamentary Secretary in Germany,,Germany,10,Q2503159
-Q19926443,President of the International Court of Justice,,,10,Q1690742
 Q30185,mayor,,municipality,10,Q15813144
 Q58904879,member of the Committee on Finance,,Sweden,10,Q16633140
 Q33083156,Member of the 2009-2013 Parliament of Iceland,,Iceland,9,Q5618945
@@ -143,11 +139,12 @@ Q104559039,Central Bohemian Region Assembly member,,Central Bohemian Region,4,Q1
 Q108856016,Member of the 2021– Parliament of Iceland,,Iceland,4,Q55768548
 Q18327335,Member of the Abgeordnetenhaus of Berlin,,Berlin,4,Q2589179
 Q97670375,Member of the Committee on Transport and Communications,,Sweden,4,Q4990984
-Q29885524,Member of the NATO Parliamentary Assembly,,North Atlantic Treaty Organization,4,Q1698153
+Q3305338,Member of the National Assembly of Quebec,,Quebec,4,Q5556749
 Q21328626,Member of the National Council of Monaco,National Council,Monaco,4,Q41496775
 Q6865928,Minister for Nordic Cooperation,,Iceland,4,Q1715069
 Q112768892,Minister of Development Cooperation,,Belgium,4,Q3056542
 Q61867156,Minister of Foreign Affairs,,North Macedonia,4,Q690405
+Q20007045,Minister of Foreign Affairs,,Netherlands,4,Q773635
 Q3304204,Minister of Foreign Affairs,,Albania,4,Q13043722
 Q43186489,Minister of Justice,,Portugal,4,Q16337119
 Q19860560,Minister of Justice of Greece,,Greece,4,Q15618317
@@ -158,6 +155,7 @@ Q251747,President of the Senate of the Netherlands,,Netherlands,4,Q13653571
 Q15304810,Prime Minister of Romania,,Romania,4,Q30349022
 Q62545834,Regional council member of Alsace,,Alsace,4,Q3158284
 Q3954377,Secretary for Finance and Budget,,San Marino,4,Q18221867
+Q86120723,Secretary of State for Foreign Affairs,,Kingdom of the Netherlands,4,Q773635
 Q7460544,Shadow Leader of the House of Commons,,United Kingdom,4,Q478711
 Q14957218,Shadow Secretary of State for Scotland,,United Kingdom,4,Q12899736
 Q7574264,Speaker of the Hellenic Parliament,,Greece,4,Q20995518
@@ -171,6 +169,7 @@ Q813389,Délégué du gouvernement fédéral pour la Politique des droits humain
 Q62561369,conseiller régional de Lorraine,,Lorraine,4,Q3173270
 Q848335,Chairman of the Presidency of Bosnia and Herzegovina,,,3,Q944643
 Q679817,Chairman of the Verkhovna Rada,,,3,Q2066222
+Q85027613,Cleveringa chair,,,3,Q773635
 Q23640242,Deputy Minister for Foreign Affairs,,Greece,3,Q12881047
 Q21485921,Deputy Minister of the Interior,,Greece,3,Q19514797
 Q3394691,Deputy Prime Minister of Greece,,Greece,3,Q5558236
@@ -184,7 +183,6 @@ Q37303721,Member of the 2nd Northern Ireland Assembly,,Northern Ireland,3,Q33399
 Q41582608,Member of the 43rd Parliament of the United Kingdom,,United Kingdom,3,Q12899736
 Q21328613,Member of the House of Peoples of Bosnia and Herzegovina,,Bosnia and Herzegovina,3,Q12636401
 Q18130496,Member of the Landtag of Schleswig-Holstein,,Schleswig-Holstein,3,Q1876595
-Q3305338,Member of the National Assembly of Quebec,,Quebec,3,Q5556749
 Q21328576,Member of the Parliament of Montenegro,,Montenegro,3,Q56733060
 Q16147098,Minister for Foreign Affairs of Greece,,Greece,3,Q462542
 Q5690600,Minister for Health of Denmark,,Denmark,3,Q12336452
@@ -201,14 +199,15 @@ Q10686032,Minister of Employment,,Sweden,3,Q6039678
 Q20988485,Minister of European Union Affairs,,Turkey,3,Q7940222
 Q2501411,Minister of Foreign Affairs,,Slovakia,3,Q1289100
 Q6866144,Minister of Foreign Affairs,,Denmark,3,Q3138668
-Q20007045,Minister of Foreign Affairs,,Netherlands,3,Q554116
 Q1670832,Minister of Foreign Affairs in Belgium,,Belgium,3,Q3056542
 Q21503673,Minister of Foreign Affairs of Romania,,Romania,3,Q374179
 Q20988486,"Minister of Foreign Affairs, Turkey",,Turkey,3,Q381297
+Q15722942,Minister of Health,,Israel,3,Q2141400
 Q2199719,Minister of Public Administration and Local Self-Government,,Serbia,3,Q27907563
 Q18694348,Minister of Social Affairs and Health,,Finland,3,Q7198035
 Q6866364,"Minister of State at the Department of Enterprise, Trade and Employment",,Republic of Ireland,3,Q6237376
 Q19904387,Minister of Transports and Communications of Greece,,Greece,3,Q1063232
+Q15733044,Minister without portfolio,,Israel,3,Q2141400
 Q2199785,Minister without portfolio of the Republic of Serbia,,Serbia,3,Q17388477
 Q2746377,Minister-President of Flanders,,Flanders,3,Q1865725
 Q55973189,Moravian-Silesian Region Assembly member,,Moravian-Silesian Region,3,Q19602762
@@ -220,9 +219,9 @@ Q1975365,Prime Minister of Georgia,,Georgia,3,Q1010588
 Q1769526,Prime Minister of Moldova,,Moldova,3,Q2143400
 Q45369,Prime Minister of Slovakia,,Slovakia,3,Q17330556
 Q22328310,Second President of the National Council of Austria,,Austria,3,Q87873
-Q86120723,Secretary of State for Foreign Affairs,,Kingdom of the Netherlands,3,Q572209
 Q7460599,Shadow Secretary of State for Northern Ireland,,United Kingdom,3,Q6396978
 Q1850524,Speaker of the Parliament of Albania,,Albania,3,Q1722312
+Q16147743,State Secretary,Ministry of Foreign Affairs of Norway,Norway,3,Q1798291
 Q16147743,State Secretary,Norway's Ministry of Local Government and Modernisation,Norway,3,Q15109944
 Q66062821,chairman of the joint commission for the European Union,,,3,Q19828092
 Q62456083,conseiller régional de Rhône-Alpes,,Rhône-Alpes,3,Q3027038
@@ -254,10 +253,10 @@ Q16020744,Chairman of the Council of Ministers of Bosnia and Herzegovina,,Bosnia
 Q4376663,Chairman of the State Duma,,Russia,2,Q983654
 Q3652076,Chairperson of the Parliament of Georgia,,Georgia,2,Q673705
 Q1307072,Chief Whip,,,2,Q1175443
-Q85027613,Cleveringa chair,,,2,Q607189
 Q56511914,County Governor of Rogaland,,Rogaland,2,Q462543
 Q11781520,Danish Minister for Labour,,Denmark,2,Q3121413
 Q5261043,Deputy Leader of the Labour Party,,United Kingdom,2,Q332393
+Q15728439,Deputy Minister of Defense,,Israel,2,Q1380540
 Q23836176,Deputy Minister of the Economy,,Greece,2,Q15618317
 Q87885285,Deputy Prime Minister of Belgium,,Belgium,2,Q17428148
 Q16973527,Deputy Prime Minister of Croatia,,Croatia,2,Q30111243
@@ -270,6 +269,7 @@ Q1476458,European Commissioner for the Environment,,European Union,2,Q333554
 Q30533247,Federal Minister of Justice,,Germany,2,Q65394
 Q1965788,First Deputy Chairman of the Government of the Russian Federation,,Russia,2,Q983654
 Q112573186,Flemish minister of Agriculture,,Flanders,2,Q2095531
+Q18018541,Foreign Minister of Norway,,Norway,2,Q998489
 Q27134289,General Secretary of the Socialist Party (Portugal),,Portugal,2,Q925136
 Q20988365,Governor of Ankara,,,2,Q6039170
 Q4151349,Governor of Odessa Oblast,,Odesa Oblast,2,Q4284684
@@ -323,6 +323,7 @@ Q55374037,Minister of Economy and Commerce of Iceland,,Iceland,2,Q511882
 Q19752714,Minister of Economy of Greece,,Greece,2,Q15618317
 Q16422303,Minister of Education,,Iceland,2,Q7862293
 Q6866110,Minister of Education and Research,,Estonia,2,Q788525
+Q15732343,Minister of Energy,,Israel,2,Q2910007
 Q106533226,Minister of Energy and Natural Resources,,,2,Q6035094
 Q6590389,Minister of Finance,,Latvia,2,Q4392612
 Q17278723,Minister of Fisheries and Agriculture,,Iceland,2,Q5618945
@@ -389,7 +390,7 @@ Q55670007,South Bohemian Region Assembly member,,South Bohemian Region,2,Q120592
 Q16424173,Speaker of the Althing,,,2,Q865180
 Q2588268,Speaker of the House of Representatives,,Netherlands,2,Q510705
 Q1850749,Speaker of the Parliament of Sweden,,Sweden,2,Q1375199
-Q16147743,State Secretary,Ministry of Foreign Affairs of Norway,Norway,2,Q1798291
+Q784084,Special Representative of the Secretary-General for Kosovo,,,2,Q1388868
 Q1146214,Tánaiste,,Republic of Ireland,2,Q982225
 Q3965289,Undersecretary to the Presidency of the Council,,Italy,2,Q3557346
 Q426461,Vice-Chamberlain of the Household,,,2,Q5606816
@@ -505,6 +506,7 @@ Q5261044,Deputy Marshal of the Sejm of the Republic of Poland,,,1,Q360362
 Q18625736,Deputy Mayor of Tallinn,,Tallinn City,1,Q12368739
 Q23651610,Deputy Minister of Education,,Greece,1,Q1063232
 Q23640247,Deputy Minister of Labour,,Greece,1,Q16062036
+Q56028053,Deputy Premier of Quebec,,Quebec,1,Q3242479
 Q16361570,Deputy Prime Minister,,Latvia,1,Q713138
 Q108048838,Deputy Prime Minister for Investments and Informatization,,Slovakia,1,Q26837632
 Q17513826,Deputy Prime Minister of Albania,,Albania,1,Q13037063
@@ -567,10 +569,9 @@ Q3068024,First Secretary of State,,United Kingdom,1,Q332393
 Q112610498,Flemish Minister for the Environment,,Flanders,1,Q2095531
 Q112610498,Flemish Minister for the Environment,,Flemish Region,1,Q2095531
 Q112594038,Flemish Minister of Culture,,,1,Q1865725
-Q112596519,Flemish Minister of Energy,,Flanders,1,Q15991
 Q112596519,Flemish Minister of Energy,,Flemish Region,1,Q15991
+Q112596519,Flemish Minister of Energy,,Flanders,1,Q15991
 Q20517766,Foreign Minister of Armenia,,Armenia,1,Q2389114
-Q18018541,Foreign Minister of Norway,,Norway,1,Q267320
 Q12592509,Foreign minister of South Korea,,South Korea,1,Q1253
 Q358834,"Foreign, Commonwealth and Development Office",,United Kingdom,1,Q336213
 Q97061396,French Minister of Foreign Trade,,France,1,Q30348845
@@ -580,6 +581,7 @@ Q64864590,General Secretary of the Progressive Party of Working People,,Cyprus,1
 Q2325058,German Minister of State,,Germany,1,Q67529
 Q5589632,Governor of Baja California,,Baja California,1,Q5867703
 Q4166196,Governor of Donetsk Oblast,,Donetsk Oblast,1,Q1459658
+Q5589657,Governor of Guanajuato,,Guanajuato,1,Q2538498
 Q1159846,Governor of Hong Kong,,British Hong Kong,1,Q167028
 Q97212565,Governor of Kirov Oblast,,Kirov Oblast,1,Q1778740
 Q18238389,Governor of Kursk Oblast,,Kursk Oblast,1,Q314116
@@ -834,7 +836,9 @@ Q19860769,Minister of Commerce of Greece,Cabinet of Georgios Rallis,Greece,1,Q58
 Q19858626,Minister of Commercial Marine of Greece,Cabinet of Konstantinos Mitsotakis,Greece,1,Q4791088
 Q19858626,Minister of Commercial Marine of Greece,Cabinet of Tzannis Tzannetakis,Greece,1,Q4791088
 Q17013920,Minister of Communications,,,1,Q463602
+Q20021270,Minister of Communications,,Israel,1,Q2584267
 Q60688958,Minister of Constitutional and Legal Affairs,,Tanzania,1,Q461710
+Q20021264,Minister of Construction,,Israel,1,Q175792
 Q55049421,Minister of Cultural Heritage and Activities,,Italy,1,Q447895
 Q2198731,Minister of Culture,,Serbia,1,Q1280390
 Q6866085,Minister of Culture,,Norway,1,Q4761757
@@ -886,6 +890,7 @@ Q29933624,Minister of Finance of Moldova,,Moldova,1,Q61299
 Q3734685,Minister of Finance of Norway,,Norway,1,Q1082481
 Q11781525,Minister of Finance of Poland,,Poland,1,Q245792
 Q20675149,Minister of Finance of the Slovak Republic,,Slovakia,1,Q17330556
+Q3251819,Minister of Fisheries and Oceans,,Canada,1,Q3103893
 Q25598671,Minister of Foreign Affairs,,Poland,1,Q9388252
 Q54555913,Minister of Foreign Affairs,,Benin,1,Q7799883
 Q24262486,Minister of Foreign Affairs,,Morocco,1,Q2033385
@@ -899,12 +904,12 @@ Q15916856,Minister of Foreign Affairs of Bulgaria,,Bulgaria,1,Q58106
 Q24293533,Minister of Foreign Affairs of Ecuador,,Ecuador,1,Q460904
 Q108368702,Minister of Foreign Affairs of Georgia,,Georgia,1,Q673705
 Q108368702,Minister of Foreign Affairs of Georgia,Georgia,Georgia,1,Q4570471
+Q107752338,Minister of Foreign Affairs of Kazakhstan,,Kazakhstan,1,Q1721851
 Q24256544,Minister of Foreign Affairs of Namibia,,Namibia,1,Q654433
 Q4294924,Minister of Foreign Affairs of Slovenia,,Slovenia,1,Q32083031
 Q24262601,Minister of Foreign Affairs of Uganda,,Uganda,1,Q58240
 Q55075675,Minister of Foreign Trade,,Italy,1,Q542406
 Q25707086,Minister of Health,,Lithuania,1,Q1376538
-Q15722942,Minister of Health,,Israel,1,Q2141400
 Q17013938,Minister of Health,,Iceland,1,Q437932
 Q23196603,Minister of Health,,Portugal,1,Q6761683
 Q98915776,Minister of Health of Mali,,Mali,1,Q3310864
@@ -959,6 +964,7 @@ Q106533996,Minister of National Education,,Turkey,1,Q6073261
 Q19858443,Minister of National Education and Religious Affairs of Greece,,Greece,1,Q5358635
 Q43373411,"Minister of National Education, Vocational Training and Sports",,Luxembourg,1,Q539770
 Q6866263,Minister of National Investment Plan,,Serbia,1,Q3555882
+Q3251824,Minister of Natural Resources,,Canada,1,Q3098581
 Q6866276,Minister of Petroleum and Energy,,Norway,1,Q1771608
 Q19904275,Minister of Public Order,First Cabinet of Kostas Karamanlis,Greece,1,Q382096
 Q23901391,Minister of Public Order and Citizen Protection,,Greece,1,Q247424
@@ -970,6 +976,7 @@ Q16402881,Minister of Social Affairs,,Estonia,1,Q509232
 Q27517113,Minister of Social Affairs,,Netherlands,1,Q1889236
 Q107735743,Minister of Social Security and Labour,,Lithuania,1,Q562964
 Q23901429,Minister of Social Security of Greece,,Greece,1,Q5358635
+Q6866332,Minister of Sport and Persons with Disabilities,,Canada,1,Q3098581
 Q1535372,Minister of State,,Netherlands,1,Q481465
 Q6866336,Minister of State at the Department of Defence,,,1,Q964465
 Q6866337,Minister of State at the Department of Finance,,Republic of Ireland,1,Q964465
@@ -1025,7 +1032,6 @@ Q20058795,Minister of the Interior of the Czech Republic,,Czech Republic,1,Q6966
 Q5482321,Minister of the Ministry of Finance,,Finland,1,Q591312
 Q43120886,Minister of the Presidency,,Spain,1,Q1684700
 Q50588061,Minister of the Prime Minister's Office of Hungary,,Hungary,1,Q5550584
-Q15733044,Minister without portfolio,,Israel,1,Q2141400
 Q3100220,Minister-President of Wallonia,,Wallonia,1,Q593302
 Q435627,Minister-President of the Brussels-Capital Region,,Brussels-Capital Region,1,Q964403
 Q2311422,Minister-President of the French Community,,French Community of Belgium,1,Q966794
@@ -1091,6 +1097,7 @@ Q17014422,President of the Congress of Deputies,,Spain,1,Q9031777
 Q52414651,President of the Democratic Revolution Party,,,1,Q5664644
 Q3273002,President of the Federation of Bosnia and Herzegovina,,Federation of Bosnia and Herzegovina,1,Q387491
 Q16933549,President of the Generalitat of Catalonia,,Catalonia,1,Q465464
+Q52413578,President of the Institutional Revolutionary Party,,,1,Q2280339
 Q105338883,President of the Land of Valencia PP party,,Land of Valencia,1,Q11940700
 Q25880369,President of the Legislative Council,,British Hong Kong,1,Q167028
 Q24081995,President of the Liberal Democrats,,,1,Q332950
@@ -1134,6 +1141,7 @@ Q62335320,Regional councilor of Occitanie,,Occitania,1,Q2850946
 Q59507192,Secretaria de Educación de la Ciudad de México,,,1,Q5664644
 Q15696544,Secretariat of State for Foreign Affairs (Spain),,,1,Q18686248
 Q12180685,Secretary General of the Arab League,,,1,Q456346
+Q110934652,Secretary General of the Organization for Security and Co-operation in Europe,,,1,Q1388868
 Q3954367,Secretary for Foreign and Political Affairs,,San Marino,1,Q377856
 Q3954372,Secretary for Industry and Crafts,,,1,Q377856
 Q3954368,Secretary for Internal Affairs,,,1,Q377856
@@ -1184,7 +1192,6 @@ Q111079838,Special Commissioner for the Alliance for the New Economy of Language
 Q99398870,Special Envoy for Freedom of Religion or Belief.,,,1,Q1237673
 Q7574548,Special Envoy of the Secretary-General,,,1,Q455223
 Q788111,Special Representative of the Secretary-General,,,1,Q58106
-Q784084,Special Representative of the Secretary-General for Kosovo,,,1,Q273324
 Q16147743,State Secretary,Ministry of Defence of Norway,Norway,1,Q267320
 Q16147743,State Secretary,Ministry of Labour and Social Inclusion of Norway,Norway,1,Q7818323
 Q16147743,State Secretary,Ministry of Petroleum and Energy of Norway,Norway,1,Q4572995
@@ -1265,6 +1272,7 @@ Q40032299,ambassador of the Soviet Union,,,1,Q2624267
 Q56761160,ambassador of the United Kingdom to Luxembourg,,,1,Q2058046
 Q56761188,ambassador of the United Kingdom to Saudi Arabia,,,1,Q2058046
 Q56761201,ambassador of the United Kingdom to Syria,,,1,Q2058046
+Q19359052,ambassador to the United States of America,,,1,Q998489
 Q3625593,assessor,La Spezia,Italy,1,Q3615909
 Q544178,attaché,,,1,Q738049
 Q140686,chairperson,Q10587240,,1,Q490785
@@ -1343,6 +1351,7 @@ Q1075179,honorary consul,Togo,,1,Q1382799
 Q16533,judge,International Criminal Tribunal for the former Yugoslavia,,1,Q1942571
 Q9982713,judge of the Supreme Court of India,,India,1,Q1158102
 Q17763739,justice minister,,,1,Q20568079
+Q81572777,leader of the Conservative Party of Canada,,Canada,1,Q1700898
 Q21683586,leader of the Progressive Conservative Party of Ontario,,,1,Q3369936
 Q2914468,life peer,,,1,Q334491
 Q190780,limb,European Court of Auditors,,1,Q1576649
@@ -1454,6 +1463,7 @@ Q18924508,member of the Bulgarian National Assembly,39th National Assembly,Bulga
 Q3705737,member of the Constituent Assembly of Italy,,Italy,1,Q445685
 Q21609684,member of the Corts Valencianes,,Land of Valencia,1,Q11940700
 Q4516946,member of the Federation Council of Russia,Perm Krai,Russia,1,Q4384817
+Q18984329,member of the Legislative Assembly of New Brunswick,,New Brunswick,1,Q581686
 Q56573014,member of the London Assembly,,Greater London,1,Q577771
 Q43183194,member of the Parliament of Cantabria,,Cantabria,1,Q5924935
 Q23256979,member of the Parliament of Åland,,Åland,1,Q2270153
@@ -1485,8 +1495,6 @@ Q3780304,member of the general council,Loire,department of France,1,Q2897913
 Q3780304,member of the general council,Moselle,department of France,1,Q3169556
 Q3780304,member of the general council,canton of Brumath,department of France,1,Q2898601
 Q99293617,metropolitan mayor of Turin,,Metropolitan City of Turin,1,Q542406
-Q83307,minister,Ministry of Foreign Affairs of the Hellenic Republic of Greece,<noval>,1,Q12881047
-Q83307,minister,Ministry of Shipping and the Aegean,<noval>,1,Q12881047
 Q40880757,minister for Family Affairs and Integration,,Luxembourg,1,Q6755887
 Q99281259,minister for Finance,,Portugal,1,Q3119570
 Q30242784,minister for Justice,,Luxembourg,1,Q15275462
@@ -1570,7 +1578,7 @@ Q1872450,president of the general council,Drôme,department of France,1,Q3027038
 Q1872450,president of the general council,general council of Bas-Rhin,department of France,1,Q761527
 Q1872450,president of the general council,general council of Isère,department of France,1,Q2848745
 Q1872450,president of the general council,general council of Val-d'Oise,department of France,1,Q2863048
-Q6087309,procurador en Cortes,,Francoist Spain,1,Q65496770
+Q6087309,procurador en Cortes,,Spain,1,Q65496770
 Q2113250,prorector,Masaryk University,,1,Q12025624
 Q212071,rector,Masaryk University,educational institution,1,Q12025624
 Q212071,rector,Opole University of Technology,educational institution,1,Q11818205
