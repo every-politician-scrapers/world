@@ -98,7 +98,6 @@ Q97670324,Member of the Committee on Civil Affairs,,Sweden,8,Q37013194
 Q97670345,Member of the Committee on Cultural Affairs,,Sweden,8,Q18245444
 Q382617,mayor of a place in France,,commune of France,8,Q3174934
 Q382617,mayor of a place in France,,France,8,Q3174934
-Q83307,minister,,<noval>,8,Q12879947
 Q3259412,Lord Commissioner of the Treasury,,United Kingdom,7,Q20647819
 Q33082474,Member of the 2016-2017 Parliament of Iceland,,Iceland,7,Q22236740
 Q52474426,Member of the 2017–2021 Parliament of Iceland,,Iceland,7,Q55768548
@@ -109,6 +108,7 @@ Q19367406,Member of the House of Representatives of Malta,,Malta,7,Q29581315
 Q18714088,Member of the Parliament of Catalonia,,Catalonia,7,Q19300714
 Q28778415,member of the Basque Parliament,,Basque Autonomous Community,7,Q28872545
 Q18915989,member of the Hellenic Parliament,New Democracy,Greece,7,Q16187335
+Q83307,minister,,<noval>,7,Q12752123
 Q16799332,Deputy Prime Minister of Serbia,,Serbia,6,Q12749330
 Q41582609,Member of the 44th Parliament of the United Kingdom,,United Kingdom,6,Q12899736
 Q97670380,Member of the Committee on Education,,Sweden,6,Q6198899
@@ -281,6 +281,7 @@ Q25973167,Italian Minister of Justice,,Italy,2,Q3615909
 Q64682634,Judge of the European Court of Human Rights,,Council of Europe,2,Q7386935
 Q20517763,Justice Minister,,Armenia,2,Q21212025
 Q6317024,Justice Minister of Denmark,,Denmark,2,Q3078007
+Q742063,Justice Minister of Israel,,Israel,2,Q939899
 Q4488944,Kremlin Chief of Staff,,,2,Q983654
 Q37845660,Member of the 1982–1986 Northern Ireland Assembly,,Northern Ireland,2,Q333991
 Q37303731,Member of the 1st Northern Ireland Assembly,,Northern Ireland,2,Q333991
@@ -314,8 +315,8 @@ Q19858626,Minister of Commercial Marine of Greece,Second Cabinet of Kostas Karam
 Q23725756,Minister of Culture,,Finland,2,Q11868692
 Q19904334,Minister of Culture of Greece,Cabinet of Konstantinos Mitsotakis,Greece,2,Q3577025
 Q47449525,Minister of Defence,,Croatia,2,Q3441723
-Q3741249,Minister of Defence,,Estonia,2,Q17446918
 Q20740176,Minister of Defence,,Netherlands,2,Q2784118
+Q3741249,Minister of Defence,,Estonia,2,Q17446918
 Q24199589,Minister of Defence of Belgium,,Belgium,2,Q593302
 Q19967450,Minister of Defence of Georgia,,Georgia,2,Q16370108
 Q16157395,Minister of Defense,,Bulgaria,2,Q12271885
@@ -421,7 +422,6 @@ Q30087875,municipal executive of Oss,,Oss,2,Q29001708
 Q21013169,municipal executive of The Hague,,The Hague,2,Q2644986
 Q736559,secretary of state,,<noval>,2,Q2848745
 Q736559,secretary of state,Ministry of Human Capacities,<noval>,2,Q1959858
-Q15686806,senator,,,2,Q18538779
 Q66759001,Director General de la Policía,,Spain,2,Q5913172
 Q813387,"Commissaire du Gouvernement fédéral pour les migrations, des réfugiés et de l'intégration",,,2,Q96967
 Q61781087,"Coordinateur de la coopération intersociétale avec la Russie, l'Asie centrale et les pays du partenariat oriental",,,2,Q15813144
@@ -947,8 +947,8 @@ Q24279063,Minister of Justice,,Spain,1,Q941950
 Q20528230,Minister of Justice,,Estonia,1,Q12373459
 Q17013941,Minister of Justice,,Iceland,1,Q546985
 Q94984555,Minister of Justice,,Georgia,1,Q43330
-Q107688672,Minister of Justice,,Russia,1,Q734866
 Q21027776,Minister of Justice,,Bulgaria,1,Q12299694
+Q107688672,Minister of Justice,,Russia,1,Q734866
 Q1769706,Minister of Justice and Public Security,,Norway,1,Q19974554
 Q109649550,Minister of Justice of Algeria,,Algeria,1,Q1398046
 Q168589,Minister of Justice of Belgium,,Belgium,1,Q549887
@@ -1060,6 +1060,7 @@ Q114772322,Parliamentary Under-Secretary of State for Aviation and Maritime,,Uni
 Q108558680,Parliamentary Under-Secretary of State for Childcare and Education,,United Kingdom,1,Q392241
 Q108602627,Parliamentary Under-Secretary of State for Children and Families,,United Kingdom,1,Q441532
 Q115151251,"Parliamentary Under-Secretary of State for Children, Families and Wellbeing",,United Kingdom,1,Q20055581
+Q108558782,Parliamentary Under-Secretary of State for Climate Change,,United Kingdom,1,Q479171
 Q108046539,Parliamentary Under-Secretary of State for Communities and Local Government,,United Kingdom,1,Q1237673
 Q108046547,Parliamentary Under-Secretary of State for Countering Extremism,,United Kingdom,1,Q1237673
 Q115516225,Parliamentary Under-Secretary of State for Defence Procurement,,United Kingdom,1,Q260772
@@ -1600,6 +1601,7 @@ Q736559,secretary of state,Ministry of Culture and National Heritage,<noval>,1,Q
 Q736559,secretary of state,Ministry of Foreign Affairs of Hungary,<noval>,1,Q839873
 Q10855085,secretary-general,Ciucă Cabinet,,1,Q18544263
 Q10855085,secretary-general,People's Movement Party,,1,Q28038915
+Q15686806,senator,,,1,Q12742988
 Q20177062,senator of the Community,,France,1,Q1242626
 Q17221,spokesperson,,,1,Q1938304
 Q17221,spokesperson,Council of the European Union,,1,Q18686248
