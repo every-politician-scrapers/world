@@ -108,7 +108,6 @@ Q19367406,Member of the House of Representatives of Malta,,Malta,7,Q29581315
 Q18714088,Member of the Parliament of Catalonia,,Catalonia,7,Q19300714
 Q28778415,member of the Basque Parliament,,Basque Autonomous Community,7,Q28872545
 Q18915989,member of the Hellenic Parliament,New Democracy,Greece,7,Q16187335
-Q83307,minister,,<noval>,7,Q12752123
 Q16799332,Deputy Prime Minister of Serbia,,Serbia,6,Q12749330
 Q41582609,Member of the 44th Parliament of the United Kingdom,,United Kingdom,6,Q12899736
 Q97670380,Member of the Committee on Education,,Sweden,6,Q6198899
@@ -119,6 +118,7 @@ Q1646567,President of the Federal Council of Austria,,,6,Q2077087
 Q4376680,President of the Moldovan Parliament,,,6,Q934937
 Q20522401,President of the National Assembly of Slovenia,,,6,Q18565765
 Q23711521,member of the regional parliament of Vienna,,Vienna,6,Q2590118
+Q83307,minister,,<noval>,6,Q12043421
 Q8077915,Échevin,,Luxembourg,6,Q16440237
 Q14805701,Deputy Chairman of the Government of the Russian Federation,,Russia,5,Q4246195
 Q97670350,Member of the Committee on Environment and Agriculture,,Sweden,5,Q18202340
@@ -329,9 +329,9 @@ Q106533226,Minister of Energy and Natural Resources,,,2,Q6035094
 Q6590389,Minister of Finance,,Latvia,2,Q4392612
 Q17278723,Minister of Fisheries and Agriculture,,Iceland,2,Q5618945
 Q2501396,Minister of Foreign Affairs,,Czech Republic,2,Q1397396
-Q107740254,Minister of Foreign Affairs,,Montenegro,2,Q2631716
 Q2198943,Minister of Foreign Affairs,,Serbia,2,Q722579
 Q57125919,Minister of Foreign Affairs,,Latvia,2,Q713138
+Q107740254,Minister of Foreign Affairs,,Montenegro,2,Q2631716
 Q17098318,Minister of Information,,Serbia,2,Q222031
 Q30344682,Minister of Justice,,Croatia,2,Q16115028
 Q1294631,Minister of Justice of Finland,,Finland,2,Q3228984
@@ -898,11 +898,11 @@ Q3251819,Minister of Fisheries and Oceans,,Canada,1,Q3103893
 Q6866148,Minister of Foreign Affairs,,New Zealand,1,Q558647
 Q25598671,Minister of Foreign Affairs,,Poland,1,Q9388252
 Q54555913,Minister of Foreign Affairs,,Benin,1,Q7799883
-Q24262486,Minister of Foreign Affairs,,Morocco,1,Q2033385
-Q3354633,Minister of Foreign Affairs,,Nigeria,1,Q289350
 Q18345272,Minister of Foreign Affairs,,Mozambique,1,Q6722501
 Q28866410,Minister of Foreign Affairs,,Bosnia and Herzegovina,1,Q944643
 Q1760777,Minister of Foreign Affairs,,Estonia,1,Q438802
+Q24262486,Minister of Foreign Affairs,,Morocco,1,Q2033385
+Q3354633,Minister of Foreign Affairs,,Nigeria,1,Q289350
 Q19901419,Minister of Foreign Affairs,,Maldives,1,Q4665893
 Q16147348,Minister of Foreign Affairs,,Tanzania,1,Q461710
 Q26932328,Minister of Foreign Affairs of Algeria,,Algeria,1,Q1398046
@@ -940,8 +940,8 @@ Q63792717,Minister of Internal Affairs of Albania,,Albania,1,Q57526
 Q88039626,Minister of Internal Affairs of Georgia,,Georgia,1,Q1010588
 Q4399968,Minister of Internal Affairs of Russia,,Russia,1,Q188296
 Q2199011,Minister of Internal Affairs of Serbia,,Serbia,1,Q57843
-Q20556639,Minister of Justice,,North Macedonia,1,Q20568079
 Q28048774,Minister of Justice,,Poland,1,Q11724754
+Q20556639,Minister of Justice,,North Macedonia,1,Q20568079
 Q55286792,Minister of Justice,,Albania,1,Q57526
 Q24279063,Minister of Justice,,Spain,1,Q941950
 Q20528230,Minister of Justice,,Estonia,1,Q12373459
@@ -1012,6 +1012,7 @@ Q23901456,Minister of Tourist Development of Greece,,Greece,1,Q12879947
 Q10686108,Minister of Trade,,Sweden,1,Q879773
 Q107735740,Minister of Transport and Communications,,Lithuania,1,Q117150
 Q6514745,Minister of Transport and Communications,,Norway,1,Q462543
+Q115660261,Minister of Transport and Maritime Affairs,,Montenegro,1,Q12752123
 Q98560752,"Minister of Transport, Communication and Water Management",,Hungary,1,Q19993509
 Q15731332,"Minister of Transport, Public Works and Water Management",,Netherlands,1,Q447079
 Q19904387,Minister of Transports and Communications of Greece,First Cabinet of Kostas Karamanlis,Greece,1,Q12881067
