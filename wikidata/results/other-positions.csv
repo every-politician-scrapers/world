@@ -118,7 +118,6 @@ Q1646567,President of the Federal Council of Austria,,,6,Q2077087
 Q4376680,President of the Moldovan Parliament,,,6,Q934937
 Q20522401,President of the National Assembly of Slovenia,,,6,Q18565765
 Q23711521,member of the regional parliament of Vienna,,Vienna,6,Q2590118
-Q83307,minister,,<noval>,6,Q12043421
 Q8077915,Échevin,,Luxembourg,6,Q16440237
 Q14805701,Deputy Chairman of the Government of the Russian Federation,,Russia,5,Q4246195
 Q97670350,Member of the Committee on Environment and Agriculture,,Sweden,5,Q18202340
@@ -163,6 +162,7 @@ Q2208217,co-opted senator,,,4,Q65284044
 Q17320547,member of the Federal Assembly of Czechoslovakia,,Czechoslovakia,4,Q3504591
 Q23905996,"member of the French Economic, Social and Environmental Council",,,4,Q3265654
 Q17519166,member of the Landtag of Hesse,,Hesse,4,Q1491387
+Q83307,minister,,<noval>,4,Q5444504
 Q20205040,municipal councillor of Amsterdam,,Amsterdam,4,Q3259044
 Q1687249,president of the Swiss Council of States,,Switzerland,4,Q353273
 Q813389,Délégué du gouvernement fédéral pour la Politique des droits humains et l'Aide humanitaire,,,4,Q1876595
@@ -329,9 +329,9 @@ Q106533226,Minister of Energy and Natural Resources,,,2,Q6035094
 Q6590389,Minister of Finance,,Latvia,2,Q4392612
 Q17278723,Minister of Fisheries and Agriculture,,Iceland,2,Q5618945
 Q2501396,Minister of Foreign Affairs,,Czech Republic,2,Q1397396
+Q107740254,Minister of Foreign Affairs,,Montenegro,2,Q2631716
 Q2198943,Minister of Foreign Affairs,,Serbia,2,Q722579
 Q57125919,Minister of Foreign Affairs,,Latvia,2,Q713138
-Q107740254,Minister of Foreign Affairs,,Montenegro,2,Q2631716
 Q17098318,Minister of Information,,Serbia,2,Q222031
 Q30344682,Minister of Justice,,Croatia,2,Q16115028
 Q1294631,Minister of Justice of Finland,,Finland,2,Q3228984
@@ -824,8 +824,8 @@ Q110061168,Minister for the Development of the Negev and Galilee,,Israel,1,Q2089
 Q6866010,Minister for the Press and the Media,,Greece,1,Q312994
 Q16361623,Minister of Agriculture,,Latvia,1,Q2869357
 Q61188918,Minister of Agriculture,,Kingdom of the Netherlands,1,Q1889236
-Q108377073,Minister of Agriculture,,Georgia,1,Q1233914
 Q16405106,Minister of Agriculture,,Estonia,1,Q293175
+Q108377073,Minister of Agriculture,,Georgia,1,Q1233914
 Q15731462,Minister of Agriculture and Rural Development,,Israel,1,Q20898016
 Q46999385,Minister of Agriculture and the Environment,,Finland,1,Q964549
 Q19860606,Minister of Agriculture of Greece,,Greece,1,Q15618317
@@ -898,11 +898,11 @@ Q3251819,Minister of Fisheries and Oceans,,Canada,1,Q3103893
 Q6866148,Minister of Foreign Affairs,,New Zealand,1,Q558647
 Q25598671,Minister of Foreign Affairs,,Poland,1,Q9388252
 Q54555913,Minister of Foreign Affairs,,Benin,1,Q7799883
+Q24262486,Minister of Foreign Affairs,,Morocco,1,Q2033385
+Q3354633,Minister of Foreign Affairs,,Nigeria,1,Q289350
 Q18345272,Minister of Foreign Affairs,,Mozambique,1,Q6722501
 Q28866410,Minister of Foreign Affairs,,Bosnia and Herzegovina,1,Q944643
 Q1760777,Minister of Foreign Affairs,,Estonia,1,Q438802
-Q24262486,Minister of Foreign Affairs,,Morocco,1,Q2033385
-Q3354633,Minister of Foreign Affairs,,Nigeria,1,Q289350
 Q19901419,Minister of Foreign Affairs,,Maldives,1,Q4665893
 Q16147348,Minister of Foreign Affairs,,Tanzania,1,Q461710
 Q26932328,Minister of Foreign Affairs of Algeria,,Algeria,1,Q1398046
@@ -940,8 +940,8 @@ Q63792717,Minister of Internal Affairs of Albania,,Albania,1,Q57526
 Q88039626,Minister of Internal Affairs of Georgia,,Georgia,1,Q1010588
 Q4399968,Minister of Internal Affairs of Russia,,Russia,1,Q188296
 Q2199011,Minister of Internal Affairs of Serbia,,Serbia,1,Q57843
-Q28048774,Minister of Justice,,Poland,1,Q11724754
 Q20556639,Minister of Justice,,North Macedonia,1,Q20568079
+Q28048774,Minister of Justice,,Poland,1,Q11724754
 Q55286792,Minister of Justice,,Albania,1,Q57526
 Q24279063,Minister of Justice,,Spain,1,Q941950
 Q20528230,Minister of Justice,,Estonia,1,Q12373459
@@ -956,6 +956,7 @@ Q19860560,Minister of Justice of Greece,Cabinet of Konstantinos Mitsotakis,Greec
 Q19860560,Minister of Justice of Greece,First Cabinet of Kostas Karamanlis,Greece,1,Q1091143
 Q2199031,Minister of Justice of Serbia,,Serbia,1,Q468319
 Q23901400,"Minister of Justice, Transparency and Human Rights of Greece",,Greece,1,Q1063232
+Q87605144,"Minister of Labor, Social Affairs and Family of the Slovak Republic",,Slovakia,1,Q12043421
 Q107710314,Minister of Labour and Social Protection,,Russia,1,Q4375286
 Q106587107,Minister of Labour and Social Security,,Turkey,1,Q6102989
 Q3437006,Minister of Local Government and Regional Development,,Norway,1,Q462543
