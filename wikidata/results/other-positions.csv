@@ -64,8 +64,8 @@ Q21290878,Member of the Parliament of Georgia,,Georgia,22,Q65284961
 Q21191589,deputy of Saeima,,Latvia,21,Q58371504
 Q16886136,regional council member,,,21,Q3385262
 Q19967563,Member of the National Council of the Slovak Republic,,Slovakia,20,Q17330556
-Q121998,ambassador,,,20,Q18507860
 Q41582619,Member of the 48th Parliament of the United Kingdom,,United Kingdom,19,Q15525123
+Q121998,ambassador,,,19,Q18507860
 Q20968670,member of the Grand and General Council of San Marino,,San Marino,19,Q28968160
 Q258045,Captain Regent of San Marino,,San Marino,16,Q65499704
 Q21328583,Member of the House of Representatives of Morocco,,Morocco,16,Q65499871
@@ -125,6 +125,7 @@ Q97670367,Member of the Committee on Health and Welfare,,Sweden,5,Q6256695
 Q97670355,Member of the Committee on Industry and Trade,,Sweden,5,Q18202340
 Q20177806,Member of the Parliament of Andalusia,,Andalusia,5,Q19826434
 Q19351455,Member of the Parliament of Wallonia,,Wallonia,5,Q3288115
+Q113318727,Member of the Sejm of the Polish People's Republic,,Polish People's Republic,5,Q11797866
 Q81747225,Member of the Senate of the Republic of Poland,,Poland,5,Q11818205
 Q22979107,Minister of Foreign and European Affairs,,Croatia,5,Q30111243
 Q2337229,President of the Swiss National Council,,Switzerland,5,Q23008621
@@ -133,7 +134,6 @@ Q62457650,conseiller régional du Grand Est,,Grand Est,5,Q30339476
 Q43185266,deputy of the Constituent Assembly,,Portugal,5,Q10347591
 Q22998436,member of the Assembly of Madrid,,Community of Madrid,5,Q44629038
 Q13102207,municipal councillor,,Luxembourg,5,Q13105458
-Q113318727,député de la diète de la république populaire de Pologne,,Polish People's Republic,5,Q11797866
 Q104559039,Central Bohemian Region Assembly member,,Central Bohemian Region,4,Q17375881
 Q108856016,Member of the 2021– Parliament of Iceland,,Iceland,4,Q55768548
 Q18327335,Member of the Abgeordnetenhaus of Berlin,,Berlin,4,Q2589179
@@ -162,7 +162,6 @@ Q2208217,co-opted senator,,,4,Q65284044
 Q17320547,member of the Federal Assembly of Czechoslovakia,,Czechoslovakia,4,Q3504591
 Q23905996,"member of the French Economic, Social and Environmental Council",,,4,Q3265654
 Q17519166,member of the Landtag of Hesse,,Hesse,4,Q1491387
-Q83307,minister,,<noval>,4,Q5444504
 Q20205040,municipal councillor of Amsterdam,,Amsterdam,4,Q3259044
 Q1687249,president of the Swiss Council of States,,Switzerland,4,Q353273
 Q813389,Délégué du gouvernement fédéral pour la Politique des droits humains et l'Aide humanitaire,,,4,Q1876595
@@ -237,6 +236,7 @@ Q43198218,member of the Parliament of Galicia,,Galicia,3,Q6075845
 Q18557729,member of the Volkskammer,,German Democratic Republic,3,Q1649652
 Q63758892,member of the departmental council of Moselle,,Moselle,3,Q30386520
 Q59239951,member of the regional council of Île-de-France,,Île-de-France,3,Q3340014
+Q83307,minister,,<noval>,3,Q4177290
 Q21013152,municipal councillor of The Hague,,The Hague,3,Q2644986
 Q66501330,conseiller de l'Eurométropole de Strasbourg,,Eurometropolis of Strasbourg,3,Q3379355
 Q29886380,coordinateur pour la Coopération transatlantique,,,3,Q1563765
@@ -330,8 +330,8 @@ Q6590389,Minister of Finance,,Latvia,2,Q4392612
 Q17278723,Minister of Fisheries and Agriculture,,Iceland,2,Q5618945
 Q2501396,Minister of Foreign Affairs,,Czech Republic,2,Q1397396
 Q107740254,Minister of Foreign Affairs,,Montenegro,2,Q2631716
-Q2198943,Minister of Foreign Affairs,,Serbia,2,Q722579
 Q57125919,Minister of Foreign Affairs,,Latvia,2,Q713138
+Q2198943,Minister of Foreign Affairs,,Serbia,2,Q722579
 Q17098318,Minister of Information,,Serbia,2,Q222031
 Q30344682,Minister of Justice,,Croatia,2,Q16115028
 Q1294631,Minister of Justice of Finland,,Finland,2,Q3228984
@@ -824,8 +824,8 @@ Q110061168,Minister for the Development of the Negev and Galilee,,Israel,1,Q2089
 Q6866010,Minister for the Press and the Media,,Greece,1,Q312994
 Q16361623,Minister of Agriculture,,Latvia,1,Q2869357
 Q61188918,Minister of Agriculture,,Kingdom of the Netherlands,1,Q1889236
-Q16405106,Minister of Agriculture,,Estonia,1,Q293175
 Q108377073,Minister of Agriculture,,Georgia,1,Q1233914
+Q16405106,Minister of Agriculture,,Estonia,1,Q293175
 Q15731462,Minister of Agriculture and Rural Development,,Israel,1,Q20898016
 Q46999385,Minister of Agriculture and the Environment,,Finland,1,Q964549
 Q19860606,Minister of Agriculture of Greece,,Greece,1,Q15618317
@@ -898,11 +898,11 @@ Q3251819,Minister of Fisheries and Oceans,,Canada,1,Q3103893
 Q6866148,Minister of Foreign Affairs,,New Zealand,1,Q558647
 Q25598671,Minister of Foreign Affairs,,Poland,1,Q9388252
 Q54555913,Minister of Foreign Affairs,,Benin,1,Q7799883
-Q24262486,Minister of Foreign Affairs,,Morocco,1,Q2033385
-Q3354633,Minister of Foreign Affairs,,Nigeria,1,Q289350
 Q18345272,Minister of Foreign Affairs,,Mozambique,1,Q6722501
 Q28866410,Minister of Foreign Affairs,,Bosnia and Herzegovina,1,Q944643
 Q1760777,Minister of Foreign Affairs,,Estonia,1,Q438802
+Q24262486,Minister of Foreign Affairs,,Morocco,1,Q2033385
+Q3354633,Minister of Foreign Affairs,,Nigeria,1,Q289350
 Q19901419,Minister of Foreign Affairs,,Maldives,1,Q4665893
 Q16147348,Minister of Foreign Affairs,,Tanzania,1,Q461710
 Q26932328,Minister of Foreign Affairs of Algeria,,Algeria,1,Q1398046
@@ -940,8 +940,8 @@ Q63792717,Minister of Internal Affairs of Albania,,Albania,1,Q57526
 Q88039626,Minister of Internal Affairs of Georgia,,Georgia,1,Q1010588
 Q4399968,Minister of Internal Affairs of Russia,,Russia,1,Q188296
 Q2199011,Minister of Internal Affairs of Serbia,,Serbia,1,Q57843
-Q20556639,Minister of Justice,,North Macedonia,1,Q20568079
 Q28048774,Minister of Justice,,Poland,1,Q11724754
+Q20556639,Minister of Justice,,North Macedonia,1,Q20568079
 Q55286792,Minister of Justice,,Albania,1,Q57526
 Q24279063,Minister of Justice,,Spain,1,Q941950
 Q20528230,Minister of Justice,,Estonia,1,Q12373459
@@ -1011,8 +1011,8 @@ Q3559112,Minister of State of Greece,,Greece,1,Q15839347
 Q29950642,Minister of Territory and Sustainability of Catalonia,,Catalonia,1,Q4891019
 Q23901456,Minister of Tourist Development of Greece,,Greece,1,Q12879947
 Q10686108,Minister of Trade,,Sweden,1,Q879773
-Q107735740,Minister of Transport and Communications,,Lithuania,1,Q117150
 Q6514745,Minister of Transport and Communications,,Norway,1,Q462543
+Q107735740,Minister of Transport and Communications,,Lithuania,1,Q117150
 Q115660261,Minister of Transport and Maritime Affairs,,Montenegro,1,Q12752123
 Q98560752,"Minister of Transport, Communication and Water Management",,Hungary,1,Q19993509
 Q15731332,"Minister of Transport, Public Works and Water Management",,Netherlands,1,Q447079
@@ -1511,6 +1511,7 @@ Q99293617,metropolitan mayor of Turin,,Metropolitan City of Turin,1,Q542406
 Q40880757,minister for Family Affairs and Integration,,Luxembourg,1,Q6755887
 Q99281259,minister for Finance,,Portugal,1,Q3119570
 Q30242784,minister for Justice,,Luxembourg,1,Q15275462
+Q59862439,"minister of Agriculture, Viticulture and Rural Development",,Luxembourg,1,Q5444504
 Q6866194,"minister of Families, Children and Social Development",,Canada,1,Q3020613
 Q67153698,"minister of Finance, Commerce and Industry",,Andorra,1,Q217598
 Q4294893,minister of Foreign Affairs,,Andorra,1,Q140240
