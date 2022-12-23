@@ -27,6 +27,7 @@ Q11686111,Andrzej Wielowieyski,father,Q106954701,Zbigniew Wielowieyski
 Q11686111,Andrzej Wielowieyski,spouse,Q115305601,Zofia Wielowieyska
 Q11749720,Krzysztof Szczerski,sibling,Q9153706,Andrzej Szczerski
 Q11797866,Olga Krzyżanowska,spouse,Q16562808,Jerzy Krzyżanowski
+Q1183377,Deirdre Clune,father,Q2073804,Peter Barry
 Q11860,Silvio Berlusconi,child,Q18235147,Luigi Berlusconi
 Q11860,Silvio Berlusconi,child,Q25210469,Eleonora Berlusconi
 Q11860,Silvio Berlusconi,child,Q3634593,Barbara Berlusconi
@@ -254,6 +255,8 @@ Q2357028,Jean-Marie Happart,sibling,Q733331,José Happart
 Q2370616,Svatopluk Karásek,sibling,Q26770642,Oldřich Karásek
 Q2389114,Raffi Hovannisian,child,Q16210308,Garin Hovannisian
 Q2389114,Raffi Hovannisian,father,Q2657741,Richard G. Hovannisian
+Q24049120,Alice Mary Higgins,father,Q57276,Michael D. Higgins
+Q24049120,Alice Mary Higgins,mother,Q23727205,Sabina Higgins
 Q241376,Jutta Urpilainen,father,Q16991079,Kari Urpilainen
 Q24176171,Elmira Akhundova,spouse,Q12844912,Ramiz Axundov
 Q2422791,Tom Burlison,child,Q76261876,Kevin Burlison
@@ -444,6 +447,7 @@ Q3737434,Aleksei Lotman,father,Q360084,Juri Lotman
 Q3737434,Aleksei Lotman,mother,Q8066536,Zara Mints
 Q3737434,Aleksei Lotman,sibling,Q2012757,Mihhail Lotman
 Q3741557,Federica Mogherini,father,Q404356,Flavio Mogherini
+Q3777488,John Browne,relative,Q7459466,Seán Browne
 Q382096,Georgios Voulgarakis,child,Q61650367,Παυλίνα Βουλγαράκη
 Q3846151,Marco Gatti,relative,Q694614,Gabriele Gatti
 Q3846151,Marco Gatti,relative,Q694614,Gabriele Gatti
@@ -519,6 +523,7 @@ Q479171,Amber Rudd,spouse,Q4647471,A. A. Gill
 Q4819628,Aud Blattmann,child,Q12007574,Trond Henry Blattmann
 Q4864133,Barry Cowen,father,Q4893027,Bernard Cowen
 Q4864133,Barry Cowen,sibling,Q185272,Brian Cowen
+Q4960207,Breeda Moynihan-Cronin,father,Q15491096,Michael Moynihan
 Q4990909,Eva Zetterberg,father,Q6252124,Åke Zetterberg
 Q4990909,Eva Zetterberg,sibling,Q6252092,Olle Zetterberg
 Q4992554,Ulla Sandbæk,father,Q12315681,Harald Sandbæk
@@ -658,6 +663,7 @@ Q701990,Hisashi Owada,father,Q15059211,Takeo Owada
 Q701990,Hisashi Owada,sibling,Q112238566,Makoto Owada
 Q701990,Hisashi Owada,sibling,Q11459347,Akira Owada
 Q701990,Hisashi Owada,spouse,Q15059261,Yumiko Owada
+Q7141779,Paschal Mooney,father,Q6211421,Joe Mooney
 Q7192814,Pieter Omtzigt,spouse,Q106322685,Ayfer Koc
 Q722579,Vuk Jeremić,relative,Q12756368,Nurija Pozderac
 Q737463,Dmitry Rogozin,child,Q16692250,Alexey Rogozin
