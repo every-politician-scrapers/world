@@ -1,4 +1,5 @@
 item,itemLabel,position,positionLabel,predecessor,predecessorLabel,after,jurisdictionLabel,others
+Q66809451,Oleksandr Kubrakov,Q53675481,Minister of Communities and Regional Development,Q85994782,Vasyl Lozynskyy,2022-12-01,Ukraine,4
 Q109821337,Retselisitsoe Matlanyane,Q109819798,Minister of Development and Planning,Q30702245,Selibe Mochoboroane,2022-11-04,Lesotho,2
 Q3764245,Gilberto Pichetto Fratin,Q108128155,Minister of the Ecological Transition,Q3938696,Roberto Cingolani,2022-10-22,Italy,2
 Q5737622,Johan Forssell,Q10686108,Minister of Trade,Q67207189,Anna Hallberg,2022-10-18,Sweden,7
@@ -6,8 +7,8 @@ Q114258192,Jean Baptiste Ondaye,Q112320668,Minister of Economy,Q26237842,Ingrid 
 Q114258192,Jean Baptiste Ondaye,Q112320673,Minister of Finance,Q23900401,Rigobert Roger Andely,2022-09-26,Republic of the Congo,1
 Q114258201,Lydie Pongault,Q112315782,Minister of Culture and Arts,Q59676765,Dieudonné Moyongo,2022-09-26,Republic of the Congo,1
 Q114258201,Lydie Pongault,Q112320720,Minister of Tourism,Q48778190,Destinée Ermela Doukaga,2022-09-26,Republic of the Congo,1
-Q16269678,Amadou Ba,Q109927232,Minister for Finance and the Budget,Q98730700,Abdoulaye Daouda Diallo,2022-09-17,Senegal,3
 Q114069567,Moussa Bocar Thiam,Q109928015,Minister of Digital Economy and Telecommunications,Q109928014,Yankhoba Diattara,2022-09-17,Senegal,1
+Q16269678,Amadou Ba,Q109927232,Minister for Finance and the Budget,Q98730700,Abdoulaye Daouda Diallo,2022-09-17,Senegal,3
 Q107452351,Samia Moualfi,Q109649554,Minister of Energy Transition and Renewable Energy,Q107447247,Ben Attou Ziane,2022-09-08,Algeria,3
 Q96096929,Ihsan Abdul Jabbar Ismail,Q20423494,Deputy Prime Minister of Iraq,Q2646641,Ali Allawi,2022-08-16,Iraq,2
 Q6426240,Koichi Tani,Q11394685,Minister of State for Disaster Management,Q7426414,Satoshi Ninoyu,2022-08-10,Japan,5
@@ -26,8 +27,8 @@ Q20983280,Wimalaweera Dissanayake,Q107612192,Minister of Wildlife & Forest Conse
 Q5278077,Dinesh Gunawardena,Q107612173,"Minister of Public Services, Provincial Councils & Local Government",Q16185625,Janaka Bandara Tennakoon,2022-04-03,Sri Lanka,7
 Q111509236,Jo Etienne Abela,Q109689775,Minister for Senior Citizens and Active Aging,Q37861149,Michael Farrugia,2022-03-30,Malta,1
 Q17315715,Miriam Dalli,Q108265790,"Minister for the Environment, Climate Change and Planning",Q4661996,Aaron Farrugia,2022-03-30,Malta,3
-Q7647681,Susan Close,Q50826500,Minister for Environment and Water,Q16885817,David Speirs,2022-03-21,South Australia,8
 Q16729821,Katrine Hildyard,Q50865231,"Minister for Recreation, Sport and Racing",Q16728204,Corey Wingard,2022-03-21,South Australia,2
+Q7647681,Susan Close,Q50826500,Minister for Environment and Water,Q16885817,David Speirs,2022-03-21,South Australia,8
 Q4734363,Alondra Nelson,Q19817711,Science Advisor to the President,Q970550,Eric Lander,2022-02-18,United States of America,1
 Q110915463,Otar Shamugia,Q108377218,Minister of the Environment,Q31354638,Levan Davitashvili,2022-02-09,Georgia,1
 Q5687576,Hazara Pindi Chana,Q114568880,Minister of State in the Prime Minister's Office,Q11978376,Jenista Mhagama,2022-01-10,Tanzania,2
@@ -35,8 +36,8 @@ Q71235827,Sam Farraway,Q6865982,Minister for Transport (New South Wales),Q715404
 Q114698785,Maxime Lomboza Koné,Q114698152,Minister of Security,Q114698850,Ousséni Compaoré,2021-12-10,Burkina Faso,1
 Q114698645,Moussa Kaboré,Q114698182,Minister of Agriculture,Q85854637,Salifou Ouedraogo,2021-12-08,Burkina Faso,1
 Q18202528,Jean-Baptiste Lemoyne,Q107659379,Minister Delegate for Small and Medium-sized Enterprises,Q33280111,Alain Griset,2021-12-08,France,4
-Q28084569,Dan Vîlceanu,Q21504218,Minister of European Funds,Q28035183,Florin Cîțu,2021-11-25,Romania,6
 Q109700122,Florin Spătaru,Q21504183,"Minister of Economy, Entrepreneurship and Tourism",Q28113715,Virgil-Daniel Popescu,2021-11-25,Romania,1
+Q28084569,Dan Vîlceanu,Q21504218,Minister of European Funds,Q28035183,Florin Cîțu,2021-11-25,Romania,6
 Q109917990,Mariane Paviasen,Q107715952,"Minister for Housing, Infrastructure, Minerals and Gender Equality",Q53872865,Naaja H. Nathanielsen,2021-11-23,Greenland,1
 Q20066227,Iryna Vereshchuk,Q107693992,Minister for Reintegration of the Temporarily Occupied Territories,Q4392444,Oleksii Reznikov,2021-11-03,Ukraine,3
 Q3034854,Dominic LeBlanc,Q23890887,Minister of Infrastructure and Communities,Q21335996,Catherine McKenna,2021-10-26,Canada,6
@@ -47,10 +48,11 @@ Q28084569,Dan Vîlceanu,Q21504218,Minister of European Funds,Q12725938,Cristian 
 Q28113961,Constantin-Daniel Cadariu,Q21504183,"Minister of Economy, Entrepreneurship and Tourism",Q28035503,Claudiu Năsui,2021-09-06,Romania,2
 Q109700122,Florin Spătaru,Q21504183,"Minister of Economy, Entrepreneurship and Tourism",Q28035503,Claudiu Năsui,2021-09-06,Romania,1
 Q109296984,Bernard Goumou,Q114662338,Minister of Commerce,Q90422307,Mariama Camara,2021-09-05,Guinea,1
+Q12319657,Jesper Petersen,Q12312037,Education and Research Minister,Q12301637,Ane Halsboe-Jørgensen,2021-08-16,Kingdom of Denmark,2
+Q24572400,Mohammad Yaqoob,Q3246669,Vice President of Afghanistan,Q7424823,Sarwar Danish,2021-08-15,Afghanistan,3
 Q2246940,Sirajuddin Haqqani,Q3246669,Vice President of Afghanistan,Q477828,Amrullah Saleh,2021-08-15,Afghanistan,2
 Q24237654,Hibatullah Akhundzada,Q1140706,President of Afghanistan,Q172388,Ashraf Ghani,2021-08-15,Afghanistan,1
 Q114804379,Zely Randriamanantany,Q98582633,Minister of Health of Madagascar,Q98582653,Jean Louis Hanitrala Rakotovao,2021-08-15,Madagascar,0
-Q24572400,Mohammad Yaqoob,Q3246669,Vice President of Afghanistan,Q7424823,Sarwar Danish,2021-08-15,Afghanistan,3
 Q444675,Shona Robison,Q30763439,"Cabinet Secretary for Communities, Social Security and Equalities",Q405017,Aileen Campbell,2021-05-20,Scotland,10
 Q24014894,Mairi Gougeon,Q30763620,Cabinet Secretary for the Rural Economy and Connectivity,Q559022,Fergus Ewing,2021-05-20,Scotland,3
 Q1738042,Keith Brown,Q5015480,Cabinet Secretary for Justice,Q174924,Humza Yousaf,2021-05-20,Scotland,9
@@ -87,8 +89,8 @@ Q4864133,Barry Cowen,Q6865750,"Minister for Agriculture, Food and the Marine",Q6
 Q5693903,Heather Humphreys,Q6865958,Minister for Social Protection,Q7308461,Regina Doherty,2020-06-27,Republic of Ireland,6
 Q106338466,Kitila Mkumbo,Q114568848,Minister of State in the President's Office,Q16215848,Angellah Kairuki,2020-06-16,Tanzania,1
 Q5047760,Carál Ní Chuilín,Q24321666,Minister of Communities,Q55069282,Deirdre Hargey,2020-06-14,Northern Ireland,6
-Q2120884,Yaakov Litzman,Q20021264,Minister of Construction,Q19634043,Yifat Shasha-Biton,2020-05-17,Israel,3
 Q21794010,Amir Ohana,Q20021305,Minister of Public Security of Israel,Q2663804,Gilad Erdan,2020-05-17,Israel,2
+Q2120884,Yaakov Litzman,Q20021264,Minister of Construction,Q19634043,Yifat Shasha-Biton,2020-05-17,Israel,3
 Q114777314,Albert Flinde,Q26959610,Minister of African Integration,Q2838739,Ally Coulibaly,2020-05-13,Ivory Coast,0
 Q9376709,Wojciech Murdzek,Q101246696,Minister of Science and Higher Education,Q222905,Jarosław Gowin,2020-04-08,Poland,2
 Q90071096,Marcelo Navajas,Q98966129,Minister of Health of Bolivia,Q88328669,Aníbal Cruz,2020-04-08,Bolivia,0
@@ -103,13 +105,16 @@ Q23939777,José Luis Escrivá Belmonte,Q87001438,"minister of Labor, Migration a
 Q55280662,Lucia Azzolina,Q3721646,"Italian Minister of Education, Universities and Research",Q53844829,Giuseppe Conte,2020-01-10,Italy,2
 Q55069282,Deirdre Hargey,Q24323272,Minister of Finance,Q13586248,Máirtín Ó Muilleoir,2020-01-07,Northern Ireland,4
 Q19646358,Reezal Merican Naina Merican,Q30601401,Minister of Youth and Sports,Q39050368,Syed Saddiq Abdul Rahman,2020-01-01,Malaysia,2
+Q66497825,Shiva Maya Tumbahamphe,Q109747502,"Minister of Law, Justice and Parliamentary Affairs",Q3109312,Upendra Yadav,2019-12-24,Nepal,0
 Q19873325,Kevin Foster,Q6866360,Minister of State for Immigration,Q20195397,Seema Kennedy,2019-12-16,United Kingdom,5
 Q941258,Ginés González García,Q28504123,Minister of Health,Q21558292,Carolina Stanley,2019-12-10,Argentina,1
+Q47117980,Daniel Fernando Arroyo,Q28504123,Minister of Health,Q21558292,Carolina Stanley,2019-12-10,Argentina,2
 Q37861162,Julia Farrugia Portelli,Q108265825,Minister for Tourism,Q15711259,Konrad Mizzi,2019-11-26,Malta,3
 Q4492815,Chrystia Freeland,Q16847971,Minister of Intergovernmental Affairs,Q3034854,Dominic LeBlanc,2019-11-20,Canada,5
 Q5214525,Dan Vandal,Q16847971,Minister of Intergovernmental Affairs,Q3034854,Dominic LeBlanc,2019-11-20,Canada,5
 Q21336208,Marco Mendicino,Q3251837,Minister of Canadian Heritage,Q3359999,Pablo Rodríguez,2019-11-20,Canada,3
 Q29139548,Mary Ng,Q748607,Minister of International Trade,Q6194065,Jim Carr,2019-11-20,Canada,2
+Q60735890,Bhanu Bhakta Dhakal,Q109747489,Minister of Health and Population,Q3109312,Upendra Yadav,2019-11-20,Nepal,0
 Q16934197,Mohammad Al Khalid Al Sabah,Q110526533,Deputy Prime Minister of Kuwait,Q12219691,Sabah Al-Khalid Al-Sabah,2019-11-19,Kuwait,2
 Q16727368,Makhdoom Khusro Bakhtiar,Q109748900,Federal Minister for National Food Security and Research,Q33528842,Muhammad Mehboob Sultan,2019-11-18,Pakistan,5
 Q5313444,Dullas Alahapperuma,Q112630341,Minister of Sports,Q16217323,Harin Fernando,2019-11-17,Sri Lanka,5
@@ -127,9 +132,9 @@ Q66902492,Oksana Koliada,Q107620701,Minister for Veterans' Affairs of Ukraine,Q1
 Q57584346,Hernán Lacunza,Q115678894,Minister of the Treasury,Q28058759,Nicolás Dujovne,2019-08-17,Argentina,2
 Q795241,B. S. Yeddyurappa,Q53761260,Chief Minister of Karnataka,Q251790,H. D. Kumaraswamy,2019-07-26,Karnataka,3
 Q479171,Amber Rudd,Q3315134,Minister for Women and Equalities,Q580464,Penny Mordaunt,2019-07-24,United Kingdom,9
-Q65273202,Lina Mendoni,Q19904334,Minister of Culture of Greece,Q11787642,Myrsini Zorba,2019-07-09,Greece,1
-Q12886185,Christos Staïkouras,Q19752714,Minister of Economy of Greece,Q19428891,Euclid Tsakalotos,2019-07-09,Greece,3
 Q20995447,Níki Keraméos,Q23718008,"Minister of Education, Lifelong Learning and Religions of Greece",Q26807805,Kostas Gavroglu,2019-07-09,Greece,2
+Q12886185,Christos Staïkouras,Q19752714,Minister of Economy of Greece,Q19428891,Euclid Tsakalotos,2019-07-09,Greece,3
+Q65273202,Lina Mendoni,Q19904334,Minister of Culture of Greece,Q11787642,Myrsini Zorba,2019-07-09,Greece,1
 Q463680,Astrid Krag,Q18913269,Minister of the Interior of Denmark,Q952472,Simon Emil Ammitzbøll,2019-06-27,Kingdom of Denmark,4
 Q220579,Zoran Zaev,Q12908644,Minister of Finance,Q30149722,Dragan Tevdovski,2019-06-26,North Macedonia,3
 Q19201160,Dudi Amsalem,Q20021270,Minister of Communications,Q2584267,Ayoob Kara,2019-06-26,Israel,2
@@ -137,7 +142,6 @@ Q12720160,Ala Nemerenco,Q110158331,"Minister of Health, Labour and Social Protec
 Q65216675,Liliana Nicolaescu-Onofrei,Q108084563,Minister of Education and Research,Q15071201,Monica Babuc,2019-06-08,Moldova,1
 Q5485318,Ville Skinnari,Q11895142,Minister for European Affairs and Foreign Trade,Q4984722,Anne-Mari Virolainen,2019-06-06,Finland,3
 Q975366,Gwede Mantashe,Q20981735,Minister of Energy,Q1686353,Jeff Radebe,2019-05-30,South Africa,2
-Q3522405,Ramesh Pokhriyal,Q12454125,Minister of Human Resource Development,Q7238178,Prakash Javadekar,2019-05-30,India,5
 Q5655835,Hardeep Singh Puri,Q18390718,Minister of Civil Aviation,Q7645772,Suresh Prabhu,2019-05-30,India,4
 Q14647783,Harsh Vardhan,Q17073489,Minister of Health and Family Welfare,Q16193764,Jagat Prakash Nadda,2019-05-30,India,4
 Q21170728,Mansukh L. Mandaviya,Q16875646,Minister of Shipping (India),Q3504520,Nitin Gadkari,2019-05-30,India,3
@@ -159,9 +163,10 @@ Q35561192,Barbara Oteng Gyasi,Q94955285,Minister of Tourism of Ghana,Q31751713,C
 Q89286571,Lantosoa Rakotomalala,Q114798290,Minister of Commerce,Q54805235,Yvette Sylla,2019-01-24,Madagascar,1
 Q3594634,ʻAkilisi Pohiva,Q108888368,Minister for Public Enterprises,Q96278954,Saia Piukala,2019-01-23,Tonga,4
 Q15890263,Evangelos Apostolakis,Q6865935,Minister for National Defence of Greece,Q1467594,Panos Kammenos,2019-01-15,Greece,2
-Q265006,Moshe Kahlon,Q20021264,Minister of Construction,Q723506,Yoav Galant,2019-01-02,Israel,3
+Q265006,Moshe Kahlon,Q20021264,Minister of Construction,Q723506,Yoav Galant,2019-01-02,Israel,4
 Q19607958,Sergio Moro,Q59346266,Minister of Public Security,Q10357609,Raul Jungmann,2019-01-01,Brazil,1
 Q56347746,Paulo Roberto Nunes Guedes,Q18176438,Minister of Finance of Brazil,Q56346652,Eduardo Guardia,2019-01-01,Brazil,1
+Q560296,Askar Zhumagaliyev,Q107752568,"Minister of Digital Development, Innovation and Aerospace Industry",Q4072002,Beibut Bakirovich Atamkulov,2018-12-26,Kazakhstan,1
 Q3529157,Gamini Jayawickrama Perera,Q107612151,"Minister of Buddhasasana, Religious & Cultural Affairs",Q7876981,Udaya Gammanpila,2018-12-15,Sri Lanka,2
 Q86721769,Lorena Aguilar Revelo,Q6402752,Minister of Foreign Affairs,Q5384033,Epsy Campbell Barr,2018-12-11,Costa Rica,0
 Q15275863,Carole Dieschbourg,Q30250859,Minister for Sustainability and Infrastructure,Q3083923,François Bausch,2018-12-05,Luxembourg,2
@@ -182,12 +187,12 @@ Q16195184,Kangi Lugola,Q16147126,Minister of Home Affairs,Q31752753,Mwigulu Nche
 Q2063093,Paul Wheelhouse,Q30882171,Minister for Transport and the Islands,Q174924,Humza Yousaf,2018-06-26,Scotland,6
 Q19946250,Dulce de Jesus Soares,Q110146503,Minister of Education and Culture,Q41320729,Fernando Hanjam,2018-06-22,East Timor,1
 Q2614472,Carmen Calvo Poyato,Q55474966,Minister of the Presidency and Territorial Administration,Q41267,Soraya Sáenz de Santamaría,2018-06-07,Spain,2
-Q2614472,Carmen Calvo Poyato,Q43184108,"Minister of Health, Social Services and Equality",Q11917597,Dolors Montserrat i Montserrat,2018-06-07,Spain,2
 Q6003983,María Jesús Montero Cuadrado,Q55956687,Minister of Finance and Public Function,Q780453,Cristóbal Montoro Romero,2018-06-07,Spain,1
-Q9009373,Isabel Celaá,Q26252488,"Minister of Education, Culture and Sport",Q291887,Íñigo Méndez de Vigo Montojo,2018-06-07,Spain,7
 Q9031777,Meritxell Batet,Q55474966,Minister of the Presidency and Territorial Administration,Q41267,Soraya Sáenz de Santamaría,2018-06-07,Spain,5
+Q2614472,Carmen Calvo Poyato,Q43184108,"Minister of Health, Social Services and Equality",Q11917597,Dolors Montserrat i Montserrat,2018-06-07,Spain,2
 Q4890432,Carmen Montón,Q43184108,"Minister of Health, Social Services and Equality",Q11917597,Dolors Montserrat i Montserrat,2018-06-07,Spain,4
 Q6035335,Máximo Huerta Hernández,Q26252488,"Minister of Education, Culture and Sport",Q291887,Íñigo Méndez de Vigo Montojo,2018-06-07,Spain,1
+Q9009373,Isabel Celaá,Q26252488,"Minister of Education, Culture and Sport",Q291887,Íñigo Méndez de Vigo Montojo,2018-06-07,Spain,7
 Q20171136,Antonio Ramírez de Arellano López,Q54856796,Q54856796,Q6003983,María Jesús Montero Cuadrado,2018-06-06,Andalusia,1
 Q3820056,José Luis Ábalos Meco,Q16871885,Minister of Development of Spain,Q3592990,Íñigo de la Serna,2018-06-01,Spain,4
 Q6967119,Nasir-ul-Mulk,Q735575,Prime Minister of Pakistan,Q7461686,Shahid Khaqan Abbasi,2018-05-31,Pakistan,4
@@ -202,27 +207,27 @@ Q61879447,Edson Duarte Morais,Q16141555,Minister of the Natural Environment,Q907
 Q376746,Joachim Brudziński,Q25598713,Minister of the Interior and Administration of Poland,Q1748055,Mariusz Błaszczak,2018-01-09,Poland,3
 Q479171,Amber Rudd,Q3315134,Minister for Women and Equalities,Q333012,Justine Greening,2018-01-08,United Kingdom,9
 Q55808436,Vivian Motzfeldt,Q113470510,Minister of Foreign Affairs of Greenland,Q41804539,Suka K. Frederiksen,2018-01-01,Greenland,3
-Q6369482,Karen Andrews,Q6865883,Minister for Industry and Innovation,Q4800293,Arthur Sinodinos,2017-12-20,Australia,2
 Q6831813,Michael Keenan,Q6865821,Minister for Social Services,Q16196728,Angus Taylor,2017-12-20,Australia,2
 Q6831813,Michael Keenan,Q6865874,Minister for Human Services,Q4707935,Alan Tudge,2017-12-20,Australia,2
 Q6832641,Michael McCormack,Q6865985,Minister for Veterans' Affairs,Q5214486,Dan Tehan,2017-12-20,Australia,3
 Q6832641,Michael McCormack,Q6865787,Minister for Defence Science and Personnel,Q5214486,Dan Tehan,2017-12-20,Australia,3
+Q6369482,Karen Andrews,Q6865883,Minister for Industry and Innovation,Q4800293,Arthur Sinodinos,2017-12-20,Australia,2
 Q4877021,Beata Szydło,Q15051532,Deputy Prime Minister of the Republic of Poland,Q11771436,Mateusz Morawiecki,2017-12-11,Poland,3
 Q6915778,Moses Garu,Q109910256,"Minister of Police, National Security and Correctional Services",Q7176876,Peter Shannel Agovaka,2017-11-24,Solomon Islands,1
 Q42432799,Adolfo Rubinstein,Q28504123,Minister of Health,Q21573207,Jorge Lemus,2017-11-21,Argentina,0
 Q76445907,Q76445907,Q110526438,Minister of Higher Education,Q96041531,Mohammad Abdullatif Al-Fares,2017-11-19,Kuwait,1
 Q76445907,Q76445907,Q110526390,Minister of Education,Q96041531,Mohammad Abdullatif Al-Fares,2017-11-19,Kuwait,1
 Q536063,Manasseh Sogavare,Q109910286,Minister of Finance and Treasury,Q42651821,John Maneniaru,2017-11-06,Solomon Islands,2
-Q3295308,Jorge Rodríguez,Q113578029,Venezuelan Minister of Communications and Information,Q3788643,Ernesto Villegas,2017-11-03,Venezuela,3
 Q29952844,Wu Tze-cheng,Q11078943,Minister Without Portfolio,Q24572278,Hsu Jan-yau,2017-11-03,Taiwan,2
+Q3295308,Jorge Rodríguez,Q113578029,Venezuelan Minister of Communications and Information,Q3788643,Ernesto Villegas,2017-11-03,Venezuela,3
 Q4966734,Bridget McKenzie,Q11796917,"Minister for Communications, Urban Infrastructure, Cities and the Arts",Q5451092,Fiona Nash,2017-10-27,Australia,4
 Q5224839,Darren Chester,Q6865914,"Minister for Local Government, Territories and Roads",Q5451092,Fiona Nash,2017-10-27,Australia,3
 Q114414200,Cyr Koty,Q114414167,Minister of Infrastructure and Transport,Q109037543,José Didier Tonato,2017-10-27,Benin,0
 Q5043325,Carmel Sepuloni,Q25998902,Minister of Social Development,Q540420,Anne Tolley,2017-10-26,New Zealand,5
 Q18098260,Peeni Henare,Q104847866,Minister for Youth,Q7035240,Nikki Kaye,2017-10-26,New Zealand,3
 Q20981694,David Mahlobo,Q20981735,Minister of Energy,Q16746680,Mmamoloko Kubayi,2017-10-17,South Africa,1
-Q113485710,Dil Nath Giri,Q109747515,Minister of Urban Development,Q104972495,Prabhu Sah,2017-10-17,Nepal,0
 Q16765128,Hlengiwe Mkhize,Q11794974,"Minister of Higher Education, Science and Innovation",Q16765311,Blade Nzimande,2017-10-17,South Africa,1
+Q113485710,Dil Nath Giri,Q109747515,Minister of Urban Development,Q104972495,Prabhu Sah,2017-10-17,Nepal,0
 Q14941831,Ditmir Bushati,Q112620862,Minister of European Integration,Q16359755,Klajda Gjosha,2017-09-13,Albania,2
 Q21179419,Gheorghe Șimon,Q21504183,"Minister of Economy, Entrepreneurship and Tourism",Q30349022,Mihai Fifor,2017-09-12,Romania,1
 Q16215886,Desmond Lee,Q109192615,Minister for Social and Family Development,Q7682037,Tan Chuan-Jin,2017-09-10,Singapore,3
@@ -239,6 +244,7 @@ Q37861149,Michael Farrugia,Q108266345,Minister for Home Affairs,Q5043368,Carmelo
 Q104223812,Q104223812,Q106618417,Minister of Agriculture,Q20995417,Sid Ahmed Ferroukhi,2017-05-24,Algeria,0
 Q559040,Jean-Yves Le Drian,Q20203208,Minister of Foreign Affairs,Q7711,Jean-Marc Ayrault,2017-05-15,France,8
 Q28950190,Frédérique Vidal,Q29043058,"Minister of National Education, Higher Education and Research",Q268529,Najat Vallaud-Belkacem,2017-05-15,France,2
+Q452173,Marielle de Sarnez,Q113117157,Minister of State for European Affairs,Q39015,Harlem Désir,2017-05-10,France,6
 Q113076743,Mohammad Sharif Yaftali,Q65051130,Chief of General Staff,Q28062393,Qadam Shah Shahim,2017-04-24,Afghanistan,0
 Q20109531,Abdelmalek Boudiaf,Q73916350,Minister of Public Works,Q68331686,Boudjemaa Talai,2017-04-06,Algeria,1
 Q24233839,Nkosinathi Nhleko,Q16744853,Minister of Public Works,Q16193273,Thulas Nxesi,2017-03-31,South Africa,1
@@ -254,11 +260,12 @@ Q28035046,Gabriel Petrea,Q21504092,Minister-delegate for social dialog,Q21513379
 Q11715561,Jacek Sasin,Q110811948,Minister of State Treasury,Q432110,Henryk Kowalczyk,2016-12-31,Poland,3
 Q4352603,Gerry Brownlee,Q115678790,Minister of Civil Defence,Q7035240,Nikki Kaye,2016-12-20,New Zealand,3
 Q32557071,Botir Xoʻjayev,Q110184808,Minister of Finance,Q20533328,Rustam Atsimov,2016-12-15,Uzbekistan,0
+Q912762,Brian Mikkelsen,Q12310252,Minister for Commerce of Denmark,Q3080572,Troels Lund Poulsen,2016-11-28,Kingdom of Denmark,5
 Q115660273,Osman Nurković,Q115660261,Minister of Transport and Maritime Affairs,Q12752123,Ivan Brajović,2016-11-28,Montenegro,0
 Q9622064,Antônio José Imbassahy da Silva,Q63644927,Secretary of Government,Q10288607,Geddel Vieira Lima,2016-11-25,Brazil,4
 Q9080691,Yang Xiaodu,Q110454872,Minister of Supervision of the People's Republic of China,Q8293836,Huang Shuxian,2016-11-07,People's Republic of China,3
-Q27681455,Álvaro Nadal,Q47273791,"Minister of Industry, Energy, and Tourism",Q225880,Luis de Guindos,2016-11-04,Spain,1
 Q16331139,Panagiotis Kouroumplis,Q19860550,Minister of Naval Affairs of Greece,Q7786625,Thodoris Dritsas,2016-11-04,Greece,2
+Q27681455,Álvaro Nadal,Q47273791,"Minister of Industry, Energy, and Tourism",Q225880,Luis de Guindos,2016-11-04,Spain,1
 Q16728581,Diriba Kuma,Q109989668,Minister of Transport and Communications,Q27686173,Workneh Gebeyehu,2016-11-01,Ethiopia,1
 Q3416205,Rachid Talbi Alami,Q96093400,Minister of Youth and Sport,Q25451802,Lahcen Sekkouri,2016-10-21,Morocco,1
 Q7146470,Patrick Faber,Q109930894,Deputy Prime Minister of Belize,Q5526559,Gaspar Vega,2016-10-17,Belize,1
@@ -267,6 +274,7 @@ Q16214166,Anas Khalid Al Saleh,Q110526654,Minister of Information,Q12240740,Moha
 Q527063,Askar Mamin,Q96377974,First Deputy Prime Minister of Kazakhstan,Q4404442,Bakhytzhan Sagintayev,2016-09-08,Kazakhstan,3
 Q6435368,Kozo Yamamoto,Q20041398,Minister of State for Regional Revitalization,Q1335527,Shigeru Ishiba,2016-08-03,Japan,1
 Q731740,Wiranto,Q108300292,"Coordinating Minister for Political, Legal, and Security Affairs",Q14917375,Luhut Binsar Panjaitan,2016-07-27,Indonesia,2
+Q12471140,Airlangga Hartarto,Q108298162,Minister of Trade,Q19745898,Saleh Husin,2016-07-27,Indonesia,4
 Q7437180,Scott Ryan,Q7574624,Special Minister of State,Q1813692,Mathias Cormann,2016-07-19,Australia,2
 Q6288876,Josh Frydenberg,Q11796986,Minister for the Environment,Q5605742,Greg Hunt,2016-07-19,Australia,2
 Q4966734,Bridget McKenzie,Q6865857,Minister for Health,Q5451092,Fiona Nash,2016-07-19,Australia,4
@@ -287,10 +295,10 @@ Q6388501,Ken Skates,Q23602586,"Minister for Business, Enterprise, Technology and
 Q24350769,Quandyq Bishimbaev,Q107752575,Minister of National Economy,Q4167136,Erbolat Dosaev,2016-05-05,Kazakhstan,0
 Q2589861,Stepan Kubiv,Q107694043,Minister of Economy of Ukraine,Q18600209,Aivaras Abromavičius,2016-04-14,Ukraine,3
 Q12132510,Ihor Nasalyk,Q107620801,Minister of Energy of Ukraine,Q18601211,Volodymyr Demchyshyn,2016-04-14,Ukraine,2
-Q91940846,Ohn Maung,Q110079851,Minister of Hotels and Tourism,Q20740965,Htay Aung,2016-03-30,Myanmar,0
 Q23682496,Kyaw Win,Q110079809,Minister of Finance,Q17070236,Win Shein,2016-03-30,Myanmar,1
+Q91940846,Ohn Maung,Q110079851,Minister of Hotels and Tourism,Q20740965,Htay Aung,2016-03-30,Myanmar,0
 Q102305634,Faaolesa Katopau Ainuu,Q109706464,Minister of Justice and Courts Administration,Q5446290,Fiamē Naomi Mataʻafa,2016-03-18,Samoa,1
-Q37181,Luiz Inácio Lula da Silva,Q5097042,Chief of Staff of the Presidency Brazil,Q6159407,Jaques Wagner,2016-03-16,Brazil,2
+Q37181,Luiz Inácio Lula da Silva,Q5097042,Chief of Staff of the Presidency Brazil,Q6159407,Jaques Wagner,2016-03-16,Brazil,3
 Q55364066,David Collins,Q109715115,"Minister for Women, Youth, Sports and Social Affairs",Q65373765,Tangariki Reete,2016-03-11,Kiribati,1
 Q102127891,Faimalotoa Kika Stowers,Q109706873,"Minister of Women, Community, and Social Development",Q7814479,Tolofuaivalelei Falemoe Lei’ataua,2016-03-04,Samoa,1
 Q25469298,Zoran Đorđević,Q2198783,Minister of Defense,Q16889667,Dušan Vujović,2016-03-02,Serbia,1
@@ -310,7 +318,6 @@ Q337762,Hiroshi Moriyama,Q8191055,"Minister of Agriculture, Forestry and Fisheri
 Q4696975,Aiko Shimajiri,Q11394679,Minister of State for Science and Technology Policy,Q7505080,Shunichi Yamaguchi,2015-10-07,Japan,2
 Q4696975,Aiko Shimajiri,Q11394675,Minister of State for Okinawa and Northern Territories Affairs,Q7505080,Shunichi Yamaguchi,2015-10-07,Japan,2
 Q4696975,Aiko Shimajiri,Q11394674,Minister of State for Space Policy,Q7505080,Shunichi Yamaguchi,2015-10-07,Japan,2
-Q21290171,André Figueiredo,Q96240294,Minister of Communications of Brazil,Q7322558,Ricardo Berzoini,2015-10-02,Brazil,3
 Q16331139,Panagiotis Kouroumplis,Q19858317,Greek Minister of the Interior,Q13260393,Antonis Manitakis,2015-09-23,Greece,2
 Q6880868,Mitch Fifield,Q6865994,Minister for the Arts,Q5537216,George Brandis,2015-09-21,Australia,5
 Q6386229,Kelly O'Dwyer,Q11796971,Minister for Small Business (Australia),Q4977155,Bruce Billson,2015-09-21,Australia,3
@@ -324,13 +331,13 @@ Q18913186,Panos Skourletis,Q23901445,"Minister of Environment, Energy and Climat
 Q5107550,Chris Mushohwe,Q110197082,Minister of Information and Publicity,Q3183430,Jonathan Moyo,2015-07-06,Zimbabwe,1
 Q7095508,Oppah Muchinguri,Q110197142,"Minister of the Environment, Climate Change, Tourism, and International Trade",Q7428343,Saviour Kasukuwere,2015-07-06,Zimbabwe,5
 Q779418,Juha Rehula,Q18694348,Minister of Social Affairs and Health,Q546665,Susanna Huovinen,2015-05-29,Finland,2
-Q11875437,Lenita Toivakka,Q17118521,Minister for International Development,Q16989600,Sirpa Paatero,2015-05-29,Finland,3
 Q16980286,Anne Berner,Q25713902,Minister of Transport and Local Government,Q2983780,Paula Risikko,2015-05-29,Finland,2
+Q11875437,Lenita Toivakka,Q17118521,Minister for International Development,Q16989600,Sirpa Paatero,2015-05-29,Finland,3
 Q964549,Kimmo Tiilikainen,Q24205201,Minister of Agriculture and Forestry,Q6029546,Petteri Orpo,2015-05-28,Finland,4
 Q964549,Kimmo Tiilikainen,Q1425432,Minister of the Environment and Climate Change,Q5406165,Sanni Grahn-Laasonen,2015-05-28,Finland,4
 Q62733615,Winston DaCosta Jordan,Q114565391,Minister of Finance,Q105715507,Ashni Singh,2015-05-16,Guyana,1
-Q2583898,Ze'ev Elkin,Q2564757,Strategic Affairs Minister of Israel,Q1362317,Yuval Steinitz,2015-05-14,Israel,4
 Q553567,Silvan Shalom,Q2433405,Minister of the Interior of Israel,Q2663804,Gilad Erdan,2015-05-14,Israel,3
+Q2583898,Ze'ev Elkin,Q2564757,Strategic Affairs Minister of Israel,Q1362317,Yuval Steinitz,2015-05-14,Israel,4
 Q478161,Matt Hancock,Q6865995,Minister for the Cabinet Office,Q333986,Francis Maude,2015-05-11,United Kingdom,8
 Q391526,Chris Skidmore,Q108046681,Minister of State at the Cabinet Office,Q728063,Jo Johnson,2015-05-11,United Kingdom,7
 Q300107,Caroline Dinenage,Q3315134,Minister for Women and Equalities,Q391792,Helen Grant,2015-05-08,United Kingdom,8
@@ -342,11 +349,11 @@ Q12172081,Zoryan Shkiryak,Q109946495,Head of the State Emergency Service of Ukra
 Q4710618,Albert Kawana,Q110395103,Minister of Justice,Q58304,Utoni Nujoma,2015-03-21,Namibia,4
 Q19776618,Stephane Christophe Bride,Q108219454,Deputy Prime Minister,Q13461378,Tatiana Potîng,2015-02-18,Moldova,1
 Q19516730,Abdullatif bin Abdulmalik Al Shaikh,Q114452786,Minister of Municipal and Rural Affairs,Q12245615,Mansour bin Mutaib,2015-01-29,Saudi Arabia,0
-Q18641022,Elena Kountoura,Q20128304,Minister of Tourism of Greece,Q536323,Olga Kefalogianni,2015-01-27,Greece,4
-Q12872947,Frosso Kiaou,Q19904334,Minister of Culture of Greece,Q20995518,Konstantinos Tassoulas,2015-01-27,Greece,2
-Q40688,Yanis Varoufakis,Q23901405,Minister of Economy and Finance of Greece,Q1447979,Gikas Hardouvelis,2015-01-27,Greece,2
 Q18913183,Giorgos Stathakis,Q23901435,Minister of Marine and the Aegean,Q12881047,Miltiades Varvitsiotis,2015-01-27,Greece,2
 Q18913183,Giorgos Stathakis,Q23901465,"Minister for Infrastructure, Transport and Networks",Q185945,Michalis Chrisochoidis,2015-01-27,Greece,2
+Q12872947,Frosso Kiaou,Q19904334,Minister of Culture of Greece,Q20995518,Konstantinos Tassoulas,2015-01-27,Greece,2
+Q18641022,Elena Kountoura,Q20128304,Minister of Tourism of Greece,Q536323,Olga Kefalogianni,2015-01-27,Greece,4
+Q40688,Yanis Varoufakis,Q23901405,Minister of Economy and Finance of Greece,Q1447979,Gikas Hardouvelis,2015-01-27,Greece,2
 Q24009765,Q24009765,Q110184816,Minister of Justice,Q20533811,Nigmatilla Yuldashev,2015-01-26,Uzbekistan,0
 Q18921316,Khadra Bashir Ali,Q107722531,Minister of Education,Q4666122,Abdullahi Ahmed Jama,2015-01-17,Somalia,0
 Q18763758,Abdirahman Omar Osman- Eng Yarisow,Q66499344,Minister of Commerce and Industry,Q2744150,Adan Mohamed Nuur Madobe,2015-01-12,Somalia,3
@@ -357,16 +364,19 @@ Q6153693,Janette Garin,Q7444312,Secretary of Health,Q5379779,Enrique Ona,2014-12
 Q5107550,Chris Mushohwe,Q111317160,"Minister of Youth Development, Indigenisation and Empowerment",Q3081621,Francis Nhema,2014-12-11,Zimbabwe,1
 Q12216643,Q12216643,Q114452780,"Minister of Islamic Affairs, Da’wah, and Guidance",Q12219612,Saleh bin Abdul-Aziz Al ash-Sheikh,2014-12-08,Saudi Arabia,0
 Q1378506,Vyacheslav Kyrylenko,Q107620769,Minister of Culture and Information Policy of Ukraine,Q12133803,Yevhen Nyshchuk,2014-12-02,Ukraine,4
-Q19661243,Hope Strachan,Q108030461,"Minister of Financial Services, Trade and Industry and Immigration",Q7384427,Ryan Pinder,2014-12-01,Bahamas,1
+Q19661243,Hope Strachan,Q108030461,"Minister of Financial Services, Trade and Industry and Immigration",Q7384427,Ryan Pinder,2014-12-01,The Bahamas,1
 Q48778102,Pohiva Tuʻiʻonetoa,Q108888428,Minister of Tourism,Q7930213,Viliami Latu,2014-11-27,Tonga,3
 Q48778102,Pohiva Tuʻiʻonetoa,Q108888413,Minister of Police,Q7525417,Siosifa Tuʻitupou Tuʻutafaiva,2014-11-27,Tonga,3
 Q96574147,Tevita Lavemaau,Q108888407,Minister for Revenue,Q7525417,Siosifa Tuʻitupou Tuʻutafaiva,2014-11-27,Tonga,3
+Q5948308,Mohammad Farhadi,Q5952049,"Minister of Science, Research and Technology",Q6891619,Mohammad-Ali Najafi,2014-11-26,Iran,0
 Q7227546,Pon Radhakrishnan,Q108560657,"Minister of Ports, Shipping and Waterways",Q16901147,Krishan Pal,2014-11-26,India,2
-Q1893669,Marco Biagi,Q6865919,Minister for Local Government and Community Empowerment,Q1200058,Derek Mackay,2014-11-21,Scotland,1
 Q405025,Aileen McLeod,Q30763119,"Cabinet Secretary for Environment, Climate Change and Land Reform",Q2063093,Paul Wheelhouse,2014-11-21,Scotland,3
+Q1893669,Marco Biagi,Q6865919,Minister for Local Government and Community Empowerment,Q1200058,Derek Mackay,2014-11-21,Scotland,1
+Q7809628,Tissa Attanayake,Q107612203,Minister of Health,Q6737124,Maithripala Sirisena,2014-11-21,Sri Lanka,1
 Q1378506,Vyacheslav Kyrylenko,Q16147568,First Deputy Prime Minister of Ukraine,Q2089730,Oleksandr Sych,2014-11-12,Ukraine,4
+Q20045592,Ana Cristina Wanzeler,Q59346257,Minister of Culture of Brazil,Q463614,Marta Suplicy,2014-11-11,Brazil,0
 Q4854461,Bandaru Dattatreya,Q6866235,Minister of Labour and Employment,Q6965799,Narendra Singh Tomar,2014-11-09,India,5
-Q19206321,Temenuzhka Petkova,Q4294821,"Minister of Economy, Energy and Tourism",Q19708041,Vassil Schtonov,2014-11-07,Bulgaria,1
+Q19206321,Temenuzhka Petkova,Q4294821,"Minister of Economy, Energy and Tourism",Q19708041,Vassil Shtonov,2014-11-07,Bulgaria,1
 Q16182287,Ignasius Jonan,Q57946840,Minister of Transportation,Q12473898,Bambang Susantono,2014-10-20,Indonesia,0
 Q21005007,Mohammed Mahdi al-Bayati,Q114315435,Minister of Human Rights of Iraq,Q3700793,Mohammed Shia' Al Sudani,2014-10-18,Iraq,0
 Q12869,Kris Peeters,Q87885285,Deputy Prime Minister of Belgium,Q1534851,Pieter De Crem,2014-10-11,Belgium,6
@@ -375,6 +385,7 @@ Q455848,Yūko Obuchi,Q6866106,"Minister of Economy, Trade and Industry",Q1655453
 Q6435116,Koya Nishikawa,Q8191055,"Minister of Agriculture, Forestry and Fisheries",Q1141271,Yoshimasa Hayashi,2014-09-03,Japan,2
 Q11516489,Arimura Haruko,Q11394684,Minister of State for Regulatory Reform,Q1654408,Tomomi Inada,2014-09-03,Japan,1
 Q12303134,Benny Engelbrecht,Q7689385,Tax Minister of Denmark,Q531763,Morten Østergaard,2014-09-02,Kingdom of Denmark,2
+Q18639642,Bekim Çollaku,Q115788827,Minister for European Integration,Q7939087,Vlora Çitaku,2014-09-01,Kosovo,0
 Q17781861,Mothetjoa Metsing,Q30101454,Prime Minister of Lesotho,Q983971,Tom Thabane,2014-08-30,Lesotho,2
 Q106994831,Basiru Mahoney,Q48807935,Minister of Justice,Q23772063,Mama Fatima Singhateh,2014-08-27,The Gambia,0
 Q58820281,Elguja Khokrishvili,Q108377218,Minister of the Environment,Q4950341,Chatuna Gogaladze,2014-07-26,Georgia,1
@@ -384,8 +395,8 @@ Q90699740,Q90699740,Q55691776,Minister of Planning,Q99979979,Mohammed Abu Ramada
 Q7280187,Radha Mohan Singh,Q6866034,Minister of Agriculture,Q982813,Sharad Pawar,2014-05-26,India,6
 Q1109753,Collins Chabane,Q20981740,Minister of Public Service and Administration,Q3241428,Lindiwe Sisulu,2014-05-25,South Africa,1
 Q16765753,Ngoako Ramathlodi,Q20981738,Minister of Mineral Resources,Q7648369,Susan Shabangu,2014-05-25,South Africa,2
-Q20981694,David Mahlobo,Q6866333,Minister of State Security,Q2290959,Siyabonga Cwele,2014-05-25,South Africa,1
 Q24233839,Nkosinathi Nhleko,Q16744852,Minister of Police,Q1966829,Nathi Mthethwa,2014-05-25,South Africa,1
+Q20981694,David Mahlobo,Q6866333,Minister of State Security,Q2290959,Siyabonga Cwele,2014-05-25,South Africa,1
 Q1064368,Charles Flanagan,Q6865756,Minister for Children and Youth Affairs,Q540812,Frances Fitzgerald,2014-05-07,Republic of Ireland,3
 Q25462657,Dragan Mektić,Q109645247,Minister of Security of Bosnia and Herzegovina,Q1392741,Fahrudin Radončić,2014-04-29,Bosnia and Herzegovina,0
 Q164670,Velimir Ilić,Q2199785,Minister without portfolio of the Republic of Serbia,Q11074974,Aleksandar Vulin,2014-04-27,Serbia,0
@@ -402,7 +413,7 @@ Q3595131,Ghulam Nabi Azad,Q16934521,Minister of Water Resources,Q5657914,Harish 
 Q9368990,Vjačeslavs Dombrovskis,Q20557220,Minister of the Economy,Q3015072,Daniels Pavļuts,2014-01-22,Latvia,2
 Q7446653,Seif Seleman Rashidi,Q54087259,Minister of Health,Q5018704,Hussein Mwinyi,2014-01-20,Tanzania,1
 Q57555,Sabah Al-Ahmad Al-Jaber Al-Sabah,Q110525649,Minister of Finance (Kuwait),Q12215118,Salem Abdulaziz Al Sabah,2014-01-01,Kuwait,3
-Q26924682,Qamrul Islam,Q109767977,Minister of Food,Q16057946,Abdur Razzak,2014-01-01,Bangladesh,1
+Q26924682,Qamrul Islam,Q97252893,Minister of Food,Q16057946,Abdur Razzak,2014-01-01,Bangladesh,1
 Q85783,Alexander Dobrindt,Q27921377,Federal Minister of Transportation,Q64525,Peter Ramsauer,2013-12-17,Germany,2
 Q7294828,Rashed Khan Menon,Q109768053,"Minister of Posts, Telecommunications and Information Technology",Q7399497,Sahara Khatun,2013-11-21,Bangladesh,3
 Q15254486,Mahmoud Goudarzi,Q16047280,Minister of Sport and Youth (Iran),Q6892441,Mohammad Shariatmadari,2013-11-17,Iran,0
@@ -412,19 +423,19 @@ Q20995383,Rachid Belmokhtar,Q104528393,Minister of Education,Q1393978,Mohamed El
 Q478248,David Hanson,Q6866360,Minister of State for Immigration,Q266146,Chris Bryant,2013-10-08,United Kingdom,12
 Q302363,Michael Dugher,Q6865995,Minister for the Cabinet Office,Q272234,Jon Trickett,2013-10-07,United Kingdom,4
 Q572783,Michaelia Cash,Q11796950,Minister for Immigration and Border Protection of Australia,Q6375611,Kate Lundy,2013-09-18,Australia,3
+Q6146653,Jamie Briggs,Q6865888,Minister for Infrastructure and Transport,Q7489994,Sharon Bird,2013-09-18,Australia,1
+Q7627022,Stuart Robert,Q6865787,Minister for Defence Science and Personnel,Q7970485,Warren Snowdon,2013-09-18,Australia,2
 Q348577,Tony Abbott,Q6866013,Minister for the Status of Women,Q6308091,Julie Collins,2013-09-18,Australia,8
 Q4861362,Barnaby Joyce,Q6865745,Australian Minister for Agriculture,Q3180236,Joel Fitzgibbon,2013-09-18,Australia,4
-Q6146653,Jamie Briggs,Q6865888,Minister for Infrastructure and Transport,Q7489994,Sharon Bird,2013-09-18,Australia,1
 Q4800293,Arthur Sinodinos,Q107971707,Assistant Treasurer,Q5231642,David Bradbury,2013-09-18,Australia,4
-Q7627022,Stuart Robert,Q6865787,Minister for Defence Science and Personnel,Q7970485,Warren Snowdon,2013-09-18,Australia,2
 Q13045346,Saimir Tahiri,Q63792717,Minister of Internal Affairs of Albania,Q5457338,Flamur Noka,2013-09-15,Albania,1
 Q6891613,Mohammad-Ali Shahidi,Q2660216,Vice President of Iran,Q16047077,Masoud Zaribafan,2013-09-15,Iran,0
 Q6967109,Nasip Naço,Q55286792,Minister of Justice,Q5340403,Eduard Halimi,2013-09-11,Albania,1
 Q16601413,María José Sánchez Rubio,Q54856736,Q54856736,Q6003983,María Jesús Montero Cuadrado,2013-09-09,Andalusia,1
 Q12957514,Igor Mirović,Q2199719,Minister of Public Administration and Local Self-Government,Q3555882,Verica Kalanović,2013-09-02,Serbia,1
 Q4724914,Ali Jannati,Q109669247,Minister of Culture and Islamic Guidance,Q5930862,Mohammad Hosseini,2013-08-15,Iran,1
-Q16240010,Yan Jeou-rong,Q114895726,Minister of Public Construction,Q9368201,Jenn-Chuan Chern,2013-08-01,Taiwan,0
 Q16239476,Chen Shi-shuenn,Q114895726,Minister of Public Construction,Q9368201,Jenn-Chuan Chern,2013-08-01,Taiwan,0
+Q16240010,Yan Jeou-rong,Q114895726,Minister of Public Construction,Q9368201,Jenn-Chuan Chern,2013-08-01,Taiwan,0
 Q7641876,Supa Mandiwanzira,Q110197091,Minister of Information and Communications Technology,Q16207702,Nelson Chamisa,2013-07-31,Zimbabwe,1
 Q5606187,Greg Rickford,Q16836466,Minister responsible for the Federal Economic Development Initiative for Northern Ontario,Q3531723,Tony Clement,2013-07-15,Canada,2
 Q3195494,Kerry-Lynne Findlay,Q6866264,Minister of National Revenue,Q3094373,Gail Shea,2013-07-15,Canada,2
@@ -452,8 +463,8 @@ Q1077015,Chris Bowen,Q11796971,Minister for Small Business (Australia),Q4961047,
 Q12811068,Nabi Avcı,Q106532199,Minister of National Defence,Q8080224,İsmet Yılmaz,2013-01-24,Turkey,3
 Q7423711,Sardar Muhammad Yousaf Zaman,Q56232386,Federal Minister for Religious Affairs,Q17388811,Syed Khursheed Ahmad Shah,2013-01-01,Pakistan,3
 Q12803427,Stanko Stepišnik,Q12796745,Minister of Economic Development and Technology,Q2698706,Radovan Žerjav,2013-01-01,Slovenia,0
-Q4778029,Anwar Hossain Manju,Q109767989,"Minister of Environment, Forest and Climate Change",Q16732958,Muhammad Hasan Mahmud,2013-01-01,Bangladesh,1
 Q6828646,Michael Bimha,Q110197401,Minister of Industry and Commerce,Q7982050,Welshman Ncube,2013-01-01,Zimbabwe,1
+Q4778029,Anwar Hossain Manju,Q97252865,"Minister of Environment, Forest and Climate Change",Q16732958,Muhammad Hasan Mahmud,2013-01-01,Bangladesh,1
 Q418675,Akira Amari,Q11394680,Minister of State for Economic and Fiscal Policy,Q132280,Seiji Maehara,2012-12-26,Japan,1
 Q1655599,Ichita Yamamoto,Q11394679,Minister of State for Science and Technology Policy,Q132280,Seiji Maehara,2012-12-26,Japan,3
 Q1655599,Ichita Yamamoto,Q11394674,Minister of State for Space Policy,Q132280,Seiji Maehara,2012-12-26,Japan,3
@@ -503,10 +514,11 @@ Q135216,Žiga Turk,Q12796750,"Minister of Higher Education, Science, and Technol
 Q5129896,Clay Forau Soalaoi,Q20716385,Minister of Foreign Affairs and External Trade,Q7176876,Peter Shannel Agovaka,2012-02-09,Solomon Islands,1
 Q15967059,Cristian Petrescu,Q29053673,Minister of Tourism and Regional Development of Romania,Q463774,Elena Udrea,2012-02-09,Romania,1
 Q3555882,Verica Kalanović,Q2199761,Minister of Youth and Sports,Q2748037,Snežana Samardžić-Marković,2012-02-08,Serbia,4
+Q5111942,Christopher Bentley,Q115736504,Minister of Agriculture of Ontario,Q3786221,Kathleen Wynne,2012-01-01,Ontario,1
 Q3446032,Željko Jovanović,Q30140238,Minister of Science and Education,Q12640934,Radovan Fuchs,2011-12-23,Croatia,1
 Q705911,José Ignacio Wert,Q45347945,Minister of Culture of Spain,Q252083,Ángeles González-Sinde,2011-12-22,Spain,4
-Q1336629,José Manuel Soria,Q47273791,"Minister of Industry, Energy, and Tourism",Q1382090,Miguel Sebastián Gascón,2011-12-22,Spain,3
 Q1317281,Miguel Arias Cañete,Q43102546,Minister of the Environment,Q433345,Rosa Aguilar,2011-12-22,Spain,11
+Q1336629,José Manuel Soria,Q47273791,"Minister of Industry, Energy, and Tourism",Q1382090,Miguel Sebastián Gascón,2011-12-22,Spain,3
 Q225880,Luis de Guindos,Q110225280,Minister of Science and Innovation (Spain),Q468803,Cristina Garmendia,2011-12-22,Spain,3
 Q780453,Cristóbal Montoro Romero,Q25513965,Minister of Economy and Finance,Q266114,Elena Salgado,2011-12-21,Spain,5
 Q705911,José Ignacio Wert,Q43105847,Minister of Education of Spain,Q251625,Ángel Gabilondo,2011-12-21,Spain,4
@@ -521,6 +533,7 @@ Q262742,Hilary Benn,Q11781526,"Secretary of State for Levelling Up, Housing and 
 Q270820,Margrethe Vestager,Q108538548,Minister of Economic and Business Affairs,Q912762,Brian Mikkelsen,2011-10-03,Kingdom of Denmark,7
 Q2623815,Aleš Zalar,Q12796749,Minister of the Interior,Q240347,Katarina Kresal,2011-09-02,Slovenia,1
 Q6558877,Lisiate ‘Akolo,Q108888413,Minister of Police,Q7930213,Viliami Latu,2011-08-31,Tonga,2
+Q947445,Narayan Kaji Shrestha,Q109747497,Minister of Foreign Affairs,Q3109312,Upendra Yadav,2011-08-29,Nepal,2
 Q5936229,Jorge Venegas,Q110192563,Minister of Public Health (Uruguay),Q5852655,Daniel Olesker,2011-07-19,Uruguay,0
 Q501752,Teodoro Ribera,Q55840124,minister of Justice of Chile,Q1403184,Felipe Bulnes,2011-07-18,Chile,2
 Q18524134,Boštjan Žekš,Q12796748,Minister of Culture,Q434431,Majda Širca,2011-07-11,Slovenia,0
@@ -532,8 +545,8 @@ Q527722,Miguel Relvas,Q111982239,Minister of the Presidency,Q2066785,Pedro Silva
 Q2344342,Nuno Crato,Q107815200,"Minister for Science, Technology and Higher Education",Q367910,Mariano Gago,2011-06-21,Portugal,1
 Q1522688,Yannis Ragousis,Q23901465,"Minister for Infrastructure, Transport and Networks",Q1226051,Dimitris Reppas,2011-06-17,Greece,5
 Q4354964,Khaw Boon Wan,Q109121768,Minister for National Development,Q6732618,Mah Bow Tan,2011-05-20,Singapore,3
-Q3194724,Keith Ashfield,Q3251819,Minister of Fisheries and Oceans,Q3094373,Gail Shea,2011-05-18,Canada,2
 Q2965525,Christian Paradis,Q3251779,"Minister of Innovation, Science and Industry",Q3531723,Tony Clement,2011-05-18,Canada,2
+Q3194724,Keith Ashfield,Q3251819,Minister of Fisheries and Oceans,Q3094373,Gail Shea,2011-05-18,Canada,2
 Q3047171,Ed Fast,Q748607,Minister of International Trade,Q3376938,Peter Van Loan,2011-05-18,Canada,1
 Q6272557,Jonathan Bell,Q6313365,Junior Minister,Q7352684,Robin Newton,2011-05-16,Northern Ireland,4
 Q3183740,Jordi Cinca i Mateos,Q67155336,Minister of Economy and Finance,Q7167739,Pere López Agràs,2011-05-13,Andorra,2
@@ -545,7 +558,7 @@ Q12179817,Q12179817,Q101070195,Minister of Health of Egypt,Q43133038,Ahmed Sameh
 Q3319087,Mohamed El-Sawy,Q110323357,Minister of Culture,Q5515376,Gaber Asfour,2011-02-09,Egypt,1
 Q730980,Jacob Vestergaard,Q108328701,Minister of Foreign Affairs,Q903946,Jørgen Niclasen,2011-01-19,Faroe Islands,4
 Q730980,Jacob Vestergaard,Q108326606,Deputy Prime Minister of the Faroe Islands,Q903946,Jørgen Niclasen,2011-01-19,Faroe Islands,4
-Q265006,Moshe Kahlon,Q54291045,Minister of Welfare and Social Services,Q983258,Isaac Herzog,2011-01-17,Israel,3
+Q265006,Moshe Kahlon,Q54291045,Minister of Welfare and Social Services,Q983258,Isaac Herzog,2011-01-17,Israel,4
 Q732087,Yukio Edano,Q1078482,Chief Cabinet Secretary,Q965723,Yoshito Sengoku,2011-01-14,Japan,4
 Q8084048,‘Uliti Uata,Q108888377,Minister of Health,Q3594634,ʻAkilisi Pohiva,2011-01-13,Tonga,0
 Q6257692,John Shimmin,Q25712498,Minister for Economic Development,Q976107,Allan Bell,2011-01-01,Isle of Man,1
@@ -577,8 +590,9 @@ Q220286,György Matolcsy,Q100319667,Minister of Economy and Transport,Q1401718,I
 Q374106,Tamás Fellegi,Q100319667,Minister of Economy and Transport,Q1401718,István Varga,2010-05-29,Hungary,1
 Q1155448,Hirofumi Hirano,Q6866352,Minister of State for Consumer Affairs and Food Safety,Q264290,Mizuho Fukushima,2010-05-28,Japan,3
 Q30146077,Adanan Yusof,Q110273856,Minister of Health,Q16733895,Suyoi bin Osman,2010-05-28,Brunei,1
-Q244312,Vince Cable,Q27037814,President of the Board of Trade,Q310046,Peter Mandelson,2010-05-11,United Kingdom,8
 Q333937,Michael Gove,Q7444335,"Secretary of State for Children, Schools and Families",Q260464,Ed Balls,2010-05-11,United Kingdom,16
+Q244312,Vince Cable,Q27037814,President of the Board of Trade,Q310046,Peter Mandelson,2010-05-11,United Kingdom,8
+Q6734031,Mahinda Yapa Abeywardena,Q107612159,Minister of Environment,Q6737124,Maithripala Sirisena,2010-04-23,Sri Lanka,3
 Q5274294,Didzis Gavars,Q98966157,Minister of Health,Q9164261,Baiba Rozentale,2010-03-17,Latvia,1
 Q5984495,Ibrahim Bio,Q108037328,Minister of Youth and Sports,Q7418248,Sani Ndanusa,2010-03-17,Nigeria,3
 Q2936261,Candice Bergen,Q6866194,"minister of Families, Children and Social Development",Q3020613,Dean Allison,2010-03-08,Canada,3
@@ -594,15 +608,13 @@ Q4768249,Anne Craine,Q25712497,Minister for the Treasury,Q976107,Allan Bell,2010
 Q5935177,Jorge Giordani,Q28706262,Minister of Finance of Venezuela,Q2855363,Alí Rodríguez Araque,2010-01-01,Venezuela,0
 Q3324531,Robert Wigmore,Q5261076,Deputy Prime Minister of the Cook Islands,Q2989309,Terepai Maoate,2009-12-23,Cook Islands,1
 Q984481,Charbel Nahas,Q114285944,Minister of Telecommunications of Lebanon,Q2737847,Gebran Bassil,2009-11-08,Lebanon,0
-Q61903,Norbert Röttgen,Q248352,Federal minister (Germany),Q160902,Sigmar Gabriel,2009-10-28,Germany,3
-Q57789,Philipp Rösler,Q248352,Federal minister (Germany),Q61307,Ulla Schmidt,2009-10-28,Germany,4
 Q12481580,Dipo Alam,Q108300203,Cabinet Secretary,Q13097278,Sudi Silalahi,2009-10-20,Indonesia,0
 Q946,Donald Tusk,Q28048774,Minister of Justice,Q514863,Andrzej Czuma,2009-10-13,Poland,8
-Q1853202,Pavlos Geroulanos,Q23901456,Minister of Tourist Development of Greece,Q12879947,Konstantinos Markopoulos,2009-10-07,Greece,3
 Q499341,Andreas Loverdos,Q23901330,Minister for Employment and Social Protection,Q535120,Fani Palli-Petralia,2009-10-07,Greece,4
 Q468064,Louka Katseli,Q19858626,Minister of Commercial Marine of Greece,Q1091143,Anastasios Papaligouras,2009-10-07,Greece,4
 Q1226051,Dimitris Reppas,Q19904387,Minister of Transports and Communications of Greece,Q694779,Evripidis Stylianidis,2009-10-07,Greece,6
 Q1522688,Yannis Ragousis,Q19912233,"Minister of Interior, Public Administration and Decentralization of Greece",Q16328921,Spiros Flogaitis,2009-10-07,Greece,5
+Q1853202,Pavlos Geroulanos,Q23901456,Minister of Tourist Development of Greece,Q12879947,Konstantinos Markopoulos,2009-10-07,Greece,3
 Q1063232,Haris Kastanidis,Q19860560,Minister of Justice of Greece,Q247424,Nikos Dendias,2009-10-06,Greece,9
 Q1151156,Cătălin Predoiu,Q21503673,Minister of Foreign Affairs of Romania,Q240730,Cristian Diaconescu,2009-10-01,Romania,3
 Q1290408,Sorina-Luminița Plăcintă,Q17278764,Minister of Relations with the Parliament,Q57692,Victor Ponta,2009-10-01,Romania,1
@@ -622,19 +634,20 @@ Q57458,Ikililou Dhoinine,Q113953759,Minister of Finance of the Comoros,Q24930192
 Q3132361,Henri de Raincourt,Q29963198,Secretary of State for Parliamentary Affairs,Q1059511,Roger Karoutchi,2009-06-23,France,10
 Q6211016,Joe Ludwig,Q7574624,Special Minister of State,Q466003,John Faulkner,2009-06-09,Australia,1
 Q7167739,Pere López Agràs,Q66061766,Minister of Finance,Q3069629,Ferran Mirapeix Lucas,2009-06-08,Andorra,3
-Q272642,Tessa Jowell,Q6865995,Minister for the Cabinet Office,Q269697,Liam Byrne,2009-06-05,United Kingdom,10
 Q310046,Peter Mandelson,Q7444350,"Secretary of State for Innovation, Universities and Skills",Q300069,John Denham,2009-06-05,United Kingdom,11
+Q272642,Tessa Jowell,Q6865995,Minister for the Cabinet Office,Q269697,Liam Byrne,2009-06-05,United Kingdom,10
 Q1793381,"Shriti Vadera, Baroness Vadera",Q3315116,Minister for the Civil Service,Q263802,"Tom Watson, Baron Watson of Wyre Forest",2009-06-05,United Kingdom,2
 Q11685376,Jorge Bruni,Q106943362,Minister of the Interior of Uruguay,Q456918,Daisy Tourné,2009-06-05,Uruguay,0
 Q16182,Maurice Williamson,Q104856417,Minister for Land Information,Q7330098,Richard Worth,2009-06-02,New Zealand,1
+Q58299,Sujata Koirala,Q109747497,Minister of Foreign Affairs,Q3109312,Upendra Yadav,2009-05-25,Nepal,0
 Q540605,M. K. Alagiri,Q6866049,Minister of Chemicals and Fertilizers,Q6036905,Ram Vilas Paswan,2009-05-22,India,1
 Q7387015,S'bu Ndebele,Q6866406,Minister of Transport,Q1686353,Jeff Radebe,2009-05-10,South Africa,1
 Q3241428,Lindiwe Sisulu,Q54642257,Minister of Defence of South Africa,Q5081288,Charles Nqakula,2009-04-21,South Africa,6
-Q1060949,Muhyiddin Yassin,Q30601405,Minister of Higher Education,Q5772615,Hishammuddin Hussein,2009-04-09,Malaysia,6
+Q1060949,Muhyiddin Yassin,Q30601405,Minister of Higher Education,Q5772615,Hishammuddin Hussein,2009-04-09,Malaysia,7
 Q7047541,Noh Omar,Q30601423,Minister of Agriculture and Food Industries,Q6155600,Mustapa Mohamed,2009-04-09,Malaysia,2
+Q7093808,Ong Ka Chuan,Q25240869,Minister of International Trade and Industry,Q1060949,Muhyiddin Yassin,2009-04-09,Malaysia,1
 Q11176608,Ng Yen Yen,Q25242001,Minister of Tourism and Culture,Q4832158,Azalina Othman Said,2009-04-09,Malaysia,1
 Q4695471,Ahmad Shabery Cheek,Q30601401,Minister of Youth and Sports,Q6084858,Ismail Sabri Yaakob,2009-04-09,Malaysia,1
-Q7093808,Ong Ka Chuan,Q25240869,Minister of International Trade and Industry,Q1060949,Muhyiddin Yassin,2009-04-09,Malaysia,1
 Q251625,Ángel Gabilondo,Q44738997,"Minister of Education, Social Policy and Sports",Q270888,Mercedes Cabrera,2009-04-07,Spain,1
 Q260218,Trinidad Jiménez,Q44738997,"Minister of Education, Social Policy and Sports",Q270888,Mercedes Cabrera,2009-04-07,Spain,4
 Q2047229,Mareks Segliņš,Q16361611,Minister of Justice,Q1491211,Gaidis Bērziņš,2009-03-12,Latvia,1
@@ -644,13 +657,14 @@ Q3047171,Ed Fast,Q3315120,Minister of Justice and Attorney General of Canada,Q28
 Q2926478,Bruce Stanton,Q1195049,Minister of Crown-Indigenous Relations,Q2885727,Barry Devolin,2009-02-02,Canada,1
 Q511882,Steingrímur J. Sigfússon,Q17278719,Minister of Finance and Economic Affairs,Q252264,Árni Mathiesen,2009-02-01,Iceland,13
 Q946,Donald Tusk,Q28048774,Minister of Justice,Q168206,Zbigniew Ćwiąkalski,2009-01-21,Poland,8
+Q502972,Brice Hortefeux,Q105445328,Minister of Labour (France),Q203793,Xavier Bertrand,2009-01-15,France,4
 Q16765235,Gugile Nkwinti,Q6866029,"Minister of Agriculture, Forestry and Fisheries",Q6702772,Lulama Xingwana,2009-01-01,South Africa,3
 Q5131978,Cletus Avoka,Q6866006,Minister for the Interior of Ghana,Q1794901,Kwame Addo-Kufuor,2009-01-01,Ghana,7
 Q4701911,Akua Dansua,Q113641398,"Minister for Gender, Children and Social Protection",Q1569692,Alima Mahama,2009-01-01,Ghana,4
 Q4258761,Darwin Zahedy Saleh,Q108298100,Minister of Energy and Mineral Resources,Q4251398,Purnomo Yusgiantoro,2009-01-01,Indonesia,1
-Q4687823,Constantin Niță,Q47519801,"Minister for Businesses, Trade and Entrepreneurship",Q347505,Ovidiu Silaghi,2008-12-22,Romania,2
 Q5556390,Gheorghe Pogea,Q21504183,"Minister of Economy, Entrepreneurship and Tourism",Q532674,Varujan Vosganian,2008-12-22,Romania,1
 Q6761989,Marian Sârbu,Q21504145,Minister of Labour and Social Protection,Q12734974,Mariana Câmpeanu,2008-12-22,Romania,1
+Q4687823,Constantin Niță,Q47519801,"Minister for Businesses, Trade and Entrepreneurship",Q347505,Ovidiu Silaghi,2008-12-22,Romania,2
 Q4682392,Adetokunbo Kayode,Q75157896,Minister of Health,Q5679764,Hassan Muhammed Lawal,2008-12-17,Nigeria,4
 Q16885641,Mohamed Shihab,Q108872163,Minister of Home Affairs,Q7267003,Qasim Ibrahim,2008-12-03,Maldives,1
 Q2280312,Mitja Gaspari,Q107764310,Minister without Portfolio for Development and EU Cohesion Policy,Q135216,Žiga Turk,2008-11-21,Slovenia,1
@@ -667,8 +681,8 @@ Q57496,Federico Franco,Q26353,Vice President of Paraguay,Q5391974,Francisco Ovie
 Q459698,Seiko Noda,Q11394676,Minister of State for Consumer Affairs,Q359480,Fumio Kishida,2008-08-02,Japan,9
 Q459698,Seiko Noda,Q11394679,Minister of State for Science and Technology Policy,Q359480,Fumio Kishida,2008-08-02,Japan,9
 Q459698,Seiko Noda,Q11394674,Minister of State for Space Policy,Q359480,Fumio Kishida,2008-08-02,Japan,9
-Q1156675,Kaoru Yosano,Q11394684,Minister of State for Regulatory Reform,Q359480,Fumio Kishida,2008-08-02,Japan,2
 Q926370,Motoo Hayashi,Q11394675,Minister of State for Okinawa and Northern Territories Affairs,Q359480,Fumio Kishida,2008-08-02,Japan,3
+Q1156675,Kaoru Yosano,Q11394684,Minister of State for Regulatory Reform,Q359480,Fumio Kishida,2008-08-02,Japan,2
 Q16139844,Anusorn Wongwan,Q113043525,Minister of Social Development and Human Security,Q529433,Chaovarat Chanweerakul,2008-08-02,Thailand,0
 Q3555882,Verica Kalanović,Q2199785,Minister without portfolio of the Republic of Serbia,Q818114,Dragan Đilas,2008-07-07,Serbia,4
 Q439619,Diana Dragutinović,Q108304936,Minister of Finance,Q204723,Mirko Cvetković,2008-07-07,Serbia,0
@@ -679,27 +693,27 @@ Q270888,Mercedes Cabrera,Q41061344,Minister of Labour and Social Affairs,Q522506
 Q468803,Cristina Garmendia,Q35959997,Minister of Education and Science,Q270888,Mercedes Cabrera,2008-04-14,Spain,1
 Q2748756,Celestino Corbacho,Q41061344,Minister of Labour and Social Affairs,Q522506,Jesús Caldera,2008-04-14,Spain,8
 Q2984392,Elena Espinosa,Q43102546,Minister of the Environment,Q2984396,Cristina Narbona,2008-04-14,Spain,1
-Q6891328,Mohamed Khaled Nordin,Q30601368,Minister of Education,Q6155600,Mustapa Mohamed,2008-03-18,Malaysia,2
+Q6891328,Mohamed Khaled Nordin,Q30601368,Minister of Education,Q6155600,Mustapa Mohamed,2008-03-18,Malaysia,3
 Q4260088,Muhammad Muhammad Taib,Q30601414,Minister of Rural and Regional Development,Q4665287,Abdul Aziz Shamsuddin,2008-03-18,Malaysia,0
 Q356675,Han Seung-soo,Q15407843,Prime Minister of South Korea,Q356666,Han Duck-soo,2008-02-29,South Korea,3
 Q96212215,Q96212215,Q110526455,Minister of Transportation,Q12222708,Q12222708,2008-01-01,Kuwait,0
 Q2866926,Assaad Hardan,Q114286280,Minister of Labour of Lebanon,Q339999,Ali Qanso,2008-01-01,Lebanon,1
 Q6110507,Rodolfo Frigeri,Q108550498,Minister of Economy,Q4837917,Jorge Capitanich,2007-12-23,Argentina,1
 Q58229,William Haomae,Q20716385,Minister of Foreign Affairs and External Trade,Q7148496,Patteson Oti,2007-12-22,Solomon Islands,1
-Q4105195,Ivan Vasyunik,Q16168515,Deputy Prime Minister of Ukraine,Q1232891,Dmytro Tabachnyk,2007-12-18,Ukraine,2
 Q12157109,Eduard Stavytsky,Q25827669,Minister of Fuel and Energy,Q1420661,Yuriy Boyko,2007-12-18,Ukraine,2
+Q4105195,Ivan Vasyunik,Q16168515,Deputy Prime Minister of Ukraine,Q1232891,Dmytro Tabachnyk,2007-12-18,Ukraine,2
 Q4249950,Oleksiy Kucherenko,Q109301943,Minister of Housing and Communal Services of Ukraine,Q4372354,Oleksandr Popov,2007-12-18,Ukraine,1
 Q963100,Florencio Randazzo,Q108550461,Minister of the Interior,Q2857937,Aníbal Fernández,2007-12-10,Argentina,1
 Q431398,Emad Abdul-Ghani Sabouni,Q113989711,Minister of Communications and Technology,Q108092707,Amr Salem,2007-12-08,Syria,0
 Q4932251,Bob Debus,Q6865898,Minister for Justice,Q5235713,David Johnston,2007-12-03,Australia,8
-Q6211016,Joe Ludwig,Q6865874,Minister for Human Services,Q5106492,Chris Ellison,2007-12-03,Australia,1
-Q6318352,Justine Elliot,Q6865821,Minister for Social Services,Q978276,Christopher Pyne,2007-12-03,Australia,3
 Q466583,Chris Evans,Q11796950,Minister for Immigration and Border Protection of Australia,Q6395733,Kevin Andrews,2007-12-03,Australia,2
 Q7684036,Tanya Plibersek,Q6866013,Minister for the Status of Women,Q434858,Julie Bishop,2007-12-03,Australia,6
+Q6211016,Joe Ludwig,Q6865874,Minister for Human Services,Q5106492,Chris Ellison,2007-12-03,Australia,1
+Q6318352,Justine Elliot,Q6865821,Minister for Social Services,Q978276,Christopher Pyne,2007-12-03,Australia,3
 Q4706771,Alan Griffin,Q6865985,Minister for Veterans' Affairs,Q4977155,Bruce Billson,2007-12-03,Australia,1
 Q567098,Bertel Haarder,Q11991832,Minister for Nordic Co-operation,Q237797,Connie Hedegaard,2007-11-23,Kingdom of Denmark,5
-Q317624,Muhammad Mian Soomro,Q735575,Prime Minister of Pakistan,Q223555,Shaukat Aziz,2007-11-15,Pakistan,6
 Q3694886,Ahsan Iqbal Chaudhary,Q6865797,Minister for Education,Q8074907,Zubaida Jalal,2007-11-15,Pakistan,5
+Q317624,Muhammad Mian Soomro,Q735575,Prime Minister of Pakistan,Q223555,Shaukat Aziz,2007-11-15,Pakistan,6
 Q3063518,Fabian Manning,Q3251819,Minister of Fisheries and Oceans,Q3103893,Gerald Keddy,2007-11-13,Canada,2
 Q6781110,Maryan Street,Q40889194,Minister for Housing,Q355398,Chris Carter,2007-11-05,New Zealand,1
 Q697969,Masahiko Kōmura,Q1355043,Minister for Foreign Affairs,Q697258,Nobutaka Machimura,2007-09-26,Japan,3
@@ -713,7 +727,6 @@ Q260536,Masatoshi Wakabayashi,Q8191055,"Minister of Agriculture, Forestry and Fi
 Q6152404,Jane Hutt,Q33108882,"Minister for Education, Culture and the Welsh Language",Q111840,Carwyn Jones,2007-07-19,Wales,16
 Q336455,"Sayeeda Warsi, Baroness Warsi",Q61412205,Minister without Portfolio,Q264023,Hazel Blears,2007-06-27,United Kingdom,3
 Q332562,"John Hutton, Baron Hutton of Furness",Q27037814,President of the Board of Trade,Q296639,Alistair Darling,2007-06-27,United Kingdom,11
-Q203793,Xavier Bertrand,Q107658508,Minister for Solidarity and Health,Q3379308,Philippe Bas,2007-05-18,France,7
 Q436173,Roselyne Bachelot,Q107658508,Minister for Solidarity and Health,Q3379308,Philippe Bas,2007-05-18,France,5
 Q1470586,Xavier Darcos,Q29043058,"Minister of National Education, Higher Education and Research",Q798242,Gilles de Robien,2007-05-17,France,8
 Q324187,Jean-Pierre Jouyet,Q29962890,Minister of Europe and Foreign Affairs,Q273396,Catherine Colonna,2007-05-15,France,7
@@ -737,10 +750,10 @@ Q961952,Yannis Papathanasiou,Q23901405,Minister of Economy and Finance of Greece
 Q1207174,Fukushiro Nukaga,Q28868201,Director General of the Defence Agency,Q943732,Fumio Kyūma,2007-01-08,Japan,3
 Q3186643,Josée Verner,Q3253693,President of the Queen's Privy Council for Canada,Q3376938,Peter Van Loan,2007-01-04,Canada,3
 Q3322577,Monte Solberg,Q16931775,"Minister of Employment, Workforce, and Labour",Q3026209,Diane Finley,2007-01-03,Canada,1
+Q5488721,Frank Nweke,Q54601276,Communications minister of Nigeria,Q7074572,Obafemi Anibaba,2007-01-01,Nigeria,4
 Q716641,Chen Deming,Q17280153,Minister of Commerce of the People's Republic of China,Q21822,Bo Xilai,2007-01-01,People's Republic of China,2
 Q2269253,Mats Perämaa,Q23375654,Minister of Finance,Q2356023,Lasse Wiklöf,2007-01-01,Åland,0
 Q3173862,Jean Pastorelli,Q23058446,Minister of Foreign Affairs and Cooperation,Q3131082,Henri Fissore,2007-01-01,Monaco,0
-Q5488721,Frank Nweke,Q54601276,Communications minister of Nigeria,Q7074572,Obafemi Anibaba,2007-01-01,Nigeria,4
 Q5696460,Yubirí Ortega,Q113578038,Venezuelan Minister of Environment and Natural Resources,Q3157719,Jacqueline Faría,2007-01-01,Venezuela,0
 Q96210770,Q96210770,Q110526654,Minister of Information,Q6892904,Mohammed Al-Sanousi,2007-01-01,Kuwait,0
 Q7088880,Oluyemi Adeniji,Q109661675,Minister of Police Affairs,Q4972950,Broderick Bozimo,2007-01-01,Nigeria,2
@@ -765,13 +778,13 @@ Q3832605,Linda Lanzillotta,Q55045153,Italian Minister for the South and Territor
 Q197108,Ze'ev Boim,Q20021262,Minister of Immigrant Absorption,Q151796,Tzipi Livni,2006-05-04,Israel,3
 Q7281953,Raed Fahmy Jahid,Q56241386,Minister of Science and Technology,Q252673,Basimah Yusuf Butrus,2006-05-01,Iraq,0
 Q1370998,Snyder Rini,Q1425954,Prime Minister of the Solomon Islands,Q654672,Allan Kemakeza,2006-04-20,Solomon Islands,1
-Q236485,Han Myeong-sook,Q15407843,Prime Minister of South Korea,Q356666,Han Duck-soo,2006-04-19,South Korea,2
+Q236485,Han Myeong-sook,Q15407843,Prime Minister of South Korea,Q356666,Han Duck-soo,2006-04-19,South Korea,3
 Q16352368,Baiba Rivža,Q16361594,Minister of Education and Science,Q6013198,Ina Druviete,2006-04-07,Latvia,1
 Q2420629,Waldir Pires,Q59346258,Minister of Defense of Brazil,Q349583,José Alencar,2006-03-31,Brazil,9
-Q236485,Han Myeong-sook,Q15407843,Prime Minister of South Korea,Q319920,Lee Hae Chan,2006-03-15,South Korea,2
+Q236485,Han Myeong-sook,Q15407843,Prime Minister of South Korea,Q319920,Lee Hae Chan,2006-03-15,South Korea,3
 Q5819044,Eduardo Bitran,Q55718058,Minister of Public Works of Chile,Q5399541,Jaime Estévez,2006-03-11,Chile,1
 Q9098226,Álvaro Rojas,Q55717940,Agriculture minister of Chile,Q3160564,Jaime Campos,2006-03-11,Chile,0
-Q3180769,Paula Lehtomäki,Q11895142,Minister for European Affairs and Foreign Trade,Q105068,Mari Kiviniemi,2006-03-03,Finland,3
+Q3180769,Paula Lehtomäki,Q11895142,Minister for European Affairs and Foreign Trade,Q105068,Mari Kivinie,2006-03-03,Finland,3
 Q535120,Fani Palli-Petralia,Q20128304,Minister of Tourism of Greece,Q983664,Dimitris Avramopoulos,2006-02-15,Greece,6
 Q6893881,Mohd Effendi Norwawi,Q24949267,Minister in the Prime Minister's Department,Q6155600,Mustapa Mohamed,2006-02-14,Malaysia,1
 Q6040552,Riyad Naasan Agha,Q94578307,Minister of Culture of Syria,Q100499032,"Sayyid, Maḥmūd Aḥmad",2006-02-11,Syria,0
@@ -784,7 +797,6 @@ Q7173778,Peter Dutton,Q107971707,Assistant Treasurer,Q6740586,Mal Brough,2006-01
 Q2130476,Clifford Marica,Q113964349,"Minister of Trade, Industry and Tourism",Q2606941,Siegfried Gilds,2006-01-01,Suriname,0
 Q18568019,Viktar Rudenka,Q89775465,Minister of Health of the Republic of Belarus,Q17317976,Lyudmila Postoyalko,2005-12-27,Belarus,3
 Q16105431,Basil Pesambili Mramba,Q59694390,"Minister of Works, Transport and Communications",Q5018756,John Magufuli,2005-12-21,Tanzania,2
-Q58609,Franz Müntefering,Q30533368,Federal Minister of Health,Q61307,Ulla Schmidt,2005-11-22,Germany,8
 Q7555005,Soita Shitanda,Q111189169,"Minister of Roads, Public Works and Housing",Q57657,Raila A Odinga,2005-11-21,Kenya,2
 Q132596,Tarō Asō,Q1355043,Minister for Foreign Affairs,Q697258,Nobutaka Machimura,2005-10-31,Japan,6
 Q5130200,Clayton Cosgrove,Q48783517,Minister for Building and Construction,Q355398,Chris Carter,2005-10-19,New Zealand,1
@@ -800,7 +812,7 @@ Q273396,Catherine Colonna,Q3251882,Minister of European Affairs of France,Q23558
 Q332954,Caroline Spelman,Q11781526,"Secretary of State for Levelling Up, Housing and Communities",Q727852,Bernard Jenkin,2005-05-06,United Kingdom,14
 Q272642,Tessa Jowell,Q3315134,Minister for Women and Equalities,Q332799,Patricia Hewitt,2005-05-05,United Kingdom,10
 Q12222183,Q12222183,Q58488702,Minister of Culture of Jordan,Q25450877,Asma Khader,2005-05-04,Jordan,0
-Q4376482,Cynthia A. Pratt,Q565424,Prime Minister of the Bahamas,Q57705,Perry Christie,2005-05-04,Bahamas,2
+Q4376482,Cynthia A. Pratt,Q565424,Prime Minister of the Bahamas,Q57705,Perry Christie,2005-05-04,The Bahamas,2
 Q48471815,Idris Hadi Salih,Q56697253,Minister of Labor and Social Affairs,Q6519831,Leila Abdul-Latif,2005-05-03,Iraq,0
 Q4664751,Abdel Hussein Shandal,Q106964104,Minister of Justice,Q1887359,Malik Dohan al-Hassan,2005-05-01,Iraq,0
 Q287100,Nangolo Mbumba,Q110394825,Minister of Higher Education,Q57834,Nahas Angula,2005-03-21,Namibia,3
@@ -827,22 +839,22 @@ Q204094,Mars Di Bartolomeo,Q59878021,minister of Health,Q5041630,Carlo Wagner,20
 Q11579706,Katsuhiko Shirakawa,Q11612810,Minister of Home Affairs,Q11386875,Hiroyuki Kurata,2004-07-30,Japan,2
 Q763987,Andy Scott,Q1195049,Minister of Crown-Indigenous Relations,Q2849149,Andy Mitchell,2004-07-20,Canada,1
 Q743080,Lucienne Robillard,Q16847971,Minister of Intergovernmental Affairs,Q3386594,Pierre Pettigrew,2004-07-19,Canada,3
-Q3301645,Mauril Bélanger,Q6866450,Minister responsible for Official Languages,Q3386594,Pierre Pettigrew,2004-07-19,Canada,4
 Q2831898,Albina Guarnieri,Q3251807,Minister of Veterans Affairs,Q3182037,John McCallum,2004-07-19,Canada,2
+Q3301645,Mauril Bélanger,Q6866450,Minister responsible for Official Languages,Q3386594,Pierre Pettigrew,2004-07-19,Canada,4
 Q16940727,Rui Manuel Lobo Gomes da Silva,Q56872893,Minister of Parliamentary Affairs,Q550243,Luís Marques Mendes,2004-07-17,Portugal,1
 Q5336528,Eddie Teare,Q107833024,"Minister for Education, Sport and Culture",Q7613782,Steve Rodan,2004-06-30,Isle of Man,1
 Q553839,Dagfinn Høybråten,Q57337462,Minister of Social Affairs,Q1770438,Ingjerd Schou,2004-06-18,Norway,7
 Q357116,Adil Abdul-Mahdi,Q55693859,Minister of Trade,Q2646641,Ali Allawi,2004-06-01,Iraq,3
 Q3534034,T. R. Baalu,Q108560657,"Minister of Ports, Shipping and Waterways",Q33168,K. Chandrashekar Rao,2004-05-25,India,6
 Q982813,Sharad Pawar,Q55623231,Minister of Agriculture & Farmers Welfare,Q3506475,Rajnath Singh,2004-05-22,India,7
-Q1897174,Shivraj Patil,Q3440901,Minister of Home Affairs,Q468324,Lal Krishna Advani,2004-05-22,India,10
 Q7148799,Paty Ripple Kyndiah,Q6866408,Minister of Tribal Affairs,Q6298726,Jual Oram,2004-05-22,India,4
+Q1897174,Shivraj Patil,Q3440901,Minister of Home Affairs,Q468324,Lal Krishna Advani,2004-05-22,India,10
 Q2742753,María Antonia Trujillo,Q16871885,Minister of Development of Spain,Q2349461,Francisco Álvarez-Cascos,2004-04-28,Spain,1
+Q352302,Miguel Ángel Moratinos,Q25672112,Foreign Minister,Q438185,Ana de Palacio y del Valle-Lersundi,2004-04-18,Spain,3
 Q266114,Elena Salgado,Q43304716,Minister of Health and Consumer Affairs of Spain,Q433215,Ana Pastor Julián,2004-04-18,Spain,6
 Q522506,Jesús Caldera,Q43304716,Minister of Health and Consumer Affairs of Spain,Q433215,Ana Pastor Julián,2004-04-18,Spain,2
-Q3108420,María Jesús San Segundo,Q26252488,"Minister of Education, Culture and Sport",Q292095,Pilar del Castillo,2004-04-18,Spain,1
-Q352302,Miguel Ángel Moratinos,Q25672112,Foreign Minister,Q438185,Ana de Palacio y del Valle-Lersundi,2004-04-18,Spain,3
 Q2984392,Elena Espinosa,Q43157117,"Minister for Agriculture, Fisheries and Food",Q1317281,Miguel Arias Cañete,2004-04-18,Spain,1
+Q3108420,María Jesús San Segundo,Q26252488,"Minister of Education, Culture and Sport",Q292095,Pilar del Castillo,2004-04-18,Spain,1
 Q458323,Pedro Solbes,Q26262735,Minister of the Treasury of Spain,Q780453,Cristóbal Montoro Romero,2004-04-17,Spain,3
 Q240104,María Teresa Fernández de la Vega,Q3113035,Deputy Prime Minister of Spain,Q455748,Rodrigo Rato,2004-04-17,Spain,7
 Q7649082,Susil Premajayantha,Q107612182,Minister of Power,Q369958,Karu Jayasuriya,2004-04-10,Sri Lanka,3
@@ -888,16 +900,18 @@ Q86139,Herbert Haupt,Q692110,Vice-Chancellor of Austria,Q78904,Susanne Riess,200
 Q5304918,Dragan Đurović,Q2353252,Prime Minister of Montenegro,Q57542,Filip Vujanović,2003-01-08,Montenegro,1
 Q459915,Suchart Chaovisith,Q109349863,Minister of Finance of Thailand,Q4922374,Somkid Jatusripitak,2003-01-08,Thailand,1
 Q3144856,Hélène Scherrer,Q3251837,Minister of Canadian Heritage,Q276205,Sheila Copps,2003-01-01,Canada,1
-Q237693,Marina Silva,Q16141555,Minister of the Natural Environment,Q10309083,José Carlos Carvalho,2003-01-01,Brazil,2
 Q6283486,Joseph Gnonlonfoun,Q54555913,Minister of Foreign Affairs,Q4775490,Antoine Idji Kolawolé,2003-01-01,Benin,2
+Q237693,Marina Silva,Q16141555,Minister of the Natural Environment,Q10309083,José Carlos Carvalho,2003-01-01,Brazil,2
 Q56882698,Human Abd al-Khaliq Abd al-Ghafur,Q110634577,Minister of Culture,Q29512339,Hamid Yusif Hummadi,2003-01-01,Iraq,2
 Q6078472,Isaiah Balat,Q108036024,Minister of Works and Housing,Q4772005,Anthony Anenih,2003-01-01,Nigeria,1
 Q2287087,Simeon Nyachae,Q109830367,Secretary for Energy and Petroleum,Q57657,Raila A Odinga,2002-12-30,Kenya,3
+Q16064803,Gian Carlo Venturini,Q3954370,Secretary for Labour and Cooperation,Q21589792,Fernando Bindi,2002-12-16,San Marino,2
 Q4358037,Moody Awori,Q111236236,Minister of Home Affairs,Q195725,William Ruto,2002-12-01,Kenya,2
 Q7699790,Tengku Adnan Tengku Mansor,Q24949267,Minister in the Prime Minister's Department,Q4343921,Pandikar Amin Mulia,2002-11-20,Malaysia,1
 Q386527,Mahamadou Danda,Q98879840,Minister of Finance of Niger,Q2097624,Ali Badjo Gamatié,2002-11-09,Niger,1
 Q333461,"John Reid, Baron Reid of Cardowan",Q61412205,Minister without Portfolio,Q333758,Charles Clarke,2002-10-24,United Kingdom,16
 Q5338079,Edilberto de Jesus,Q7444298,Secretary of Education,Q2184714,Raul Roco,2002-08-31,Philippines,0
+Q6004709,Immanuel Ngatjizeko,Q25434578,Minister of Trade and Industry,Q557014,Hidipo Hamutenya,2002-08-27,Namibia,1
 Q4751428,Anant Geete,Q108559711,Minister of Power,Q7645772,Suresh Prabhu,2002-08-25,India,5
 Q438185,Ana de Palacio y del Valle-Lersundi,Q26262159,Minister of Foreign Affairs and Cooperation of Spain,Q1366326,Josep Piqué i Camps,2002-07-10,Spain,5
 Q2089386,Javier Arenas Bocanegra,Q43157412,Minister of Public Administration,Q3109304,Jesús Posada,2002-07-10,Spain,5
@@ -913,6 +927,7 @@ Q1503005,Geoffrey Henry,Q5261076,Deputy Prime Minister of the Cook Islands,Q2640
 Q1699224,Roberto Requião,Q18176235,governor of Paraná,Q923927,Jaime Lerner,2002-01-01,Paraná,1
 Q6248686,John Michuki,Q109829814,Cabinet Secretary for Transport,Q1954003,Musalia Mudavadi,2002-01-01,Kenya,4
 Q7088860,Olusegun Mimiko,Q108036501,Minister of Power,Q7088858,Olusegun Agagu,2002-01-01,Nigeria,1
+Q4647834,A. H. M. Azwer,Q115792711,Minister of Parliamentary Affairs,Q6737124,Maithripala Sirisena,2001-12-07,Sri Lanka,1
 Q816805,Bendt Bendtsen,Q27990812,Minister for Economic Affairs,Q454615,Marianne Jelved,2001-11-27,Kingdom of Denmark,4
 Q5982140,Ian Macdonald,Q57278557,Minister for Forestry and Conservation,Q8023238,Wilson Tuckey,2001-11-26,Australia,1
 Q7356268,Rod Kemp,Q11796981,Minister for Sport,Q15525008,Jackie Kelly,2001-11-26,Australia,1
