@@ -114,6 +114,7 @@ Q1374371,Jaroslav Lobkowicz,spouse,Q75380416,Elizabeth de Vienne
 Q1380540,Matan Vilnai,father,Q2335167,Zev Vilnay
 Q1382032,Frank Mahovlich,sibling,Q432389,Peter Mahovlich
 Q1382799,Rik Daems,spouse,Q2020669,Sophie Pécriaux
+Q1396439,Giorgi Gabashvili,father,Q6322997,Konstantine Gabashvili
 Q1399049,Ignasi Guardans,father,Q11944599,Ramon Guardans i Vallès
 Q1399049,Ignasi Guardans,mother,Q11925350,Helena Cambó i Mallol
 Q1399049,Ignasi Guardans,relative,Q379354,Francesc Cambó
@@ -399,6 +400,11 @@ Q336208,"Alexander Scrymgeour, 12th Earl of Dundee",child,Q75350919,Lady Lavinia
 Q336208,"Alexander Scrymgeour, 12th Earl of Dundee",father,Q5728164,"Henry Scrymgeour-Wedderburn, 11th Earl of Dundee"
 Q336208,"Alexander Scrymgeour, 12th Earl of Dundee",mother,Q75253803,Patricia Montagu Douglas Scott
 Q336208,"Alexander Scrymgeour, 12th Earl of Dundee",spouse,Q75331329,Siobhan Mary Llewellyn
+Q336213,"Mark Malloch Brown, Baron Malloch-Brown",child,Q75915698,Maddison Jane Brown
+Q336213,"Mark Malloch Brown, Baron Malloch-Brown",child,Q75915699,Isabel Anne Brown
+Q336213,"Mark Malloch Brown, Baron Malloch-Brown",father,Q75915693,Robert George Malloch Brown
+Q336213,"Mark Malloch Brown, Baron Malloch-Brown",mother,Q75915690,Ursula Elspeth Pelly
+Q336213,"Mark Malloch Brown, Baron Malloch-Brown",spouse,Q75915696,Patricia Anne Cronam
 Q336408,"Angela Billingham, Baroness Billingham",child,Q61648995,Caroline Billingham
 Q336408,"Angela Billingham, Baroness Billingham",child,Q75439051,Zoë Billingham
 Q336408,"Angela Billingham, Baroness Billingham",father,Q75439048,Theodore Case
@@ -710,6 +716,7 @@ Q9031777,Meritxell Batet,spouse,Q5943076,José María Lassalle
 Q917179,Lars Barfoed,spouse,Q12316082,Helle Sjelle
 Q919981,Dolores Padierna,spouse,Q1881427,René Bejarano
 Q925136,Eduardo Ferro Rodrigues,child,Q10363031,Rita Ferro Rodrigues
+Q925136,Eduardo Ferro Rodrigues,father,Q115859603,Eduardo Alberto Ferro Rodrigues
 Q925136,Eduardo Ferro Rodrigues,spouse,Q111448806,Maria Filomena Lopes Peixoto de Aguilar
 Q9281496,Tomasz Cimoszewicz,father,Q55915,Włodzimierz Cimoszewicz
 Q9325008,Ryszard Terlecki,father,Q11797944,Olgierd Terlecki
