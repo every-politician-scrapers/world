@@ -1,8 +1,4 @@
 item,itemLabel,itemDescription,jurisdiction,jurisdictionLabel,began,ended,type
-Q115805051,40th Cabinet of Kuwait,,,,,,
-Q115821134,Third Andrews ministry,,,,,,
-Q115863744,Second Bhupendrabhai Patel Ministry,,,,,,cabinet
-Q115868530,Third Dahal cabinet,cabinet of Pushpa Kamal Dahal in Nepal,,,,,cabinet
 Q114821172,Smith Ministry,"Cabinet of Alberta, 2022–",Q1951,Alberta,2022-10-11,,cabinet
 Q113192473,Second government of Juan Manuel Moreno,,Q5783,Andalusia,2022-07-26,,cabinet
 Q112114760,Albanese ministry,Australian government ministry led by Anthony Albanese,Q408,Australia,2022-05-23,,cabinet
@@ -17,12 +13,14 @@ Q112042684,1st Borne government,43rd Government of the French Fifth Republic,Q14
 Q113836095,Government of Alfonso Rueda,,Q3908,Galicia,2022-05-16,,cabinet
 Q111962821,Second Pramod Sawant ministry,,Q1171,Goa,2022-03-28,,cabinet
 Q111486937,Second Egede cabinet,Current government of Greenland,Q223,Greenland,2022-04-05,,cabinet
+Q115863744,Second Bhupendrabhai Patel Ministry,,Q1061,Gujarat,2022-12-12,,cabinet
 Q112162088,Cabinet Rhein,"state government of Hesse, Germany",Q1199,Hesse,2022-05-31,,cabinet
 Q111475445,Fifth Orbán Government,cabinet of Hungary (2022–),Q28,Hungary,2022-05-24,,cabinet
 Q114796219,Meloni Cabinet,68th Cabinet of the Italian Republic,Q38,Italy,2022-10-22,,cabinet
 Q113484606,Achi II government,,Q1008,Ivory Coast,2022-04-20,,cabinet
 Q113462430,Second Kishida Cabinet (reshuffled),current cabinet of Japan,Q17,Japan,2022-08-10,,cabinet
 Q110534538,Smaiylov Cabinet,12th and current government of Kazakhstan,Q232,Kazakhstan,2022-01-11,,cabinet
+Q115805051,40th Cabinet of Kuwait,,Q817,Kuwait,2022-08-01,,cabinet
 Q114421484,41st Cabinet of Kuwait,,Q817,Kuwait,2022-10-05,,cabinet
 Q115349247,2nd Kariņš Cabinet,Government of Latvia,Q211,Latvia,2022-12-14,,cabinet
 Q114979509,Third Weil cabinet,state government of Lower Saxony,Q1197,Lower Saxony,2022-11-08,,cabinet
@@ -31,6 +29,7 @@ Q115301073,Anwar Ibrahim cabinet,"Cabinet of Malaysia, 2022–",Q833,Malaysia,20
 Q111439067,2nd Abela Cabinet,2022–2027 elected Maltese government,Q233,Malta,2022-03-30,,cabinet
 Q113115745,Second government of Mohamed Ould Bilal,government of Mauritania from 2022,Q1025,Mauritania,2022-04-01,,cabinet
 Q111759087,Abazović Cabinet,government of Montenegro,Q236,Montenegro,2022-04-28,,cabinet
+Q115868530,Third Dahal cabinet,cabinet of Pushpa Kamal Dahal in Nepal,Q837,Nepal,2022-12-26,,cabinet
 Q110111120,Fourth Rutte cabinet,"coalition in Dutch government, 2022",Q55,Netherlands,2022-01-10,,cabinet
 Q109037622,Mahamadou Cabinet,,Q1032,Niger,2021-04-07,,cabinet
 Q112675933,Second Wüst cabinet,state government of North Rhine-Westphalia,Q1198,North Rhine-Westphalia,2022-06-29,,cabinet
@@ -53,4 +52,5 @@ Q113731018,Truss ministry,government of the United Kingdom,Q145,United Kingdom,2
 Q114838778,Sunak ministry,government of the United Kingdom,Q145,United Kingdom,2022-10-25,,cabinet
 Q111387767,Second Yogi Adityanath ministry,Ministers in the Government of Uttar Pradesh headed by Chief Minister Yogi Adityanath,Q1498,Uttar Pradesh,2022-03-25,,cabinet
 Q111944177,Second Dhami ministry,,Q1499,Uttarakhand,2022-03-23,,cabinet
+Q115821134,Third Andrews ministry,,Q36687,Victoria,2022-12-05,,
 Q111519815,Presidential Leadership Council,yemen's executive body,Q805,Yemen,2022-04-07,,government
