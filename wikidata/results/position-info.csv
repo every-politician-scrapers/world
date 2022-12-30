@@ -1,0 +1,21 @@
+position,positionLabel,country,countryLabel,jurisdiction,jurisdictionLabel,inception,abolished,predecessor,predecessorLabel,successor,successorLabel,deputy,deputyLabel,list,listLabel
+Q81066,United Nations Secretary-General,,,,,1945-06-26,,,,,,Q3099742,Deputy Secretary-General of the United Nations,Q3254299,list of United Nations Secretary-Generals
+Q1161813,President of the United Nations General Assembly,,,,,1946-03-31,,,,,,,,,
+Q2472167,High Commissioner on National Minorities,,,Q81299,Organization for Security and Co-operation in Europe,1992-07-08,,,,,,,,,
+Q2932400,Under-Secretary-General of the United Nations,,,,,,,,,,,,,,
+Q3099742,Deputy Secretary-General of the United Nations,,,,,1997-01-01,,,,,,,,,
+Q5280514,Director-General of the World Trade Organization,,,,,,,Q5280510,Director-General of the General Agreement on Tariffs and Trade,,,,,Q11984436,Director-General of the World Trade Organization
+Q19926443,President of the International Court of Justice,,,,,,,,,,,Q94450525,Vice President of the International Court of Justice,,
+Q29885524,Member of the NATO Parliamentary Assembly,,,Q7184,North Atlantic Treaty Organization,,,,,,,,,,
+Q30277603,Member of the Pan-African Parliament,,,Q7159,African Union,,,,,,,,,,
+Q30771010,Judge of the International Court of Justice,,,,,,,,,,,,,Q728656,Judges of the International Court of Justice
+Q43083583,president of the Parliamentary Assembly of the Council of Europe,,,,,,,,,,,,,,
+Q65077634,President of the United Nations Economic and Social Council,,,,,1946-01-01,,,,,,,,,
+Q65494714,Representative of the Parliamentary Assembly of the Council of Europe,<noval>,<noval>,,,,,,,,,,,,
+Q65494724,Substitute member of the Parliamentary Assembly of the Council of Europe,<noval>,<noval>,,,,,,,,,,,,
+Q65494729,Observer of the Parliamentary Assembly of the Council of Europe,,,,,,,,,,,,,,
+Q65494735,Special Guest of the Parliamentary Assembly of the Council of Europe,<noval>,<noval>,,,,,,,,,,,,
+Q78476622,Speaker of the Arab Parliament,,,,,,,,,,,,,,
+Q94450525,Vice President of the International Court of Justice,,,,,,,,,,,,,,
+Q104523987,President of the Pan African Paliament,,,Q7159,African Union,,,,,,,,,,
+Q109321442,member of the Andean Parliament,,,,,,,,,,,,,,
