@@ -14,7 +14,7 @@ Q778,Bahamas,Q3086904,Fred Mitchell,,Foreign Minister of Bahamas,2021-09-20
 Q398,Bahrain,Q4666152,Abdullatif bin Rashid Al Zayani,,Foreign Minister of Bahrain,2020-02-11
 Q902,Bangladesh,Q26923392,AK Abdul Momen,,Foreign Minister of Bangladesh,2019-01-06
 Q244,Barbados,Q107718267,Kerrie D. Symmonds,,Foreign Minister of Barbados,2022-10-26
-Q184,Belarus,,Vacant,,Foreign Minister of Belarus,
+Q184,Belarus,Q2346880,Sergei Aleinik,,Foreign Minister of Belarus,2022-12-13
 Q31,Belgium,Q3125551,Hadja Lahbib,,Foreign Minister of Belgium,2022-07-15
 Q242,Belize,Q3046363,Eamon Courtenay,,Foreign Minister of Belize,2020-11-13
 Q962,Benin,Q16840908,Aurélien Agbénonci,,Foreign Minister of Benin,2016-04-06
@@ -22,7 +22,7 @@ Q917,Bhutan,Q58422562,Tandi Dorji,,Foreign Minister of Bhutan,2018-11-07
 Q750,Bolivia,Q102116482,Rogelio Mayta,,Foreign Minister of Bolivia,2020-11-09
 Q225,Bosnia and Herzegovina,Q4917286,Bisera Turković,,Foreign Minister of Bosnia and Herzegovina,2019-12-23
 Q963,Botswana,Q110210167,Lemogang Kwape,,Foreign Minister of Botswana,2020-08-26
-Q155,Brazil,Q106271551,Carlos Alberto França,,Foreign Minister of Brazil,2021-03-29
+Q155,Brazil,Q18708068,Mauro Vieira,,Foreign Minister of Brazil,2023-01-01
 Q921,Brunei,Q57327,Hassanal Bolkiah,,Foreign Minister of Brunei,2015-10-22
 Q921,Brunei,Q64605915,Erywan Yusof,,Foreign Minister of Brunei,2018-01-31
 Q219,Bulgaria,Q56122078,Nikolay Milkov,,Foreign Minister of Bulgaria,2022-08-18
@@ -35,7 +35,7 @@ Q1011,Cape Verde,Q7378692,Rui Alberto de Figueiredo Soares,,Foreign Minister of 
 Q929,Central African Republic,Q60680031,Sylvie Baïpo-Temon,,Foreign Minister of Central African Republic,2018-12-14
 Q657,Chad,Q19662475,Mahamat Zene Cherif,,Foreign Minister of Chad,2021-05-02
 Q298,Chile,Q75836988,Antonia Urrejola,,Foreign Minister of Chile,2022-03-11
-Q148,China,Q701801,Wang Yi,,Foreign Minister of China,2013-03-16
+Q148,China,Q7216297,Qin Gang,,Foreign Minister of China,2022-12-30
 Q739,Colombia,Q10395812,Álvaro Leyva,,Foreign Minister of Colombia,2022-08-07
 Q970,Comoros,Q113555299,Dhoihir Dhoulkamal,,Foreign Minister of Comoros,2020-09-28
 Q974,"Congo, Democratic Republic of the",Q5111780,Christophe Lutundula,,"Foreign Minister of Congo, Democratic Republic of the",2021-04-27
@@ -45,9 +45,9 @@ Q224,Croatia,Q46511044,Gordan Grlić-Radman,,Foreign Minister of Croatia,2019-07
 Q241,Cuba,Q58183,Bruno Rodríguez Parrilla,,Foreign Minister of Cuba,2009-03-02
 Q229,Cyprus,Q1671928,Ioannis Kasoulidis,,Foreign Minister of Cyprus,2021-01-11
 Q213,Czech Republic,Q42402111,Jan Lipavský,,Foreign Minister of Czech Republic,2021-12-17
-Q35,Denmark,Q1799046,Jeppe Kofod,,Foreign Minister of Denmark,2019-06-27
+Q35,Denmark,Q182397,Lars Løkke Rasmussen,,Foreign Minister of Denmark,2022-12-15
 Q977,Djibouti,Q58256,Mahamoud Ali Youssouf,,Foreign Minister of Djibouti,2005-05-22
-Q784,Dominica,Q59154066,Kenneth Darroux,,Foreign Minister of Dominica,2019-12-17
+Q784,Dominica,,Vince Henderson,,Foreign Minister of Dominica,2022-12-13
 Q786,Dominican Republic,Q98222557,Roberto Álvarez Gil,,Foreign Minister of Dominican Republic,2020-08-16
 Q736,Ecuador,,Juan Carlos Holguín,,Foreign Minister of Ecuador,2022-01-03
 Q79,Egypt,Q7409268,Sameh Shoukry,,Foreign Minister of Egypt,2014-06-17
@@ -79,8 +79,8 @@ Q668,India,Q16186720,S. Jaishankar,,Foreign Minister of India,2019-05-31
 Q252,Indonesia,Q18342668,Retno Marsudi,,Foreign Minister of Indonesia,2014-10-27
 Q794,Iran,Q17991320,Hossein Amir-Abdollahian,,Foreign Minister of Iran,2021-08-25
 Q796,Iraq,Q56704276,Fuad Hussein,,Foreign Minister of Iraq,2020-06-06
-Q27,Ireland,Q1670096,Simon Coveney,,Foreign Minister of Ireland,2017-06-14
-Q801,Israel,Q1396120,Yair Lapid,,Foreign Minister of Israel,2021-06-13
+Q27,Ireland,Q920403,Micheál Martin,,Foreign Minister of Ireland,2022-12-17
+Q801,Israel,Q19634024,Eli Cohen,,Foreign Minister of Israel,2022-12-29
 Q38,Italy,Q440710,Antonio Tajani,,Foreign Minister of Italy,2022-10-22
 Q1008,Ivory Coast,Q3192595,Kandia Camara,,Foreign Minister of Ivory Coast,2021-04-06
 Q766,Jamaica,Q28225536,Kamina Johnson-Smith,,Foreign Minister of Jamaica,2016-03-07
@@ -93,7 +93,7 @@ Q813,Kyrgyzstan,,Jeenbek Kulubaev,,Foreign Minister of Kyrgyzstan,2022-04-22
 Q819,Laos,Q25999464,Saleumxay Kommasith,,Foreign Minister of Laos,2016-04-19
 Q211,Latvia,Q3047551,Edgars Rinkēvičs,,Foreign Minister of Latvia,2011-10-25
 Q822,Lebanon,Q108504531,Abdallah Bou Habib,,Foreign Minister of Lebanon,2021-09-10
-Q1013,Lesotho,Q95587340,'Matšepo Ramakoae,,Foreign Minister of Lesotho,2020-05-21
+Q1013,Lesotho,,Mpotjoane Lejone,,Foreign Minister of Lesotho,2022-10-28
 Q1014,Liberia,,"Dee-Maxwell Saah Kemayah, Sr.",,Foreign Minister of Liberia,2020-10-06
 Q1016,Libya,Q105977287,Najla Mangoush,,Foreign Minister of Libya,2021-03-15
 Q347,Liechtenstein,Q30883975,Dominique Hasler,,Foreign Minister of Liechtenstein,2021-03-25
@@ -134,7 +134,7 @@ Q219060,Palestine,Q2895694,Riyad al-Maliki,,Foreign Minister of Palestine,2009-0
 Q804,Panama,,Érika Mouynes,,Foreign Minister of Panama,2020-12-02
 Q691,Papua New Guinea,Q85991458,Justin Tkatchenko,,Foreign Minister of Papua New Guinea,2022-08-23
 Q733,Paraguay,,Euclides Acevedo,,Foreign Minister of Paraguay,2021-01-25
-Q419,Peru,Q113456053,Miguel Rodríguez MacKay,,Foreign Minister of Peru,2022-08-05
+Q419,Peru,Q115662136,Ana Cecilia Gervasi,,Foreign Minister of Peru,2022-12-11
 Q928,Philippines,Q28925129,Enrique Manalo,,Foreign Minister of Philippines,2022-07-01
 Q36,Poland,Q9388252,Zbigniew Rau,,Foreign Minister of Poland,2020-08-26
 Q45,Portugal,Q57343622,João Gomes Cravinho,,Foreign Minister of Portugal,2022-03-30
@@ -184,7 +184,7 @@ Q145,United Kingdom,Q6131460,James Cleverly,,Foreign Minister of United Kingdom,
 Q30,United States,Q7821917,Antony Blinken,,Foreign Minister of United States,2021-01-26
 Q77,Uruguay,Q6436401,Francisco Bustillo,,Foreign Minister of Uruguay,2020-07-06
 Q265,Uzbekistan,Q365665,Vladimir Norov,,Foreign Minister of Uzbekistan,2022-04-27
-Q686,Vanuatu,,Mark Ati,,Foreign Minister of Vanuatu,2020-04-20
+Q686,Vanuatu,,Jotham Napat,,Foreign Minister of Vanuatu,2022-11-04
 Q717,Venezuela,,Carlos Faria,,Foreign Minister of Venezuela,2022-05-17
 Q881,Vietnam,Q30921853,Bùi Thanh Sơn,,Foreign Minister of Vietnam,2021-04-08
 Q805,Yemen,Q16119688,Ahmad Awad Bin Mubarak,,Foreign Minister of Yemen,2020-12-18
